@@ -1,0 +1,69 @@
+https://wqshop.jd.com/mshop/shopdraw?venderId=1000077203
+
+店铺抽奖：
+https://wq.jd.com/mjgj/column/ShopSignDraw?channel=2&venderId=1000077203&_=1552639476421&g_login_type=0&callback=jsonpCBKF&g_tk=737843175&g_ty=ls
+
+:authority: wq.jd.com
+:method: GET
+:path: /mjgj/column/ShopSignDraw?channel=2&venderId=1000077203&_=1552639476421&g_login_type=0&callback=jsonpCBKF&g_tk=737843175&g_ty=ls
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie:
+referer: https://wqshop.jd.com/mshop/shopdraw?venderId=1000077203
+user-agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+
+jsonpCBKF({
+	"errcode": 0,
+	"msg": "success",
+	"data": {
+		"pinStatus": "1",
+		"pinEnterType": "0",
+		"type": "0",
+		"code": "1",
+		"prizeData": {
+			
+		}
+	}
+});
+
+
+------------------------------------------------------
+https://shop.m.jd.com/mshop/shopdraw?venderId=1000093623
+
+https://wq.jd.com/mjgj/column/ShopSignDraw?channel=2&venderId=1000093623&_=1552639841221&sceneval=2&g_login_type=1&callback=jsonpCBKF&g_tk=737843175&g_ty=ls
+
+:authority: wq.jd.com
+:method: GET
+:path: /mjgj/column/ShopSignDraw?channel=2&venderId=1000093623&_=1552639841221&sceneval=2&g_login_type=1&callback=jsonpCBKF&g_tk=737843175&g_ty=ls
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie:
+referer: https://shop.m.jd.com/mshop/shopdraw?venderId=1000093623
+user-agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+
+
+jsonpCBKF({"errcode":0,"msg":"success","data":{"pinStatus":"1","pinEnterType":"0","type":"0","code":"1","prizeData":{}}});
+
+
+
+--------------------------------
+http://shop.m.jd.com/mshop/shopdraw?venderId=1000002804
+
+
+https://wq.jd.com/mjgj/column/ShopSignDraw?channel=2&venderId=1000002804&_=1552697626591&sceneval=2&g_login_type=1&callback=jsonpCBKF&g_tk=1000809115&g_ty=ls
+
+GET /mjgj/column/ShopSignDraw?channel=2&venderId=1000002804&_=1552697626591&sceneval=2&g_login_type=1&callback=jsonpCBKF&g_tk=1000809115&g_ty=ls HTTP/1.1
+Host: wq.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Accept: */*
+Referer: http://shop.m.jd.com/mshop/shopdraw?venderId=1000002804
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: 
+
+jsonpCBKF({"errcode":0,"msg":"success","data":{"pinStatus":"1","pinEnterType":"0","type":"0","code":"1","prizeData":{}}});

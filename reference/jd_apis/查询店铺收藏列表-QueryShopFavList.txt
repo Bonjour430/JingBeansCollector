@@ -1,0 +1,24 @@
+https://wq.jd.com/fav/shop/QueryShopFavList?cp=1&pageSize=10&lastlogintime=0&_=1551841528061&g_login_type=0&callback=jsonpCBKQ&g_tk=270919183&g_ty=ls
+
+GET /fav/shop/QueryShopFavList?cp=1&pageSize=10&lastlogintime=0&_=1551841528061&g_login_type=0&callback=jsonpCBKQ&g_tk=270919183&g_ty=ls HTTP/1.1
+Host: wq.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; CLT-AL00 Build/HUAWEICLT-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.83 Mobile Safari/537.36 T7/10.13 baiduboxapp/10.13.0.10 (Baidu; P1 8.1.0)
+Accept: */*
+Referer: https://wqs.jd.com/my/fav/shop_fav.shtml?cu=true&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1001385128_&utm_term=bf0a081740824ad1be16a380947bba30
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: 
+
+try{
+	jsonpCBKQ({
+		"iRet": "0",
+		"errMsg": "success",
+		"totalNum": "0",
+		"cp": "1",
+		"totalPage": "0",
+		"data": []
+	});
+}catch(e){
+	
+}

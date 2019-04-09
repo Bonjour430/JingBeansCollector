@@ -1,0 +1,87 @@
+https://wq.jd.com/fav_snsgift/QueryShopActive?venderId=773283&_=1552632083420&sceneval=2&g_login_type=1&callback=jsonpCBKC&g_tk=1336141994&g_ty=ls
+
+GET /fav_snsgift/QueryShopActive?venderId=773283&_=1552632083420&sceneval=2&g_login_type=1&callback=jsonpCBKC&g_tk=1336141994&g_ty=ls HTTP/1.1
+Host: wq.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Accept: */*
+Referer: https://shop.m.jd.com/?shopId=783177&utm_user=plusmember&ad_od=share&cu=true&cu=true&utm_source=weixin&utm_medium=weixin&utm_campaign=t_1000072672_17053_001&utm_term=542826616e704f1484b1baa1263e6e8e&logid=1552630440899.988071037&PTAG=17053.1.1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: 
+
+
+
+try{jsonpCBKC({
+   "errMsg" : "",
+   "fan" : 0,
+   "gift" : [
+      {
+         "activeId" : "1099573224702",
+         "endTime" : 0,
+         "favNum" : 0,
+         "favPin" : null,
+         "giftId" : "117634",
+         "giftLeftState" : 0,
+         "giftType" : 0,
+         "jingBean" : {
+            "sendCount" : 2
+         },
+         "shareToken" : "",
+         "state" : 1
+      }
+   ],
+   "helpFav" : 0,
+   "iRet" : "0"
+}
+);}catch(e){}
+
+
+https://wq.jd.com/fav_snsgift/addfavgiftshop?venderId=773283&shareToken=&_=1552632385487&sceneval=2&g_login_type=1&callback=jsonpCBKL&g_tk=1336141994&g_ty=ls
+
+
+:authority: wq.jd.com
+:method: GET
+:path: /fav_snsgift/addfavgiftshop?venderId=773283&shareToken=&_=1552632385487&sceneval=2&g_login_type=1&callback=jsonpCBKL&g_tk=1336141994&g_ty=ls
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie:
+referer: https://shop.m.jd.com/?shopId=783177
+user-agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+
+
+
+
+https://wq.jd.com/fav_snsgift/GiveShopGift?venderId=773283&activeId=1099573224702&giftId=117634&_=1552632386870&sceneval=2&g_login_type=1&callback=jsonpCBKN&g_tk=1336141994&g_ty=ls
+
+:authority: wq.jd.com
+:method: GET
+:path: /fav_snsgift/GiveShopGift?venderId=773283&activeId=1099573224702&giftId=117634&_=1552632386870&sceneval=2&g_login_type=1&callback=jsonpCBKN&g_tk=1336141994&g_ty=ls
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie:
+referer: https://shop.m.jd.com/?shopId=783177&utm_user=plusmember&ad_od=share&cu=true&cu=true&utm_source=weixin&utm_medium=weixin&utm_campaign=t_1000072672_17053_001&utm_term=542826616e704f1484b1baa1263e6e8e&logid=1552630440899.988071037&PTAG=17053.1.1
+user-agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+
+
+venderId: 773283
+activeId: 1099573224702
+giftId: 117634
+_: 1552632386870
+sceneval: 2
+g_login_type: 1
+callback: jsonpCBKN
+g_tk: 1336141994
+g_ty: ls
+
+try{jsonpCBKN({
+   "errMsg" : "success.",
+   "retCode" : 0
+}
+);}catch(e){}
+
+

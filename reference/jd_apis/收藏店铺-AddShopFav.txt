@@ -1,0 +1,3 @@
+https://wq.jd.com/fav/shop/AddShopFav?shopId=60855&_=1551842097508&g_login_type=0&callback=jsonpCBKG&g_tk=2096787263&g_ty=ls
+
+try{jsonpCBKG({"iRet":"0","errMsg":"success"});}catch(e){}

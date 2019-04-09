@@ -1,0 +1,113 @@
+https://wq.jd.com/mjgj/column/DrawShopGift?channel=7&venderId=1000133822&activityId=398240&_=1551838113815&sceneval=2&g_login_type=1&callback=jsonpCBKL&g_tk=270919183&g_ty=ls
+
+jsonpCBKL({
+	"errcode": 0,
+	"msg": "success"
+});
+
+
+
+
+----------------------------------
+
+jsonpCBKG({
+	"errcode": 0,
+	"msg": "success",
+	"shopgift": [{
+		"id": "0",
+		"venderId": "0",
+		"activityId": "0",
+		"prizeType": "0",
+		"discount": "0",
+		"quota": "0",
+		"modelNameList": [{
+			"code": "-2",
+			"desc": "全部用户"
+		}]
+	}],
+	"member": {
+		"venderId": "1000086770",
+		"isMember": "0"
+	},
+	"isvOrofficial": 2,
+	"isvActivityLink": "https://lzkj-isv.isvjcloud.com/wxShopGift/activity?activityId=f0039623edc04fe99e18d81b1e3647ab"
+});
+
+
+https://lzkj-isv.isvjcloud.com/wxShopGift/draw
+
+
+POST /wxShopGift/draw HTTP/1.1
+Host: lzkj-isv.isvjcloud.com
+Connection: keep-alive
+Content-Length: 101
+Accept: application/json
+Origin: https://lzkj-isv.isvjcloud.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: https://lzkj-isv.isvjcloud.com/wxShopGift/activity?activityId=f0039623edc04fe99e18d81b1e3647ab
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: JSESSIONID=2D86A955ADE9D2DAA99413FD1E2E482B; lz_wq_auth_token=FBE7AE26C52C69079C8118557135D8A6C6E08A14E6AFE24B93F43D7C10BDD534
+
+form data:
+activityId=f0039623edc04fe99e18d81b1e3647ab&buyerPin=chenbenqing530905787&hasFollow=false&accessType=
+
+{"result":false,"data":"000015","count":0,"errorMessage":"您的店铺礼包奖品已经发放，请您不要重复领取！"}
+
+--------------------------------------------------------
+jsonpCBKF({
+	"errcode": 0,
+	"msg": "success",
+	"shopgift": [{
+		"id": "0",
+		"venderId": "0",
+		"activityId": "0",
+		"prizeType": "0",
+		"discount": "0",
+		"quota": "0",
+		"modelNameList": [{
+			"code": "-2",
+			"desc": "全部用户"
+		}]
+	}],
+	"member": {
+		"venderId": "1000081681",
+		"isMember": "0"
+	},
+	"isvOrofficial": 2,
+	"isvActivityLink": "https://lzkj-isv.isvjcloud.com/wxShopGift/activity?activityId=8cf31931e88c43969200b2997579dbf0"
+});
+
+
+https://lzkj-isv.isvjcloud.com/wxShopGift/draw
+POST /wxShopGift/draw HTTP/1.1
+Host: lzkj-isv.isvjcloud.com
+Connection: keep-alive
+Content-Length: 100
+Accept: application/json
+Origin: https://lzkj-isv.isvjcloud.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: https://lzkj-isv.isvjcloud.com/wxShopGift/activity?activityId=8cf31931e88c43969200b2997579dbf0&wqType=xr&drawStatus=n&token=FBE7AE26C52C69079C8118557135D8A6E2FBE824CCD984EF18C6364534F148A3
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: route=7c6a7b7fb5dc20a3c74164bf3149e9ed; JSESSIONID=59FCDCDAD3EE5ADC7073AAB8CAD5323D
+
+form data:
+activityId=8cf31931e88c43969200b2997579dbf0&buyerPin=chenbenqing530905787&hasFollow=true&accessType=
+
+
+{
+	"result": false,
+	"data": "000015",
+	"count": 0,
+	"errorMessage": "您的店铺礼包奖品已经发放，请您不要重复领取！"
+}
+
+
+-------------------------------------------
+jsonpCBKG({"errcode":0,"msg":"success","shopgift":[{"id":"0","venderId":"0","activityId":"0","prizeType":"0","discount":"0","quota":"0","modelNameList":[{"code":"-3","desc":"未关注店铺用户"}]}],"member":{"venderId":"1000013169","isMember":"0"},"isvOrofficial":2,"isvActivityLink":"https://lzkj-isv.isvjcloud.com/wxShopGift/activity?activityId=ba787e3d63a346a7aaf75f8c3da4d220"});
+

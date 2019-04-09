@@ -1,0 +1,378 @@
+https://wq.jd.com/mjgj/column/QueryShopGiftList?venderId=654365&channel=7&_=1551836097463&sceneval=2&g_login_type=1&callback=jsonpCBKH&g_tk=270919183&g_ty=ls
+
+GET /mjgj/column/QueryShopGiftList?venderId=654365&channel=7&_=1551836097463&sceneval=2&g_login_type=1&callback=jsonpCBKH&g_tk=270919183&g_ty=ls HTTP/1.1
+Host: wq.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; CLT-AL00 Build/HUAWEICLT-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.83 Mobile Safari/537.36 T7/10.13 baiduboxapp/10.13.0.10 (Baidu; P1 8.1.0)
+Accept: */*
+Referer: https://shop.m.jd.com/?shopId=650065
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: shshshfpa=97a5cda0-7e69-b5b7-1f5e-3eb3e4d2734c-1551790596; __jdc=122270672; mba_muid=1551790596915971035745; 3AB9D23F7A4B3C9B=YQLXHNOXSHLZXXTUVSGWPRBDE6UF4I4CIBJZW33Q5CPCOKJYXMTPWKNILF2AJRUYFPNU4ONEI7D2I42X7LKX4AUNLY; shshshfpb=jUfga1K4OYpim91%2FHvPktBQ%3D%3D; TrackerID=kjkPnaVZp57ZbxFTTFmz5NM2_DtynaHqSzMJsqAEny2fHWW8GIL65aBSDg4oNC6EIb6UaOy01DdaMM2Fb0WnA6P61rIxyKC_IeoC579tD4sQnzMKizgj9786pS3248VWQO3i-SxPo5eJIpmuMVCYIA; pinId=DhKE8G3l-4eLfwNtpje9-jIt0Ryn8Rtl; pt_key=AAFcfnIOAED2me9_Guc8ETEkIXldK9nYTyVi9EMfVONzCVXxeg-TJQbpqZjJLaGR8Ek4UHdUu0MA1E1HhobBpKXjKKENaHMY; pt_pin=chenbenqing530905787; pt_token=o37meadp; pwdt_id=chenbenqing530905787; wxa_level=1; retina=0; webp=1; visitkey=43149411965891088; unpl=V2_ZzNtbUsDERZxXxRWeB5VUmIFQlgRA0UVIVtDUHwfVFZnBxoIclRCFX0UR1ZnGFgUZAIZWUVcRxJFCEJkexhdBWUKFl1BXnMlfQAoVDYZMgYJAF8QD2dAFUUIR2R7HVgFYQsTWUpQSxVxAEBUehtYA2IHIm1CUXMlKVYYCyxdAzVmMxNtQ2cIe3RFRlB%2fGVoNZgcaWkpXRx1zCEdWfx9ZAVcCIl4%3d; CCC_SE=ADC_pnJ9S60j9ltEqIvlFiBLBnmrj0OQ5aWa3DE9PASBlsCMHXoGQH0GRUkXvLXo%2fmqbVUjTpXfT2pA7hJ7scEgcLZbH4%2fBWZobdyHuMKcXmCFyzRxhegwss%2bl%2f1PuuqyPmqRporlqiZzc2K7sLr%2ffu%2fp5BqNW%2bg0ZsBXERTqwRuVo%2f25O6J8EB9P5jQGvdfYlREsIah6tDFmxxw8iUchjV0r8%2blTVZhoh2KXMuTGmwsojK92KXRNoBFdyMyhnqZ7iKNrefkQINXx705LrhoKLZR16BXn4NZT1llglByRwg1hdt500LUecGbzIYK5qYnPjN53VMi7PFd75KKqBfIXmAfDsi04DRRuGsCqIEzo6jDXbytFH1sDT7ZXK2FjXGbBodgoTQ3M980sFUW9cOU9LCiX3UbE0SS1owbOV5jTXs51j3LuTGYrVaaa4jwvuR08cPNzt4v0sDrrWwQEAQF5KvyxPM3L02Ffi9nUPMQBec%2fMa3XEO4k42U%2bLeLniV5p%2faYw; buy_uin=15267816432; jdpin=chenbenqing530905787; pin=chenbenqing530905787; wq_uin=15267816432; __jdv=122270672%7Ckong%7Ct_1001385128_%7Cjingfen%7C8ec25fc3268f47a4be71eb45679b159d%7C1551790617130; PPRD_P=UUID.1551790596915971035745; sc_width=1536; shshshfp=124bcdb8682cbc0022a9f427e1ad538b; __jda=122270672.1551790596915971035745.1551790596.1551790616.1551833728.3; wq_area=18_1482_0%7C1; wq_skey=zm0369108C0EA8AC176AC2C06D631EBC4805E6C31328A12D71A456B55C1A413031861442E67B0706F4A68386A4767CA68D513B7A5EDBB783F7B9093E462AE92A68F0FB664459602DCD2E139CD1601B7B30216DB8C867491566BCB76BCE365D3C9A; __jdb=122270672.5.1551790596915971035745|3.1551833728; mba_sid=15518337281493840959056981772.5; __wga=1551835334172.1551833728331.1551790617123.1551790617123.5.2; shshshsID=c5fc53e7624d74fe1dcdea994b967220_5_1551835334456; cid=9
+
+jsonpCBKH({
+	"errcode": 0,
+	"msg": "success",
+	"shopgift": [{
+		"id": "0",
+		"venderId": "654365",
+		"activityId": "409921",
+		"prizeType": "4",
+		"discount": "5",
+		"quota": "0",
+		"modelNameList": [{
+			"code": "-3",
+			"desc": "未关注店铺用户"
+		}]
+	}],
+	"member": {
+		"venderId": "654365",
+		"isMember": "0"
+	},
+	"isvOrofficial": 1,
+	"isvActivityLink": ""
+});
+
+----领礼物后：---------------
+jsonpCBKH({
+	"errcode": 402,
+	"msg": "no prize",
+	"shopgift": [],
+	"member": {
+		"venderId": "654365",
+		"isMember": "0"
+	},
+	"isvOrofficial": 0,
+	"isvActivityLink": ""
+});
+
+------------------------------------------
+jsonpCBKG({
+	"errcode": 0,
+	"msg": "success",
+	"shopgift": [{
+		"id": "0",
+		"venderId": "1000133822",
+		"activityId": "398240",
+		"prizeType": "4",
+		"discount": "5",
+		"quota": "0",
+		"modelNameList": [{
+			"code": "-3",
+			"desc": "未关注店铺用户"
+		}]
+	}],
+	"member": {
+		"venderId": "1000133822",
+		"isMember": "0"
+	},
+	"isvOrofficial": 1,
+	"isvActivityLink": ""
+});
+
+----------------------------------------------
+prizeType:1 店铺东券，4 京豆，6 店铺积分
+jsonpCBKG({
+	"errcode": 0,
+	"msg": "success",
+	"shopgift": [{
+		"id": "0",
+		"venderId": "681974",
+		"activityId": "412385",
+		"prizeType": "6",
+		"discount": "50",
+		"quota": "0",
+		"modelNameList": [{
+			"code": "-2",
+			"desc": "全部用户"
+		}]
+	},
+	{
+		"id": "0",
+		"venderId": "681974",
+		"activityId": "412385",
+		"prizeType": "1",
+		"discount": "3",
+		"quota": "10",
+		"modelNameList": [{
+			"code": "-2",
+			"desc": "全部用户"
+		}]
+	}],
+	"member": {
+		"venderId": "681974",
+		"isMember": "0"
+	},
+	"isvOrofficial": 1,
+	"isvActivityLink": ""
+});
+
+
+jsonpCBKF({
+	"errcode": 0,
+	"msg": "success",
+	"shopgift": [{
+		"id": "0",
+		"venderId": "202555",
+		"activityId": "423287",
+		"prizeType": "4",
+		"discount": "1",
+		"quota": "0",
+		"modelNameList": [{
+			"code": "-2",
+			"desc": "全部用户"
+		}]
+	},
+	{
+		"id": "0",
+		"venderId": "202555",
+		"activityId": "423287",
+		"prizeType": "1",
+		"discount": "15",
+		"quota": "200",
+		"modelNameList": [{
+			"code": "-2",
+			"desc": "全部用户"
+		}]
+	}],
+	"member": {
+		"venderId": "202555",
+		"isMember": "0"
+	},
+	"isvOrofficial": 1,
+	"isvActivityLink": ""
+});
+
+
+jsonpCBKH({
+	"errcode": 0,
+	"msg": "success",
+	"shopgift": [{
+		"id": "0",
+		"venderId": "71768",
+		"activityId": "422079",
+		"prizeType": "1",
+		"discount": "5",
+		"quota": "10",
+		"modelNameList": [{
+			"code": "-3",
+			"desc": "未关注店铺用户"
+		}]
+	},
+	{
+		"id": "0",
+		"venderId": "71768",
+		"activityId": "422079",
+		"prizeType": "4",
+		"discount": "2",
+		"quota": "0",
+		"modelNameList": [{
+			"code": "-3",
+			"desc": "未关注店铺用户"
+		}]
+	},
+	{
+		"id": "0",
+		"venderId": "71768",
+		"activityId": "422079",
+		"prizeType": "6",
+		"discount": "1000",
+		"quota": "0",
+		"modelNameList": [{
+			"code": "-3",
+			"desc": "未关注店铺用户"
+		}]
+	}],
+	"member": {
+		"venderId": "71768",
+		"isMember": "0"
+	},
+	"isvOrofficial": 1,
+	"isvActivityLink": ""
+});
+
+
+
+https://wq.jd.com/mjgj/column/QueryShopGiftList?venderId=1000133822&channel=7&_=1552896479484&sceneval=2&g_login_type=1&callback=jsonpCBKF&g_tk=422844102&g_ty=ls
+
+jsonpCBKF({
+	"errcode": 0,
+	"msg": "success",
+	"shopgift": [{
+		"id": "0",
+		"venderId": "0",
+		"activityId": "0",
+		"prizeType": "0",
+		"discount": "0",
+		"quota": "0",
+		"modelNameList": [{
+			"code": "-3",
+			"desc": "未关注店铺用户"
+		}]
+	}],
+	"member": {
+		"venderId": "1000133822",
+		"isMember": "0"
+	},
+	"isvOrofficial": 2,
+	"isvActivityLink": "https://gzsl-isv.isvjcloud.com/wuxian/mobileForApp/dist/views/pages/shopGiftBag.html?activityType=DPHB_2&activityId=1000133822"
+});
+
+
+
+https://gzsl-isv.isvjcloud.com/wuxian/user/getShopGiftPrize/418595?wxToken=0210615E34C60A6DE5F3FC8CD6714407CDE500B7754107602EE4F24386ED6984
+
+POST /wuxian/user/getShopGiftPrize/418595?wxToken=0210615E34C60A6DE5F3FC8CD6714407CDE500B7754107602EE4F24386ED6984 HTTP/1.1
+Host: gzsl-isv.isvjcloud.com
+Connection: keep-alive
+Content-Length: 98
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: https://gzsl-isv.isvjcloud.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Referer: https://gzsl-isv.isvjcloud.com/wuxian/mobileForApp/dist/views/pages/shopGiftBag.html?activityType=DPHB_2_1000133822&token=0210615E34C60A6DE5F3FC8CD6714407CDE500B7754107602EE4F24386ED6984
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: jm_pin="JSwojjgR2shUz8fzqtwwlnVTQN2x94C8s8DHAQ81pIY="; isJump=no; pin=chenbenqing530905787; jm_nickname=jd4cbq; JSESSIONID=C064758AE5E3C7AD3B7CFB5E102A435D
+
+
+payload:
+{"activityId":418595,"wxToken":"0210615E34C60A6DE5F3FC8CD6714407CDE500B7754107602EE4F24386ED6984"}
+
+
+{
+	"activity": {
+		"id": 418595,
+		"classId": 46,
+		"venderId": 1000133822,
+		"name": "03月11日22礼包",
+		"title": "丽固关注有礼",
+		"chosePeople": "-3",
+		"buttonText": "我收下了",
+		"imgUrl": null,
+		"detail": null,
+		"startTime": 1552314600000,
+		"endTime": 1553609460000,
+		"rule": "https://gzsl-isv.isvjcloud.com/wuxian/mobileForApp/dist/views/pages/shopGiftBag.html?activityType=DPHB_2&activityId=1000133822",
+		"status": "0",
+		"shopId": 1000133822,
+		"createTime": 1552313470000,
+		"shopType": "1",
+		"autoClose": "1",
+		"prizes": [{
+			"id": 3422,
+			"activityId": 418595,
+			"venderId": 1000133822,
+			"name": "礼包奖品",
+			"imgUrl": null,
+			"totalNum": 10000,
+			"unit": "100",
+			"leftNum": 5640,
+			"source": "0",
+			"type": "0",
+			"prizeWinId": null,
+			"detail": null,
+			"sortNum": 1,
+			"createTime": 1552313470000,
+			"quota": null,
+			"discount": null,
+			"beginTime": null,
+			"endTime": null,
+			"budgetNum": null,
+			"validDays": null
+		},
+		{
+			"id": 3423,
+			"activityId": 418595,
+			"venderId": 1000133822,
+			"name": "礼包奖品",
+			"imgUrl": null,
+			"totalNum": 5000,
+			"unit": "2",
+			"leftNum": 640,
+			"source": "1",
+			"type": "0",
+			"prizeWinId": "495688",
+			"detail": null,
+			"sortNum": 2,
+			"createTime": 1552313470000,
+			"quota": null,
+			"discount": null,
+			"beginTime": null,
+			"endTime": null,
+			"budgetNum": 10000,
+			"validDays": null
+		}]
+	},
+	"data": "领取成功",
+	"sendData": {
+		"success": true,
+		"couponUrl": null,
+		"couponUrlList": []
+	},
+	"status": "1"
+}
+
+{"status":"-2","msg":"该用户已领取该礼包，不能重复领取"}
+
+
+
+https://lzkj-isv.isvjcloud.com/wxShopGift/activity?activityId=8aee90f2ea194a23922af9fb8bb70a4b
+
+
+POST /wxDrawActivity/getMyPing HTTP/1.1
+Host: lzkj-isv.isvjcloud.com
+Connection: keep-alive
+Content-Length: 104
+Accept: application/json
+Origin: https://lzkj-isv.isvjcloud.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: https://lzkj-isv.isvjcloud.com/wxShopGift/activity?activityId=8aee90f2ea194a23922af9fb8bb70a4b
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: __jda=60969652.1552973626833501002944.1552973626.1552973626.1552973626.1; __jdv=60969652|direct|-|none|-|1552973626835; mba_muid=1552973626833501002944; JSESSIONID=211C80DF2EE86B45C3633055F85474AF; route=0d12c2711f52e0216551c4a599718182; lz_wq_auth_token=97C8DCEE03918FB4008E9262B8E68522F6D2242277A87C7D1535F0C5B65BDF95
+
+
+userId=1000013741&token=97C8DCEE03918FB4008E9262B8E68522F6D2242277A87C7D1535F0C5B65BDF95&fromType=WeChat
+
+
+
+https://lzkj-isv.isvjcloud.com/wxShopGift/activityContent
+
+POST /wxShopGift/activityContent HTTP/1.1
+Host: lzkj-isv.isvjcloud.com
+Connection: keep-alive
+Content-Length: 73
+Accept: application/json
+Origin: https://lzkj-isv.isvjcloud.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: https://lzkj-isv.isvjcloud.com/wxShopGift/activity?activityId=8aee90f2ea194a23922af9fb8bb70a4b
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: __jda=60969652.1552973626833501002944.1552973626.1552973626.1552973626.1; __jdv=60969652|direct|-|none|-|1552973626835; mba_muid=1552973626833501002944; JSESSIONID=211C80DF2EE86B45C3633055F85474AF; route=0d12c2711f52e0216551c4a599718182; lz_wq_auth_token=97C8DCEE03918FB4008E9262B8E68522F6D2242277A87C7D1535F0C5B65BDF95
+
+activityId=8aee90f2ea194a23922af9fb8bb70a4b&buyerPin=chenbenqing530905787
+
+{
+	"result": true,
+	"data": {
+		"id": "8aee90f2ea194a23922af9fb8bb70a4b",
+		"userId": 1000013741,
+		"venderType": 1,
+		"endTime": 1553824800000,
+		"list": [{
+			"type": "jd",
+			"takeNum": 2,
+			"discount": "",
+			"quota": ""
+		}],
+		"hasFollow": false
+	},
+	"count": 0,
+	"errorMessage": ""
+}

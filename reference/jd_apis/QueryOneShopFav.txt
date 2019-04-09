@@ -1,0 +1,15 @@
+
+https://wq.jd.com/fav/shop/QueryOneShopFav?shopId=1000000557&venderId=1000000557&_=1552036665163&sceneval=2&g_login_type=1&callback=jsonpCBKE&g_ty=ls
+
+GET /fav/shop/QueryOneShopFav?shopId=751791&venderId=755989&_=1552444345095&sceneval=2&g_login_type=1&callback=jsonpCBKE&g_tk=1245070929&g_ty=ls HTTP/1.1
+Host: wq.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Accept: */*
+Referer: http://shop.m.jd.com/?shopId=751791&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1001385128_&utm_term=992b1f99df0f41d99448a8a516f65dbc
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+
+try{jsonpCBKF({"iRet":"0","errMsg":"","state":"0"});}catch(e){}

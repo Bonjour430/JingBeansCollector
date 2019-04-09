@@ -1,0 +1,50 @@
+
+
+https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activity?activityId=00f6a2c914f5409783266ff898064d64&adsource=tg_xuanFuTuBiao&lng=121.60216&lat=31.199683&un_area=2_2824_51921_0&sid=a79beb92f0115b7c251909babd58af0w&ShareTm=kCXrH54eIBtUIw6OJ69vaFjteNhd0L0nUyL0NKU7%2BJLr8V7ZRtWj8kQvJacUby3RAFJ8w5kxaozYKrQwpKBrLGvIZn3cIsizHncz%2FLDzDK6FMXqrmU2gpKik2yVYHJJf48JoZQhS%2BMcS0jRET%2FjxezVmYSbT9AJTY%2B8TJoIF1Wk%3D&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends&from=groupmessage
+
+
+
+https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/follow
+
+POST /wxShopFollowActivity/follow HTTP/1.1
+Host: lzkj-isv.isvjcloud.com
+Connection: keep-alive
+Content-Length: 68
+Accept: application/json
+Origin: https://lzkj-isv.isvjcloud.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activity?activityId=00f6a2c914f5409783266ff898064d64&adsource=tg_xuanFuTuBiao&lng=121.60216&lat=31.199683&un_area=2_2824_51921_0&sid=a79beb92f0115b7c251909babd58af0w&ShareTm=kCXrH54eIBtUIw6OJ69vaFjteNhd0L0nUyL0NKU7%2BJLr8V7ZRtWj8kQvJacUby3RAFJ8w5kxaozYKrQwpKBrLGvIZn3cIsizHncz%2FLDzDK6FMXqrmU2gpKik2yVYHJJf48JoZQhS%2BMcS0jRET%2FjxezVmYSbT9AJTY%2B8TJoIF1Wk%3D&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends&from=groupmessage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+
+activityId=00f6a2c914f5409783266ff898064d64&pin=chenbenqing530905787
+
+
+{"result":true,"data":"","count":0,"errorMessage":""}
+
+
+https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/getPrize
+
+POST /wxShopFollowActivity/getPrize HTTP/1.1
+Host: lzkj-isv.isvjcloud.com
+Connection: keep-alive
+Content-Length: 68
+Accept: application/json
+Origin: https://lzkj-isv.isvjcloud.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activity?activityId=00f6a2c914f5409783266ff898064d64&adsource=tg_xuanFuTuBiao&lng=121.60216&lat=31.199683&un_area=2_2824_51921_0&sid=a79beb92f0115b7c251909babd58af0w&ShareTm=kCXrH54eIBtUIw6OJ69vaFjteNhd0L0nUyL0NKU7%2BJLr8V7ZRtWj8kQvJacUby3RAFJ8w5kxaozYKrQwpKBrLGvIZn3cIsizHncz%2FLDzDK6FMXqrmU2gpKik2yVYHJJf48JoZQhS%2BMcS0jRET%2FjxezVmYSbT9AJTY%2B8TJoIF1Wk%3D&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends&from=groupmessage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+
+activityId=00f6a2c914f5409783266ff898064d64&pin=chenbenqing530905787
+
+{"result":true,"data":{"id":0,"drawOk":false,"url":null,"canDrawTimes":0,"drawInfoType":0,"denominations":null,"name":null,"value":null,"drawInfo":null,"recordId":0,"addressId":null,"position":0,"needWriteAddress":null,"itemId":null,"errorMessage":null},"count":0,"errorMessage":""}
+

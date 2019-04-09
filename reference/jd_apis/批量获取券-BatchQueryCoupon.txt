@@ -1,0 +1,30 @@
+https://wq.jd.com/mshop/BatchQueryCoupon?venderId=1000001462%2C59976%2C1000001901%2C1000001195%2C1000013061%2C116818%2C1000001335%2C1000084824%2C76427%2C1000001465&_=1553844707658&g_login_type=0&callback=jsonpCBKG&g_tk=953992284&g_ty=ls
+
+
+GET /mshop/BatchQueryCoupon?venderId=1000001462%2C59976%2C1000001901%2C1000001195%2C1000013061%2C116818%2C1000001335%2C1000084824%2C76427%2C1000001465&_=1553844707658&g_login_type=0&callback=jsonpCBKG&g_tk=953992284&g_ty=ls HTTP/1.1
+Host: wq.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; CLT-AL00 Build/HUAWEICLT-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.83 Mobile Safari/537.36 T7/10.13 baiduboxapp/10.13.0.10 (Baidu; P1 8.1.0)
+Accept: */*
+Referer: https://wqs.jd.com/my/fav/shop_fav.shtml
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: 
+
+
+venderId: 1000001462,59976,1000001901,1000001195,1000013061,116818,1000001335,1000084824,76427,1000001465
+_: 1553844707658
+g_login_type: 0
+callback: jsonpCBKG
+g_tk: 953992284
+g_ty: ls
+
+
+try{jsonpCBKG({"errcode":0,"msg":"SUCCESS.","data":[{"venderId":"1000001462","couponInfo":[]},{"venderId":"59976","couponInfo":[]},{"venderId":"1000001901","couponInfo":[]},{"venderId":"1000001195","couponInfo":[]},{"venderId":"1000013061","couponInfo":[]},{"venderId":"116818","couponInfo":[]},{"venderId":"1000001335","couponInfo":[]},{"venderId":"1000084824","couponInfo":[]},{"venderId":"76427","couponInfo":[{"key":"6b69bb1ecf6f4ceb9e733a640a1fc0e9","num":"300000","rfId":"101420115","quota":"139","name":"139-10（24-29）","bindType":"2","roleId":"18330019","couponId":"125646735","sendNum":"7206","discount":"10","beginTime":"2019-03-24 00:00:00","endTime":"2019-03-29 23:59:00","takeBeginTime":"1553335200000","takeEndTime":"1553875080000","style":"1","maxDiscount":"10","couponStair":[]},{"key":"d0833f729c3f4bdab0756f228f2bf1de","num":"300000","rfId":"101503559","quota":"199","name":"199-20","bindType":"2","roleId":"18330017","couponId":"125644779","sendNum":"6461","discount":"20","beginTime":"2019-03-24 00:00:00","endTime":"2019-03-29 23:59:00","takeBeginTime":"1553335200000","takeEndTime":"1553875080000","style":"1","maxDiscount":"20","couponStair":[]}]},{"venderId":"1000001465","couponInfo":[]}]});}catch(e){}
+
+
+
+try{jsonpCBKG({"errcode":0,"msg":"SUCCESS.","data":[{"venderId":"1000002487","couponInfo":[]},{"venderId":"1000016941","couponInfo":[]},{"venderId":"1000001395","couponInfo":[]},{"venderId":"1000001462","couponInfo":[]},{"venderId":"59976","couponInfo":[]},{"venderId":"1000001901","couponInfo":[]},{"venderId":"1000001195","couponInfo":[]},{"venderId":"1000013061","couponInfo":[]},{"venderId":"116818","couponInfo":[]},{"venderId":"1000001335","couponInfo":[]}]});}catch(e){}
+
+
+try{jsonpCBKG({"errcode":0,"msg":"SUCCESS.","data":[{"venderId":"1000088181","couponInfo":[]},{"venderId":"666889","couponInfo":[]},{"venderId":"59976","couponInfo":[]},{"venderId":"1000001335","couponInfo":[]},{"venderId":"76427","couponInfo":[{"key":"6b69bb1ecf6f4ceb9e733a640a1fc0e9","num":"300000","rfId":"101420115","quota":"139","name":"139-10（24-29）","bindType":"2","roleId":"18330019","couponId":"125646735","sendNum":"7222","discount":"10","beginTime":"2019-03-24 00:00:00","endTime":"2019-03-29 23:59:00","takeBeginTime":"1553335200000","takeEndTime":"1553875080000","style":"1","maxDiscount":"10","couponStair":[]},{"key":"d0833f729c3f4bdab0756f228f2bf1de","num":"300000","rfId":"101503559","quota":"199","name":"199-20","bindType":"2","roleId":"18330017","couponId":"125644779","sendNum":"6476","discount":"20","beginTime":"2019-03-24 00:00:00","endTime":"2019-03-29 23:59:00","takeBeginTime":"1553335200000","takeEndTime":"1553875080000","style":"1","maxDiscount":"20","couponStair":[]}]},{"venderId":"1000001465","couponInfo":[]},{"venderId":"47443","couponInfo":[{"key":"bd257a65e49940fe8dc653dce10a8fd5","num":"500000","rfId":"95845711","quota":"1999","name":"日常券1999-100","bindType":"1","roleId":"17540848","couponId":"124285082","sendNum":"9996","discount":"100","beginTime":"2019-02-15 00:00:00","endTime":"2019-05-15 23:59:00","takeBeginTime":"1550192940000","takeEndTime":"1557935940000","style":"1","maxDiscount":"100","couponStair":[]},{"key":"1e7d4dedf5884d10a73c7412c2094ba5","num":"500000","rfId":"95710439","quota":"699","name":"日常券699-30","bindType":"1","roleId":"17540731","couponId":"124282324","sendNum":"13332","discount":"30","beginTime":"2019-02-15 00:00:00","endTime":"2019-05-15 23:59:00","takeBeginTime":"1549937220000","takeEndTime":"1557886080000","style":"1","maxDiscount":"30","couponStair":[]},{"key":"ac26c8e32071473894d9e93866fceb03","num":"500000","rfId":"95853487","quota":"399","name":"日常券399-10","bindType":"1","roleId":"17540599","couponId":"124279595","sendNum":"10655","discount":"10","beginTime":"2019-02-15 00:00:00","endTime":"2019-05-15 23:59:00","takeBeginTime":"1550192520000","takeEndTime":"1557935940000","style":"1","maxDiscount":"10","couponStair":[]}]},{"venderId":"1000015268","couponInfo":[]}]});}catch(e){}

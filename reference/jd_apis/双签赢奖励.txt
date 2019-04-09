@@ -1,0 +1,85 @@
+双签
+
+https://m.jr.jd.com/integrate/signin/index.html
+
+https://ms.jr.jd.com/gw/generic/jrm/h5/m/signInit?_=1553672675570
+
+POST /gw/generic/jrm/h5/m/signInit?_=1553672675570 HTTP/1.1
+Host: ms.jr.jd.com
+Connection: keep-alive
+Content-Length: 35
+Accept: application/json
+Origin: https://m.jr.jd.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Referer: https://m.jr.jd.com/integrate/signin/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+form data:
+reqData: {"source":""}
+
+
+{
+	"resultCode": 0,
+	"resultMsg": "操作成功",
+	"resultData": {
+		"resultMsg": "响应成功",
+		"teamInfo": {
+			"memberLimitFlag": 1,
+			"totalBeans": 0,
+			"totalTimes": 0,
+			"teamState": 2,
+			"teamUuid": "aepmpvpnkgsmwon65s4rtcjpqbzvuvthitwgyvfzaa7egqfsnaoq"
+		},
+		"resultCode": 200,
+		"isGet": true,
+		"isSignInJr": true,
+		"isSignInJd": true,
+		"isNewUser": {
+			"resultCode": 200,
+			"resultMsg": "响应成功",
+			"isNewUser": "no"
+		}
+	},
+	"channelEncrypt": 0
+}
+
+
+
+https://ms.jr.jd.com/gw/generic/jrm/h5/m/getAwardList?_=1553673147012
+
+POST /gw/generic/jrm/h5/m/getAwardList?_=1553673147012 HTTP/1.1
+Host: ms.jr.jd.com
+Connection: keep-alive
+Content-Length: 14
+Accept: application/json
+Origin: https://m.jr.jd.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Referer: https://m.jr.jd.com/integrate/signin/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+form data:
+reqData: {}
+
+{
+	"resultCode": 0,
+	"resultMsg": "操作成功",
+	"resultData": {
+		"resultCode": 200,
+		"resultMsg": "响应成功",
+		"awardList": [{
+			"count": 5,
+			"name": "京豆",
+			"type": 1,
+			"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactJDBeansDiscount\",\"appname\":\"JDReactJDBeansDiscount\"}"
+		}]
+	},
+	"channelEncrypt": 0
+}
+
+

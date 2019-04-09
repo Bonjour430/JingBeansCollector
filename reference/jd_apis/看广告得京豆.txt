@@ -1,0 +1,289 @@
+https://m.jr.jd.com/btyingxiao/advertMoney/html/collar.html
+
+https://ms.jr.jd.com/gw/generic/jrm/h5/m/canGetGb
+
+POST /gw/generic/jrm/h5/m/canGetGb HTTP/1.1
+Host: ms.jr.jd.com
+Connection: keep-alive
+Content-Length: 128
+Accept: */*
+Origin: https://m.jr.jd.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Referer: https://m.jr.jd.com/btyingxiao/advertMoney/html/collar.html?iframeSrc=https%3A%2F%2Fccc-x.jd.com%2Fdsp%2Fnc%3Fext%3DaHR0cDovL3JlLm0uamQuY29tL2l0ZW0vMjAzMzk5NzQxOTguaHRtbD9yZV9kY3A9NF85ZXpWcDBWb2t1U1RIRHhnbE01SDJlQWJUYVdhMzdqeFg2czFxbXRUMFJjUjhYODdMdWV5MFR3YlFuYkJqQTNiQWlFVUUtbkNMOEhycWhOb1hRWWZOdGVsYjFJN1VnSXlyQkV3aGphUDBoNXBVNnJiQ1N5RzJ0ZldxWkIxU3Z0YjNmYlNtRjgwSF9oclM2S1dZNEZOS3VqZ0l6TkJydzNXX2xtZHkzbVl4d0NQV2lXV3VNUWZHZzQ0ZVppbmxyNDhsenFpNnE0Zk03NFdncWlUcDV0cDE0ZXRzS1FzT1QwQjBvdklRNXNVb1RZbkJEcTBmLWdlaFdScDJTZVRaLWRaQjBBQi02V2hVJTNEJnR5cGU9MQ%26log%3D0AVESKz4pwDkDsdr5j9u2SVgzKcX_ijkI3BoBo953LtElTNERR5qsSXP0WzUPielbIsrUwv5G3pYXyEX-hOlO1fx5X4ReQn6aTZibX3P5jlnpNYGX51Mbtw1fNz6NNVot6-crDmL5ULihguFdnrTO0oXqDGYU7l-7ak3UbOx-4gv4Ow0Vp0Yw5fO0O795C95FGfdCLZ0VLsTolc1lVYF4AZEHA5_KkOIzwNl1UDO-6EPiRmaa_t_7oy_e2XeDQHup4FbSIqgSzAdSK6AP05xUsZRmM-yhmdVuE3X3aSVh4IyWsyKRPquSM-Y_-tavKr4cJ1YeY6Z48_P2YNtFqDLAuO60hFTN5xWCPTM5Y4wxER9_EASaw35EuqOgW1jb7OfN8QZbrebTfblz2K_D3p4C_GQPsnb_Gf7eDeAlPptHXHOa4VIL12Q2DOrZbZ4r8rj%26v%3D404&adId=-1042849196&utm_source=Android*url*1548761581361&utm_medium=jrappshare&utm_term=wxfriends&from=groupmessage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+reqData: {"clientType":"sms","actKey":"176696","userDeviceInfo":{"adId":-1042849196}}
+
+
+{"resultCode":0,"resultMsg":"操作成功","resultData":{"data":{"volumn":"0","gbAmount":"137"},"canGetGb":true,"code":"1000","issuccess":"1","actKey":"176696","msg":"查询成功"},"channelEncrypt":0}
+
+reqData: {"clientType":"sms","actKey":"176696","userDeviceInfo":{"adId":-1910831221}}
+
+{"resultCode":0,"resultMsg":"操作成功","resultData":{"data":{"volumn":"0","gbAmount":"142"},"canGetGb":true,"code":"1000","issuccess":"1","actKey":"176696","msg":"查询成功"},"channelEncrypt":0}
+
+
+https://m.jr.jd.com/btyingxiao/advertMoney/html/collar.html?iframeSrc=https%3A%2F%2Fccc-x.jd.com%2Fdsp%2Fnc%3Fext%3DaHR0cDovL2l0ZW0ubS5qZC5jb20vcHJvZHVjdC8yMjAwMzQzLmh0bWw%26log%3DH3J1f0wVj0F4NcR9dEtzqmofnupZW21KCXtQ5gB--S9d4nkxuJciH4dHE6qetX9R2rgjtFEz-iS7Thyo84M1gqBZDNnY36zpyLcKL0YEoKW3hj8oyUFTqqtFmOKUIW-BXb-k9VOoZfvT0oIn4X3mZaafcfkZ3S3eqX4jzwgtrBPy1mLi5L88K3UCwjZaOM4ytY6iz5SQXPZq0NSM72_ybWC2sKvMd0znu-PPRi3liqrxpzoomVdFxCQtFApiMsgXxlrLAH-Dd3oGc0M64qMkwSmCGInxsJzz7wxNJbh7ow0QO1iHQYxoYajaLVkZjBV6EF6KTTQXUPCNVffg72cy6TdTEHCbQpQ9HhgFZtCrMHnfAF9b9YOnaZ1YNe7L-Ed3gLw3NgZkqAm3XCw3Gw3rDQ%26v%3D404&adId=531454248&utm_source=Android*url*1546796228818&utm_medium=jrappshare&utm_term=wxfriends
+
+reqData: {"clientType":"sms","actKey":"176696","userDeviceInfo":{"adId":531454248}}
+
+{
+	"resultCode": 0,
+	"resultMsg": "操作成功",
+	"resultData": {
+		"msg": "您今天领取的京豆已经超过3次啦，明天再来看看！",
+		"actKey": "176696",
+		"code": 2002,
+		"issuccess": "1",
+		"data": {
+			"volumn": "0",
+			"gbAmount": "145"
+		},
+		"canGetGb": false
+	},
+	"channelEncrypt": 0
+}
+
+
+https://ms.jr.jd.com/gw/generic/jrm/h5/m/sendAdGb
+
+POST /gw/generic/jrm/h5/m/sendAdGb HTTP/1.1
+Host: ms.jr.jd.com
+Connection: keep-alive
+Content-Length: 188
+Accept: */*
+Origin: https://m.jr.jd.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Referer: https://m.jr.jd.com/btyingxiao/advertMoney/html/collar.html?iframeSrc=https%3A%2F%2Fccc-x.jd.com%2Fdsp%2Fnc%3Fext%3DaHR0cDovL3JlLm0uamQuY29tL2l0ZW0vMjAzMzk5NzQxOTguaHRtbD9yZV9kY3A9NF85ZXpWcDBWb2t1U1RIRHhnbE01SDJlQWJUYVdhMzdqeFg2czFxbXRUMFJjUjhYODdMdWV5MFR3YlFuYkJqQTNiQWlFVUUtbkNMOEhycWhOb1hRWWZOdGVsYjFJN1VnSXlyQkV3aGphUDBoNXBVNnJiQ1N5RzJ0ZldxWkIxU3Z0YjNmYlNtRjgwSF9oclM2S1dZNEZOS3VqZ0l6TkJydzNXX2xtZHkzbVl4d0NQV2lXV3VNUWZHZzQ0ZVppbmxyNDhsenFpNnE0Zk03NFdncWlUcDV0cDE0ZXRzS1FzT1QwQjBvdklRNXNVb1RZbkJEcTBmLWdlaFdScDJTZVRaLWRaQjBBQi02V2hVJTNEJnR5cGU9MQ%26log%3D0AVESKz4pwDkDsdr5j9u2SVgzKcX_ijkI3BoBo953LtElTNERR5qsSXP0WzUPielbIsrUwv5G3pYXyEX-hOlO1fx5X4ReQn6aTZibX3P5jlnpNYGX51Mbtw1fNz6NNVot6-crDmL5ULihguFdnrTO0oXqDGYU7l-7ak3UbOx-4gv4Ow0Vp0Yw5fO0O795C95FGfdCLZ0VLsTolc1lVYF4AZEHA5_KkOIzwNl1UDO-6EPiRmaa_t_7oy_e2XeDQHup4FbSIqgSzAdSK6AP05xUsZRmM-yhmdVuE3X3aSVh4IyWsyKRPquSM-Y_-tavKr4cJ1YeY6Z48_P2YNtFqDLAuO60hFTN5xWCPTM5Y4wxER9_EASaw35EuqOgW1jb7OfN8QZbrebTfblz2K_D3p4C_GQPsnb_Gf7eDeAlPptHXHOa4VIL12Q2DOrZbZ4r8rj%26v%3D404&adId=-1042849196&utm_source=Android*url*1548761581361&utm_medium=jrappshare&utm_term=wxfriends&from=groupmessage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+reqData: {"clientType":"sms","actKey":"176696","userDeviceInfo":{"adId":-1042849196},"deviceInfoParam":{},"bussource":""}
+
+
+{
+	"resultCode": 0,
+	"resultMsg": "操作成功",
+	"resultData": {
+		"data": {
+			"volumn": "5",
+			"gbAmount": "142"
+		},
+		"canGetGb": true,
+		"code": "0000",
+		"issuccess": "1",
+		"actKey": "176696",
+		"msg": "发奖成功"
+	},
+	"channelEncrypt": 0
+}
+
+
+
+reqData: {"clientType":"sms","actKey":"176696","userDeviceInfo":{"adId":-1910831221},"deviceInfoParam":{},"bussource":""}
+
+{"resultCode":0,"resultMsg":"操作成功","resultData":{"data":{"volumn":"3","gbAmount":"145"},"canGetGb":true,"code":"0000","issuccess":"1","actKey":"176696","msg":"发奖成功"},"channelEncrypt":0}
+
+
+
+
+https://m.jr.jd.com/btyingxiao/advertMoney/js/collar.js
+:authority: m.jr.jd.com
+:method: GET
+:path: /btyingxiao/advertMoney/js/collar.js
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie:
+if-modified-since: Thu, 28 Mar 2019 15:17:33 GMT
+if-none-match: W/"5c9ce58d-fcd"
+referer: https://m.jr.jd.com/btyingxiao/advertMoney/html/collar.html?iframeSrc=https%3A%2F%2Fccc-x.jd.com%2Fdsp%2Fnc%3Fext%3DaHR0cDovL2l0ZW0ubS5qZC5jb20vcHJvZHVjdC8yMjAwMzQzLmh0bWw%26log%3DH3J1f0wVj0F4NcR9dEtzqmofnupZW21KCXtQ5gB--S9d4nkxuJciH4dHE6qetX9R2rgjtFEz-iS7Thyo84M1gqBZDNnY36zpyLcKL0YEoKW3hj8oyUFTqqtFmOKUIW-BXb-k9VOoZfvT0oIn4X3mZaafcfkZ3S3eqX4jzwgtrBPy1mLi5L88K3UCwjZaOM4ytY6iz5SQXPZq0NSM72_ybWC2sKvMd0znu-PPRi3liqrxpzoomVdFxCQtFApiMsgXxlrLAH-Dd3oGc0M64qMkwSmCGInxsJzz7wxNJbh7ow0QO1iHQYxoYajaLVkZjBV6EF6KTTQXUPCNVffg72cy6TdTEHCbQpQ9HhgFZtCrMHnfAF9b9YOnaZ1YNe7L-Ed3gLw3NgZkqAm3XCw3Gw3rDQ%26v%3D404&adId=531454248&utm_source=Android*url*1546796228818&utm_medium=jrappshare&utm_term=wxfriends
+user-agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+
+
+
+/* btyingxiao-advertMoney collar.js md5:dacf9024213c3a6a01a8d5f58fb0f7e0 */
+"use strict";seajs.use(["crayfish/zui/jr_panel/1.0.0/iscroll.js",
+"crayfish/zui/jr_panel/1.0.0/jr_panel.js",
+"../js/config",
+"../widget/message/1.0.0/message",
+"../widget/loading/1.0.0/loading",
+"../widget/device_info/1.0.0/device_info",
+"../widget/bt_login/1.0.0/bt_login"],
+function(a,
+b,
+c,
+d,
+e,
+f){
+	varg=window.data_source_100001441;varh=g||{
+		
+	},
+	i=h.countDownNumber,
+	j=h.rules,
+	l=(h.iframeHeight,
+	h.rulesTitle);varm=$("#idButton");varn=$.url.getQuery();varo={
+		deviceInfo: {
+			
+		},
+		actKey: "176696",
+		adId: ""
+	};varp="";varq=Number(i);Date.prototype.FormatDate=function(a){
+		varb={
+			"M+": this.getMonth()+1,
+			"d+": this.getDate(),
+			"h+": this.getHours(),
+			"m+": this.getMinutes(),
+			"s+": this.getSeconds(),
+			"q+": Math.floor((this.getMonth()+3)/3),
+			S: this.getMilliseconds()
+		};/(y+)/.test(a)&&(a=a.replace(RegExp.$1,
+		(""+this.getFullYear()).substr(4-RegExp.$1.length)));for(varcinb)newRegExp("("+c+")").test(a)&&(a=a.replace(RegExp.$1,
+		1===RegExp.$1.length?b[c]: ("00"+b[c]).substr((""+b[c]).length)));returna
+	};varr=functiona(b){
+		b&&m.text("\u5148\u770b\u5e7f\u544a\uff0c"+q+"\u79d2\u540e\u53ef\u9886");varc=setTimeout(function(){
+			clearTimeout(c),
+			q<=0?(m.removeClass("disable"),
+			m.text("\u53bb\u9886\u4eac\u8c46")): (q-=1,
+			m.text("\u5148\u770b\u5e7f\u544a\uff0c"+q+"\u79d2\u540e\u53ef\u9886"),
+			a())
+		},
+		1e3)
+	};vars=function(){
+		varb=jsBridgeV3.onReady();$.deviceInfo(b,
+		function(a){
+			a&&(o.deviceInfo=a)
+		})
+	};vart=function(){
+		return"undefined"===String(n.bussource)?"": n.bussource||""
+	};varu=function(){
+		window.RISK_OBJ&&(o.eid=window.RISK_OBJ.eid,
+		o.fp=window.RISK_OBJ.fp)
+	};varv=function(){
+		$(".fixButtomWrapper").data("disable",
+		"true").hide()
+	};varw=function(){
+		if(m.on("click",
+		function(){
+			if($.loading.hide(),
+			!m.hasClass("disable")){
+				u();vara=t();$.request.sendAdGb({
+					data: {
+						actKey: o.actKey,
+						userDeviceInfo: {
+							adId: Number(o.adId)
+						},
+						deviceInfoParam: o.deviceInfo,
+						bussource: a
+					},
+					success: function(b){
+						$.loading.hide(),
+						b.canGetGb?(y(),
+						$("body").alert({
+							title: "\u606d\u559c\u60a8\u83b7\u5f97"+b.data.volumn+"\u4e2a\u4eac\u8c46",
+							text: "\u4eac\u8c46\u5df2\u53d1\u653e\u5230\u60a8\u7684\u4eac\u4e1c\u8d26\u6237",
+							okName: "\u6211\u77e5\u9053\u4e86",
+							okCallback: function(){
+								v()
+							}
+						})): $("body").alert({
+							title: b.msg,
+							okName: "\u6211\u77e5\u9053\u4e86",
+							okCallback: function(){
+								
+							}
+						})
+					},
+					error: function(b){
+						$("body").alert({
+							title: "\u7cfb\u7edf\u7e41\u5fd9\uff0c\u8bf7\u5c0f\u4f19\u4f34\u7a0d\u540e\u518d\u8bd5",
+							okName: "\u6211\u77e5\u9053\u4e86",
+							okCallback: function(){
+								
+							}
+						})
+					}
+				})
+			}
+		}).bindTapActive(),
+		$(".rule-content").on("click",
+		function(){
+			vara=[];j&&j.length&&j.map(function(b,
+			c){
+				a.push('<divclass="jr-floating-p">\n<spanclass="jr-floating-num">'+(c+1)+'.</span>\n<spanclass="jrm-pl32">'+b.rule+"</span>\n            </div>")
+			}),
+			$("body").panel({
+				title: l||"\u6d3b\u52a8\u89c4\u5219",
+				content: a.join("")
+			}),
+			$("body,html").css("overflow",
+			"hidden")
+		}),
+		t()){
+			varb=window.scrollY;varc=20;$(document).on("scroll",
+			function(a){
+				vard=$(".fixButtomWrapper");if(!d.data("disable")){
+					vare=Math.abs(window.scrollY-b);window.scrollY-b>0&&e>c?d.hide(): e>c&&d.show(),
+					b=window.scrollY
+				}
+			})
+		}
+	};varx=function(){
+		varb=jsBridgeV3.onReady();varc=$.url.getQuery();p=decodeURIComponent(c.iframeSrc),
+		$("#myIframe").attr("src",
+		p);vard={
+			version: 100,
+			title: "\u770b\u5e7f\u544a\u8d62\u4eac\u8c46",
+			moreItem: !1,
+			hideTools: !0,
+			backColor: [],
+			textColor: 2,
+			rightItemList: []
+		};$.device&&$.device.jdjr&&b.then(function(a){
+			a.setNaviBar(d)
+		})
+	};vary=function(b){
+		varc="\u60a8\u5df2\u7ecf\u9886\u8fc7\u4e86";b&&(c=b),
+		m.text(c).addClass("disable")
+	};varz=function(){
+		x(),
+		w()
+	};$(function(){
+		z();vara=$.url.getQuery();o.adId=Number(a.adId),
+		$.request.canGetGb({
+			data: {
+				actKey: o.actKey,
+				userDeviceInfo: {
+					adId: Number(a.adId)
+				}
+			},
+			success: function(b){
+				varc=b.code,
+				d=b.canGetGb;vare=String(c);switch(e){
+					case"1000": d?r(!0): y();break;case"2002": v();break;case"2003": v();break;case"2000": y(b.msg),
+					setTimeout(function(){
+						v()
+					},
+					3e3);break;case"200": $.login();break;default: v()
+				}
+			}
+		}),
+		setTimeout(function(){
+			s()
+		},
+		300)
+	}),
+	$(window).on("load",
+	function(){
+		$.loading.hide()
+	}),
+	setTimeout(function(){
+		$.loading.hide()
+	},
+	5e3)
+});

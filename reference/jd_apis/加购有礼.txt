@@ -1,0 +1,338 @@
+加购有礼
+
+https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity?activityId=61d0ed32b0ec44999592d0ed710c6c13
+
+
+https://lzkj-isv.isvjcloud.com/wxDrawActivity/getMyPing
+
+
+POST /wxDrawActivity/getMyPing HTTP/1.1
+Host: lzkj-isv.isvjcloud.com
+Connection: keep-alive
+Content-Length: 104
+Accept: application/json
+Origin: https://lzkj-isv.isvjcloud.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity?activityId=61d0ed32b0ec44999592d0ed710c6c13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+form data:
+userId=1000003671&token=DA9E72EE90208EA23C5F5415DE5FEBE9CCA8A4E9F13E9B3C97762E8D791AC66C&fromType=WeChat
+
+
+{"result":true,"data":"chenbenqing530905787","count":0,"errorMessage":""}
+
+
+https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activityContent
+
+POST /wxCollectionActivity/activityContent HTTP/1.1
+Host: lzkj-isv.isvjcloud.com
+Connection: keep-alive
+Content-Length: 68
+Accept: application/json
+Origin: https://lzkj-isv.isvjcloud.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity?activityId=61d0ed32b0ec44999592d0ed710c6c13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+form data:
+activityId=61d0ed32b0ec44999592d0ed710c6c13&pin=chenbenqing530905787
+
+{
+	"result": true,
+	"data": {
+		"id": "61d0ed32b0ec44999592d0ed710c6c13",
+		"type": 5,
+		"needCollectionSize": 3,
+		"hasCollectionSize": 3,
+		"cpvos": [{
+			"id": 0,
+			"imageUrl": "http://img11.360buyimg.com/n0/jfs/t2086/218/637961785/110879/3f9ec972/56209dc4Nacedec99.jpg",
+			"productId": 1937161,
+			"title": "熊火（ Bear fire ）追风鱼线子线系列1.2#钓鱼线子线主线渔具垂钓用品钓鱼配件",
+			"sort": 5,
+			"skuId": "1937161",
+			"price": "15.80",
+			"collection": false
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img14.360buyimg.com/n0/jfs/t12373/3/703550078/112653/49433ef/5a126d52N127b8189.jpg",
+			"productId": 5787059,
+			"title": "熊火(Bear fire)鱼竿战黑棍钓鱼竿 19调黑坑鱼竿手竿4.5米鲫鱼竿 8H超硬碳素台钓竿鱼杆",
+			"sort": 4,
+			"skuId": "5787059",
+			"price": "143.00",
+			"collection": false
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img11.360buyimg.com/n0/jfs/t11989/39/860345390/96414/fe997d74/59fa77eaN82579070.jpg",
+			"productId": 1179971,
+			"title": "熊火（bear fire） 2.0米双层带缺口钓伞钓鱼伞户外遮阳伞雨伞垂钓用品",
+			"sort": 7,
+			"skuId": "1179971",
+			"price": "128.00",
+			"collection": false
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img10.360buyimg.com/n0/jfs/t27256/277/1600576552/344988/df6600ba/5be64936N16a50950.jpg",
+			"productId": 1990485,
+			"title": "熊火（Bear fire）龙勝鲤鱼竿5.4米钓鱼竿手竿超轻超硬碳素28调台钓竿鲫鱼竿鲤鱼竿休闲野钓竞技钓鱼杆",
+			"sort": 1,
+			"skuId": "1990485",
+			"price": "208.00",
+			"collection": true
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img14.360buyimg.com/n0/jfs/t16549/117/2011607449/49093/fb7347c1/5a790bbeNc5775eb1.jpg",
+			"productId": 6497769,
+			"title": "熊火 M7钓鱼灯 夜钓灯强光手电筒 4光源带搓拉饵灯 远射充电蓝光灯户外照明",
+			"sort": 9,
+			"skuId": "6497769",
+			"price": "145.00",
+			"collection": false
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img10.360buyimg.com/n0/jfs/t19927/362/1419207511/78230/745e0691/5b1e1221N32c4fb2c.jpg",
+			"productId": 6098240,
+			"title": "熊火（Bear fire）鱼线 狂风大力马鱼线 4编PE编织主线子线强拉力耐磨钓鱼线100米 4.0#",
+			"sort": 10,
+			"skuId": "6098240",
+			"price": "25.80",
+			"collection": false
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img13.360buyimg.com/n0/jfs/t1/2701/5/12346/218501/5bd2d95cE8ddd524e/fe53cf84ae4d07bf.jpg",
+			"productId": 100001194043,
+			"title": "光威鱼竿上州屋竹彦鲤4米5钓鱼竿 手竿28调台钓竿碳素超轻超硬钓鱼杆鲤竿鲫鱼竿渔具垂钓套装",
+			"sort": 2,
+			"skuId": "100001194043",
+			"price": "268.00",
+			"collection": true
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img14.360buyimg.com/n0/jfs/t30382/309/225104490/514494/106e0047/5bebc535Nf8d8e773.jpg",
+			"productId": 4722159,
+			"title": "熊火 （Bear fire）狂口鲫黄金版复合香型钓鱼饵 鲫鱼草鱼鲤鱼饵料 黑坑竞技自配饵 野钓打窝搓饵拉饵",
+			"sort": 3,
+			"skuId": "4722159",
+			"price": "9.90",
+			"collection": true
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img11.360buyimg.com/n0/jfs/t1/5983/8/12416/218501/5bd2db2aE8fd7160b/fe25c3a4c54577a7.jpg",
+			"productId": 100001540036,
+			"title": "光威鱼竿上州屋竹彦鲤5.4米钓鱼竿 手竿28调钓鱼杆碳素超轻超硬台钓竿鲤杆渔具垂钓套装",
+			"sort": 12,
+			"skuId": "100001540036",
+			"price": "298.00",
+			"collection": false
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img10.360buyimg.com/n0/jfs/t21616/131/1096591140/122265/21c9ec43/5b20ded9Ne03e94ae.jpg",
+			"productId": 7885655,
+			"title": "熊火（Bear Fire）征战钓鱼竿海杆3米6海竿套装 抛竿远投竿大物矶钓竿 台钓鱼竿 手竿",
+			"sort": 11,
+			"skuId": "7885655",
+			"price": "168.00",
+			"collection": false
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img12.360buyimg.com/n0/jfs/t16294/20/961788263/176479/5e5191c4/5a459ab6Nf091d406.jpg",
+			"productId": 6115517,
+			"title": "熊火（Bear fire）赤蛟碳素抄网2.7米 伸缩定位橡胶手把抄网杆 超轻超硬捞鱼网兜",
+			"sort": 13,
+			"skuId": "6115517",
+			"price": "88.00",
+			"collection": false
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img11.360buyimg.com/n0/jfs/t1/19181/11/9975/124904/5c8320ffEc0ef715c/abab4f135ec31c51.jpg",
+			"productId": 100003888066,
+			"title": "熊火（Bear fire）剑齿鲨鱼钩散装新关东1#无倒刺伊势尼鱼钩伊豆金袖钓鱼钩钓鱼配件",
+			"sort": 6,
+			"skuId": "100003888066",
+			"price": "19.80",
+			"collection": false
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img11.360buyimg.com/n0/jfs/t1/16926/31/10058/121135/5c832153Eabfa48b9/54223e1ccc54e2e8.jpg",
+			"productId": 100002537131,
+			"title": "熊火（Bear fire）剑齿鲨鱼钩散装伊豆7#带倒刺歪嘴钩伊势尼大物鱼钩新关东金袖钓鱼钩钓鱼配件",
+			"sort": 8,
+			"skuId": "100002537131",
+			"price": "19.80",
+			"collection": false
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img13.360buyimg.com/n0/jfs/t25243/165/2115532326/265747/ca9e0399/5bc4432aN43ee3d72.jpg",
+			"productId": 100000116053,
+			"title": "熊火（Bear Fire）2018新款42L多功能钓箱 钓鱼箱带轮四脚升降折叠靠背台钓箱钓鱼桶渔具装备配件5件套",
+			"sort": 14,
+			"skuId": "100000116053",
+			"price": "468.00",
+			"collection": false
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img14.360buyimg.com/n0/jfs/t25930/19/1636661395/327378/7af5a10b/5bc53f34N2ec003af.jpg",
+			"productId": 1990474,
+			"title": "熊火（Bear fire）龙勝鲤4.5米鱼竿钓鱼竿手竿碳素28调超轻超硬钓鱼杆台钓竿休闲野钓鲫鱼竿鲤鱼竿套装",
+			"sort": 15,
+			"skuId": "1990474",
+			"price": "178.00",
+			"collection": false
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img13.360buyimg.com/n0/jfs/t21397/42/1705413033/199123/ba095cb9/5b3207e4N1b5bab58.jpg",
+			"productId": 7837268,
+			"title": "熊火钓鱼小药 鱼饵 爆口剂复合香型爆护诱鱼添加剂 鲤鱼鲫鱼饵料罗非野钓黑坑垂钓诱食剂",
+			"sort": 16,
+			"skuId": "7837268",
+			"price": "29.90",
+			"collection": false
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img14.360buyimg.com/n0/jfs/t9475/304/1787117027/287096/b89a75e9/59bf3f04N269cbde5.jpg",
+			"productId": 5132149,
+			"title": "熊火(Bear fire)冷月鱼漂 芦苇浮漂1号 鲫鱼漂套装 轻口醒目综合混养鱼标",
+			"sort": 17,
+			"skuId": "5132149",
+			"price": "35.00",
+			"collection": false
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img13.360buyimg.com/n0/jfs/t19936/288/1456279058/144652/c0f92eeb/5b1e1e2aN9a1cf7a9.jpg",
+			"productId": 7862403,
+			"title": "熊火 水龙吟鱼漂 纳米浮漂鱼漂套装 台钓鲫鱼漂 细尾高灵敏度浮标SL-03套装",
+			"sort": 18,
+			"skuId": "7862403",
+			"price": "55.00",
+			"collection": false
+		},
+		{
+			"id": 0,
+			"imageUrl": "http://img13.360buyimg.com/n0/jfs/t5203/105/2411027700/37268/f6a5a443/591a978cNf8ae7898.jpg",
+			"productId": 5126458,
+			"title": "熊火（ Bear fire ）新4.5米-2.5#钓鱼线主线组 手工绑好的成本主线鱼线渔具垂钓用品钓鱼用具",
+			"sort": 19,
+			"skuId": "5126458",
+			"price": "8.00",
+			"collection": false
+		}],
+		"rule": "1、活动时间：2019-03-26 15:25 至 2019-04-10 15:20；\r\n2、活动期间共赠送3000份礼品；\r\n3、需要关注任意3个商品后才可领取奖品；\r\n4、奖品数量有限，先到先得；\r\n",
+		"userId": 1000003671,
+		"phoneShowType": 0,
+		"drawInfo": {
+			"id": 237109,
+			"drawOk": false,
+			"url": null,
+			"canDrawTimes": 0,
+			"drawInfoType": 6,
+			"denominations": null,
+			"name": "5京豆",
+			"value": "500182",
+			"drawInfo": {
+				"id": 237109,
+				"venderId": 1000003671,
+				"name": "5京豆",
+				"value": "500182",
+				"type": 6,
+				"beanNum": 5,
+				"priceInfo": "0.05",
+				"showImage": null,
+				"productUrl": null,
+				"memo": "备注",
+				"deleted": false,
+				"createTime": 1553837312000,
+				"updateTime": null,
+				"drawChance": null,
+				"totalPrizeNum": null,
+				"itemId": null
+			},
+			"recordId": 0,
+			"addressId": null,
+			"position": 0,
+			"needWriteAddress": null,
+			"itemId": null,
+			"errorMessage": null
+		}
+	},
+	"count": 0,
+	"errorMessage": ""
+}
+
+
+
+https://lzkj-isv.isvjcloud.com/wxCollectionActivity/collection
+
+POST /wxCollectionActivity/collection HTTP/1.1
+Host: lzkj-isv.isvjcloud.com
+Connection: keep-alive
+Content-Length: 86
+Accept: application/json
+Origin: https://lzkj-isv.isvjcloud.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity?activityId=61d0ed32b0ec44999592d0ed710c6c13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: 
+
+activityId=61d0ed32b0ec44999592d0ed710c6c13&pin=chenbenqing530905787&productId=5787059
+
+{
+	"result": true,
+	"data": {
+		"hasCollectionSize": 4
+	},
+	"count": 0,
+	"errorMessage": ""
+}
+
+
+
+https://lzkj-isv.isvjcloud.com/wxCollectionActivity/getPrize
+POST /wxCollectionActivity/getPrize HTTP/1.1
+Host: lzkj-isv.isvjcloud.com
+Connection: keep-alive
+Content-Length: 68
+Accept: application/json
+Origin: https://lzkj-isv.isvjcloud.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity?activityId=1bbcc101891e4618b55b224770400308&adsource=tg_xuanFuTuBiao&lng=116.352176&lat=39.865644&un_area=1_2810_4194_0&sid=4e29fda5d2f02e535bc3b57be8e9f76w&ShareTm=kAbO5kKuKyXrxwS%2BKBbovJCk%2F2jyTB8fJH2RwRJ15FxuR4XuEDswkBdV98SHAzNsoUyKpnZWsAM6VcCPZseJ5BqO8u2KzOBb3BnnS3RPKUILpaSjI3TITBKVntaTJVaxTP%2BCQ9iDANzk3hJ%2BwytD004HpzAOe0eLNmveg0XduyA%3D&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+activityId=1bbcc101891e4618b55b224770400308&pin=chenbenqing530905787
+
+
+
+

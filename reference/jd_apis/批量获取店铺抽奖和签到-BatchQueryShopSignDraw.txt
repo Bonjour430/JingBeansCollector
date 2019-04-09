@@ -1,0 +1,162 @@
+https://wq.jd.com/mjgj/column/BatchQueryShopSignDraw?venderIds=1000001462%2C59976%2C1000001901%2C1000001195%2C1000013061%2C116818%2C1000001335%2C1000084824%2C76427%2C1000001465&channel=2&_=1553844707657&g_login_type=0&callback=jsonpCBKF&g_tk=953992284&g_ty=ls
+
+GET /mjgj/column/BatchQueryShopSignDraw?venderIds=1000001462%2C59976%2C1000001901%2C1000001195%2C1000013061%2C116818%2C1000001335%2C1000084824%2C76427%2C1000001465&channel=2&_=1553844707657&g_login_type=0&callback=jsonpCBKF&g_tk=953992284&g_ty=ls HTTP/1.1
+Host: wq.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; CLT-AL00 Build/HUAWEICLT-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.83 Mobile Safari/537.36 T7/10.13 baiduboxapp/10.13.0.10 (Baidu; P1 8.1.0)
+Accept: */*
+Referer: https://wqs.jd.com/my/fav/shop_fav.shtml
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+
+venderIds: 1000001462,59976,1000001901,1000001195,1000013061,116818,1000001335,1000084824,76427,1000001465
+channel: 2
+_: 1553844707657
+g_login_type: 0
+callback: jsonpCBKF
+g_tk: 953992284
+g_ty: ls
+
+
+jsonpCBKF({
+	"errcode": 0,
+	"msg": "success",
+	"data": [{
+		"errcode": "17",
+		"desc": "no valid activity",
+		"venderId": "59976",
+		"type": "2",
+		"code": "0"
+	},
+	{
+		"errcode": "17",
+		"desc": "no valid activity",
+		"venderId": "76427",
+		"type": "2",
+		"code": "0"
+	},
+	{
+		"errcode": "17",
+		"desc": "no valid activity",
+		"venderId": "116818",
+		"type": "2",
+		"code": "3"
+	},
+	{
+		"errcode": "17",
+		"desc": "no valid activity",
+		"venderId": "1000001195",
+		"type": "2",
+		"code": "0"
+	},
+	{
+		"errcode": "0",
+		"desc": "",
+		"venderId": "1000001335",
+		"type": "0",
+		"code": "0"
+	},
+	{
+		"errcode": "17",
+		"desc": "no valid activity",
+		"venderId": "1000001462",
+		"type": "2",
+		"code": "3"
+	},
+	{
+		"errcode": "0",
+		"desc": "",
+		"venderId": "1000001465",
+		"type": "1",
+		"code": "0"
+	},
+	{
+		"errcode": "17",
+		"desc": "no valid activity",
+		"venderId": "1000001901",
+		"type": "2",
+		"code": "0"
+	},
+	{
+		"errcode": "17",
+		"desc": "no valid activity",
+		"venderId": "1000013061",
+		"type": "2",
+		"code": "3"
+	},
+	{
+		"errcode": "17",
+		"desc": "no valid activity",
+		"venderId": "1000084824",
+		"type": "2",
+		"code": "3"
+	}]
+});
+
+
+jsonpCBKF({"errcode":0,"msg":"success","data":[{"errcode":"17","desc":"no valid activity","venderId":"59976","type":"2","code":"0"},{"errcode":"17","desc":"no valid activity","venderId":"116818","type":"2","code":"3"},{"errcode":"17","desc":"no valid activity","venderId":"1000001195","type":"2","code":"0"},{"errcode":"0","desc":"","venderId":"1000001335","type":"0","code":"0"},{"errcode":"17","desc":"no valid activity","venderId":"1000001395","type":"2","code":"3"},{"errcode":"17","desc":"no valid activity","venderId":"1000001462","type":"2","code":"3"},{"errcode":"17","desc":"no valid activity","venderId":"1000001901","type":"2","code":"0"},{"errcode":"17","desc":"no valid activity","venderId":"1000002487","type":"2","code":"3"},{"errcode":"17","desc":"no valid activity","venderId":"1000013061","type":"2","code":"3"},{"errcode":"17","desc":"no valid activity","venderId":"1000016941","type":"2","code":"3"}]});
+
+
+
+jsonpCBKF({
+	"errcode": 0,
+	"msg": "success",
+	"data": [{
+		"errcode": "17",
+		"desc": "no valid activity",
+		"venderId": "47443",
+		"type": "2",
+		"code": "0"
+	},
+	{
+		"errcode": "17",
+		"desc": "no valid activity",
+		"venderId": "59976",
+		"type": "2",
+		"code": "0"
+	},
+	{
+		"errcode": "17",
+		"desc": "no valid activity",
+		"venderId": "76427",
+		"type": "2",
+		"code": "0"
+	},
+	{
+		"errcode": "0",
+		"desc": "",
+		"venderId": "666889",
+		"type": "0",
+		"code": "0"
+	},
+	{
+		"errcode": "0",
+		"desc": "",
+		"venderId": "1000001335",
+		"type": "0",
+		"code": "0"
+	},
+	{
+		"errcode": "0",
+		"desc": "",
+		"venderId": "1000001465",
+		"type": "1",
+		"code": "0"
+	},
+	{
+		"errcode": "17",
+		"desc": "no valid activity",
+		"venderId": "1000015268",
+		"type": "2",
+		"code": "0"
+	},
+	{
+		"errcode": "0",
+		"desc": "",
+		"venderId": "1000088181",
+		"type": "1",
+		"code": "0"
+	}]
+});

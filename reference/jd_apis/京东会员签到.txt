@@ -1,0 +1,812 @@
+https://api.m.jd.com/client.action?functionId=aries_m_scoreHome&body=%7B%22isAjax%22%3A%221%22%2C%22apiType%22%3A%22h5%22%2C%22v%22%3A%22%22%2C%22paramData%22%3A%7B%7D%2C%22bodyData%22%3A%7B%7D%7D&appid=aries_m_h5&t=1553658106665&jsonp=jsonp_1553658106665_62534
+
+GET /client.action?functionId=aries_m_scoreHome&body=%7B%22isAjax%22%3A%221%22%2C%22apiType%22%3A%22h5%22%2C%22v%22%3A%22%22%2C%22paramData%22%3A%7B%7D%2C%22bodyData%22%3A%7B%7D%7D&appid=aries_m_h5&t=1553658106665&jsonp=jsonp_1553658106665_62534 HTTP/1.1
+Host: api.m.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Mobile Safari/537.36
+Accept: */*
+Referer: https://vip.m.jd.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+functionId: aries_m_scoreHome
+body: {"isAjax":"1","apiType":"h5","v":"","paramData":{},"bodyData":{}}
+appid: aries_m_h5
+t: 1553658106665
+jsonp: jsonp_1553658106665_62534
+
+
+jsonp({
+	"success": true,
+	"result": {
+		"token": "1355793921",
+		"plusStatus": "103",
+		"isLogin": true,
+		"floorInfoList": [{
+			"code": "M_USER_INFO",
+			"dataDetail": {
+				"userInfo": {
+					"showName": "jd4cbq",
+					"userLevel": 62,
+					"imgUrl": "//img12.360buyimg.com/vip/jfs/t14824/292/2560070851/4313/e6fe21ac/5aa7d234N23f5e006.jpg",
+					"pFlag": "103",
+					"score": 5455,
+					"riskScore": 4
+				},
+				"scoreHistoryList": [{
+					"mon": 4,
+					"score": 3937,
+					"cm": false
+				},
+				{
+					"mon": 3,
+					"score": 3801,
+					"cm": true
+				},
+				{
+					"mon": 2,
+					"score": 3955,
+					"cm": false
+				},
+				{
+					"mon": 1,
+					"score": 3845,
+					"cm": false
+				},
+				{
+					"mon": 12,
+					"score": 4117,
+					"cm": false
+				}],
+				"waitReceiveGiftNum": 0,
+				"benefitPreViewVoList": [{
+					"imgUrl": "//img14.360buyimg.com/vip/jfs/t25768/248/511339344/15803/32693ffa/5b71b74eN64fcc03a.png"
+				},
+				{
+					"imgUrl": "//img12.360buyimg.com/vip/jfs/t22645/58/2054262993/16181/28eb17c9/5b71b90dN64b2ab3d.png"
+				},
+				{
+					"imgUrl": "//img13.360buyimg.com/vip/jfs/t24604/35/483304590/16167/880011cb/5b71b96aN560ac53a.png"
+				}],
+				"signType": {
+					"code": 100,
+					"message": "未签到"
+				},
+				"scoreGuideIntroduceVo": {
+					"btnLabel": "去提升",
+					"btnUrl": "/page/growth",
+					"introduceWords": "10000以上可享“京享礼包”等权益"
+				},
+				"benefitList": [{
+					"id": 20,
+					"name": "会费立减",
+					"type": 10,
+					"score": 201,
+					"imgUrl": "//img10.360buyimg.com/vip/jfs/t1/23819/7/1522/2054/5c13266bEe85cb0ca/1147cbd49a75ffb4.png",
+					"unLockedScore": 0,
+					"extInfo": {
+						"isInc": false
+					}
+				},
+				{
+					"id": 4,
+					"name": "运费单免",
+					"type": 10,
+					"score": 201,
+					"imgUrl": "//img12.360buyimg.com/vip/jfs/t25420/327/484116559/15780/2c8bd146/5b71b9d7N8fe1be27.png",
+					"unLockedScore": 0,
+					"extInfo": {
+						"isInc": false
+					}
+				},
+				{
+					"id": 2,
+					"name": "生日特权",
+					"type": 10,
+					"score": 500,
+					"imgUrl": "//img14.360buyimg.com/vip/jfs/t25768/248/511339344/15803/32693ffa/5b71b74eN64fcc03a.png",
+					"unLockedScore": 0,
+					"extInfo": {
+						"isInc": false
+					}
+				},
+				{
+					"id": 7,
+					"name": "闪电退款",
+					"type": 21,
+					"score": 5000,
+					"imgUrl": "//img12.360buyimg.com/vip/jfs/t24406/267/2022253761/15520/1a21e6c2/5b71b81dNa4629ec2.png",
+					"unLockedScore": 0,
+					"extInfo": {
+						"tkAmount": 1200,
+						"isInc": false
+					}
+				},
+				{
+					"id": 6,
+					"name": "上门换新",
+					"type": 22,
+					"score": 5000,
+					"imgUrl": "//img11.360buyimg.com/vip/jfs/t23857/27/1989675928/15666/1fbf5f4e/5b71b8aeN974ec44b.png",
+					"unLockedScore": 0,
+					"extInfo": {
+						"isInc": false
+					}
+				},
+				{
+					"id": 8,
+					"name": "京享礼包",
+					"type": 10,
+					"score": 10000,
+					"imgUrl": "//img12.360buyimg.com/vip/jfs/t22645/58/2054262993/16181/28eb17c9/5b71b90dN64b2ab3d.png",
+					"unLockedScore": 4545,
+					"extInfo": {
+						"isInc": false
+					}
+				},
+				{
+					"id": 19,
+					"name": "以换代修",
+					"type": 10,
+					"score": 20000,
+					"imgUrl": "//img11.360buyimg.com/vip/jfs/t23251/235/2058150342/16379/d1b484bd/5b71b7d5Ndbe75a74.png",
+					"unLockedScore": 14545,
+					"extInfo": {
+						"isInc": false
+					}
+				},
+				{
+					"id": 1,
+					"name": "贵宾专线",
+					"type": 10,
+					"score": 20000,
+					"imgUrl": "//img11.360buyimg.com/vip/jfs/t23119/326/2029106984/16209/7e96773e/5b71b86bN366afb80.png",
+					"unLockedScore": 14545,
+					"extInfo": {
+						"isInc": false
+					}
+				},
+				{
+					"id": 5,
+					"name": "运费双免",
+					"type": 10,
+					"score": 20000,
+					"imgUrl": "//img13.360buyimg.com/vip/jfs/t24604/35/483304590/16167/880011cb/5b71b96aN560ac53a.png",
+					"unLockedScore": 14545,
+					"extInfo": {
+						"isInc": false
+					}
+				},
+				{
+					"id": 9,
+					"name": "权益升级",
+					"type": 30,
+					"score": 0,
+					"unLockedScore": 1,
+					"extInfo": {
+						"isInc": false
+					}
+				}]
+			}
+		},
+		{
+			"code": "M_BI_COUPON",
+			"dataDetail": {
+				"biCouponFloorData": {
+					"title": "专享优惠券",
+					"subTitle": "京享值一万分以上",
+					"biCouponList": [{
+						"actId": 308,
+						"discount": "20",
+						"quota": "299",
+						"limitDesc": "仅可购买海囤全球自营部分商品",
+						"toUrl": "//shop.m.jd.com/?shopId=1000092453",
+						"status": 1,
+						"minScore": 5000,
+						"batchId": 188032614
+					},
+					{
+						"actId": 302,
+						"discount": "9999",
+						"quota": "10000",
+						"limitDesc": "仅可购买新房部分商品",
+						"toUrl": "//pro.m.jd.com/mall/active/4EQ7ecffS1rE5W1rw9ybsG4XY3HQ/index.html",
+						"status": 1,
+						"minScore": 5000,
+						"batchId": 187097042
+					},
+					{
+						"actId": 301,
+						"discount": "60",
+						"quota": "600",
+						"limitDesc": "仅可购买（每月减）租房部分商品",
+						"toUrl": "//pro.m.jd.com/mall/active/2Tb3YXZBavQqtYZYXYnL7jwWs3m9/index.html",
+						"status": 1,
+						"minScore": 5000,
+						"batchId": 177665186
+					},
+					{
+						"actId": 312,
+						"discount": "50",
+						"quota": "400",
+						"limitDesc": "仅可购买自营指定商品",
+						"toUrl": "//pro.m.jd.com/mall/active/2kmaPNrGDNYo1LKwYtRoaSmsgbj6/index.html",
+						"status": 4,
+						"minScore": 10000,
+						"batchId": 186229818
+					}]
+				}
+			}
+		},
+		{
+			"code": "M_BI_AD",
+			"dataDetail": {
+				"biAdv": {
+					"httpUrl": "//pro.m.jd.com/mall/active/4GxLD2yW3bL3ZCGTY1vRLHc2LkwT/index.html",
+					"imgUrl": "//img11.360buyimg.com/vip/jfs/t1/10919/14/15582/54706/5c94d114E79eff052/1438523ba73c8ff7.jpg",
+					"imgUrl2": "",
+					"backgroundColor": "#ffffff",
+					"backgroundColor2": "#ffffff"
+				}
+			}
+		},
+		{
+			"code": "M_JX_BRAND",
+			"dataDetail": {
+				"jxBrandAds": [{
+					"name": "董莉莉",
+					"httpUrl": "//shop.m.jd.com/?shopId=761468",
+					"imgUrl": "//img10.360buyimg.com/vip/jfs/t1/15640/5/12558/126233/5c99d9ceE1c080a90/20f28bf7b3ebe4b8.png",
+					"skuList": [{
+						"id": "26355678929",
+						"imgUrl": "//img12.360buyimg.com/vip/s148x148_jfs/t1/27631/31/9412/126691/5c7e2c16E0693f995/35df96c47405e896.jpg",
+						"prc": "8999.00"
+					},
+					{
+						"id": "30467719416",
+						"imgUrl": "//img13.360buyimg.com/vip/s148x148_jfs/t1/27410/31/1877/561612/5c160376Ef188e761/37f406be9a722164.jpg",
+						"prc": "9776.00"
+					},
+					{
+						"id": "27903052927",
+						"imgUrl": "//img10.360buyimg.com/vip/s148x148_jfs/t29896/115/602011530/540944/11268486/5bf8ae8fN62241f93.jpg",
+						"prc": "11998.00"
+					}]
+				},
+				{
+					"name": "赵雍",
+					"httpUrl": "//pro.m.jd.com/mall/active/KkrRUCLiewTNjycXkcdRKSuaz81/index.html",
+					"imgUrl": "//img10.360buyimg.com/vip/jfs/t1/15231/38/12734/77194/5c9ad27bE812d7317/379b3c8101769c99.jpg",
+					"skuList": [{
+						"id": "26189893484",
+						"imgUrl": "//img12.360buyimg.com/vip/s148x148_jfs/t1/26888/31/12624/160581/5c99e100E759d0cf2/0c61e534ea0d9a78.jpg",
+						"prc": "39.90"
+					},
+					{
+						"id": "19097039610",
+						"imgUrl": "//img11.360buyimg.com/vip/s148x148_jfs/t1/19916/38/12534/230051/5c99e104E355439f5/b62a3a74fe46e8a3.jpg",
+						"prc": "9.00"
+					},
+					{
+						"id": "26198217557",
+						"imgUrl": "//img13.360buyimg.com/vip/s148x148_jfs/t1/24375/27/12895/163493/5c99dfc6Eb75a86c0/7de5bfcb2a224e22.jpg",
+						"prc": "30.00"
+					}]
+				},
+				{
+					"name": "杨佳瑞",
+					"httpUrl": "//pro.m.jd.com/mall/active/4GxLD2yW3bL3ZCGTY1vRLHc2LkwT/index.html",
+					"imgUrl": "//img11.360buyimg.com/vip/jfs/t1/30382/1/7153/333983/5c94d0a9E5cb76a13/30255be24dfd361e.png",
+					"skuList": [{
+						"id": "1834943",
+						"imgUrl": "//img13.360buyimg.com/vip/s148x148_jfs/t21901/267/2413429153/290417/87f77d7a/5b557fc7N460e96dc.jpg",
+						"prc": "399.00"
+					},
+					{
+						"id": "1834951",
+						"imgUrl": "//img10.360buyimg.com/vip/s148x148_jfs/t19924/40/840475776/151900/3847a917/5b0d184dNae67d442.jpg",
+						"prc": "299.00"
+					},
+					{
+						"id": "3515284",
+						"imgUrl": "//img13.360buyimg.com/vip/s148x148_jfs/t9256/335/356562824/288095/a954d371/59a656cbN4d763ca8.jpg",
+						"prc": "1899.00"
+					}]
+				},
+				{
+					"name": "王玉昆演出",
+					"httpUrl": "//pro.m.jd.com/mall/active/4V8jdnSytx5Ho36tVACCpkmQUG84/index.html",
+					"imgUrl": "//img10.360buyimg.com/vip/jfs/t1/29312/38/12643/28967/5c99f7d8E1e8009a5/9cbeac4ee5105ab8.jpg",
+					"skuList": [{
+						"id": "41902922883",
+						"imgUrl": "//img10.360buyimg.com/vip/s148x148_jfs/t1/28525/37/10561/123663/5c874059Eb71861d9/11e0e1335f9469d6.jpg",
+						"prc": "780.00"
+					},
+					{
+						"id": "41381631715",
+						"imgUrl": "//img12.360buyimg.com/vip/s148x148_jfs/t1/29977/2/6075/12151/5c453f23E4f3bbcea/c7fdd91f7b5130e2.jpg",
+						"prc": "606.00"
+					},
+					{
+						"id": "41493442033",
+						"imgUrl": "//img10.360buyimg.com/vip/s148x148_jfs/t1/14536/20/6334/22679/5c4ecbb7E9821a5bd/391f3cf5cd6bafc2.jpg",
+						"prc": "680.00"
+					}]
+				}]
+			}
+		},
+		{
+			"code": "M_SELECTED_RIGHTS",
+			"dataDetail": {
+				"selectedAdList": [{
+					"id": 4332,
+					"title": "精品百货节",
+					"subTitle": "领券199减110",
+					"description": "京享值10000分以上",
+					"imgUrl": "//img13.360buyimg.com/vip/jfs/t1/19602/30/12424/18763/5c9848beE6b9d23b1/645afa35bd51af7d.jpg",
+					"wqUrl": "//pro.m.jd.com/mall/active/46SGXBY1pfmQYirAUoNutqRpTW33/index.html",
+					"httpUrl": "//pro.m.jd.com/mall/active/46SGXBY1pfmQYirAUoNutqRpTW33/index.html",
+					"resourceType": 1
+				},
+				{
+					"id": 4258,
+					"title": "抓娃娃领福利",
+					"subTitle": "最高抽500京豆",
+					"description": "京东会员专享",
+					"imgUrl": "//img11.360buyimg.com/vip/jfs/t1/15421/36/10406/7912/5c871171Ed9a5f85c/190c4bab36bc542b.jpg",
+					"wqUrl": "//m.jr.jd.com/spe/acs/hymSystem/index.html?contentParam=100001463&actCode=BD68B5320B&actType=1",
+					"httpUrl": "//m.jr.jd.com/spe/acs/hymSystem/index.html?contentParam=100001463&actCode=BD68B5320B&actType=1",
+					"resourceType": 1
+				},
+				{
+					"id": 4304,
+					"title": "宠物品类日",
+					"subTitle": "领券满200享7折",
+					"description": "京享值10000分及以上",
+					"imgUrl": "//img12.360buyimg.com/vip/jfs/t1/20301/7/11151/15507/5c8b89efE664ec9ed/386de893117ac8e7.jpg",
+					"wqUrl": "//pro.m.jd.com/mall/active/yUn3MbvL7VE4a33BEjwt4DoKF6H/index.html",
+					"httpUrl": "//pro.m.jd.com/mall/active/yUn3MbvL7VE4a33BEjwt4DoKF6H/index.html",
+					"resourceType": 1
+				},
+				{
+					"id": 4196,
+					"title": "每天来抽奖",
+					"subTitle": "最高抽618元",
+					"description": "京东会员专享",
+					"imgUrl": "//img13.360buyimg.com/vip/jfs/t1/16702/34/8806/21097/5c78fb8eEcb13542f/42300c5747b9d132.jpg",
+					"wqUrl": "//m.jr.jd.com/spe/acs/hymSystem/index.html?contentParam=100000318&actCode=3507312A7C&actType=1&source=jdvip",
+					"httpUrl": "//m.jr.jd.com/spe/acs/hymSystem/index.html?contentParam=100000318&actCode=3507312A7C&actType=1&source=jdvip",
+					"resourceType": 1
+				}]
+			}
+		},
+		{
+			"code": "M_SHOPPING_RIGHTS",
+			"dataDetail": {
+				"shoppingAdList": [{
+					"id": 4368,
+					"title": "京豆权益日",
+					"subTitle": "10京豆抵10元花",
+					"description": "京东会员专享",
+					"imgUrl": "//img10.360buyimg.com/vip/jfs/t1/27826/24/12811/12725/5c9ae9e8Eee7b0263/59b4694c247fc30e.jpg",
+					"httpUrl": "//pro.m.jd.com/mall/active/PXLxT2FQCeipUz2ps3JunupGuCH/index.html",
+					"resourceType": 1
+				},
+				{
+					"id": 4280,
+					"title": "文具电教",
+					"subTitle": "文具领券99减20",
+					"description": "电脑数码勋章LV1及以上",
+					"imgUrl": "//img10.360buyimg.com/vip/jfs/t1/26643/37/10551/27751/5c8761f9E73282d45/20f61f9cb09d3daf.png",
+					"httpUrl": "//pro.m.jd.com/mall/active/3Az71b6JEAvMqbUw6KQRBfHmGcJY/index.html",
+					"resourceType": 1
+				},
+				{
+					"id": 4236,
+					"title": "清洁会员馆",
+					"subTitle": "领券满108减12",
+					"description": "京享值10000以上",
+					"imgUrl": "//img14.360buyimg.com/vip/jfs/t1/19590/6/9921/7650/5c82239dEe356265c/b6b52d5972c3a452.jpg",
+					"httpUrl": "//pro.m.jd.com/mall/active/svpw28qobVSeWB8th4xiXSEocyc/index.html",
+					"resourceType": 1
+				},
+				{
+					"id": 4092,
+					"title": "铂金会员卡",
+					"subTitle": "享双重权益",
+					"description": "京享值20000分以上",
+					"imgUrl": "//img14.360buyimg.com/vip/jfs/t1/24188/29/7900/16051/5c6fc26aE1554377e/cb16ea5fbfd70688.png",
+					"httpUrl": "//active.jd.com/forever/member/ptmember/html/index.html",
+					"resourceType": 1
+				},
+				{
+					"id": 4089,
+					"title": "美妆勋章馆",
+					"subTitle": "领券满300减30",
+					"description": "美妆勋章V4专享",
+					"imgUrl": "//img13.360buyimg.com/vip/jfs/t1/30363/40/2896/11207/5c6fb515Ec8ac8ff5/32d116231c013f42.jpg",
+					"httpUrl": "//pro.m.jd.com/mall/active/pqwgB5RQM35qZ8SKKyMQz3w5cy7/index.html",
+					"resourceType": 1
+				},
+				{
+					"id": 3937,
+					"title": "勋章馆",
+					"subTitle": "做任务送京豆",
+					"description": "勋章会员专享",
+					"imgUrl": "//img14.360buyimg.com/vip/jfs/t1/21714/31/6347/8164/5c4ebfd9E9de6c568/9d0c9a436278a23e.jpg",
+					"httpUrl": "//pro.m.jd.com/mall/active/27MSYNp6pcKG3Hyz6zs2BHfNzhy1/index.html",
+					"resourceType": 1
+				}]
+			}
+		},
+		{
+			"code": "M_LIFE_RIGHTS",
+			"dataDetail": {
+				"lifeAdList": [{
+					"id": 4201,
+					"title": "京东支付专享",
+					"description": "人人发金币啦",
+					"btnLabel": "点击参与",
+					"imgUrl": "//img12.360buyimg.com/vip/jfs/t1/30988/20/3874/9037/5c78fd65E76b1a8dd/0212cd648d113a07.jpg",
+					"httpUrl": "//m.jr.jd.com/member/rightsCenter/#/payLife?_channel=jdvip",
+					"wqUrl": "//m.jr.jd.com/member/rightsCenter/#/payLife?_channel=jdvip",
+					"resourceType": 1
+				},
+				{
+					"id": 4091,
+					"title": "健康问诊",
+					"description": "低至1元",
+					"btnLabel": "点击参与",
+					"imgUrl": "//img14.360buyimg.com/vip/jfs/t1/31121/3/2918/16615/5c6fb7b3Eb70d2f57/c84160ec50474776.jpg",
+					"httpUrl": "//pro.m.jd.com/mall/active/3cnq9TA9hHBnxdBKDKNLVQu47PnN/index.html",
+					"wqUrl": "//pro.m.jd.com/wq/active/3cnq9TA9hHBnxdBKDKNLVQu47PnN/index.html",
+					"resourceType": 1
+				},
+				{
+					"id": 4048,
+					"title": "购买彩票推荐",
+					"description": "赢京东E卡",
+					"btnLabel": "点击参与",
+					"imgUrl": "//img12.360buyimg.com/vip/jfs/t1/22887/1/7593/32707/5c6ce753E1b63344c/83feadf8f141dbfc.jpg",
+					"httpUrl": "//caipiao.m.jd.com",
+					"wqUrl": "//caipiao.m.jd.com",
+					"resourceType": 1
+				},
+				{
+					"id": 3139,
+					"title": "etc车保",
+					"description": "高速过路费8折",
+					"btnLabel": "点击参与",
+					"imgUrl": "//img10.360buyimg.com/vip/jfs/t1/7395/13/14181/20599/5c5c3fe5E57d0387e/ed6aff20d2b7a0ab.jpg",
+					"httpUrl": "//vip.m.jd.com/index.html?appName=fuli&id=2994",
+					"wqUrl": "//vip.m.jd.com/index.html?appName=fuli&id=2994",
+					"resourceType": 1
+				},
+				{
+					"id": 4055,
+					"title": "自营品1元起",
+					"description": "邀新用户拼团",
+					"btnLabel": "点击参与",
+					"imgUrl": "//img14.360buyimg.com/vip/jfs/t1/31454/25/2655/32669/5c6d5178Eb82ea669/523a38fbe153171d.jpg",
+					"httpUrl": "//wqs.jd.com/event/promote/ziying/index.shtml",
+					"wqUrl": "//wqs.jd.com/event/promote/ziying/index.shtml",
+					"resourceType": 1
+				},
+				{
+					"id": 3142,
+					"title": "更多优质权益",
+					"description": "会员独享",
+					"btnLabel": "去了解",
+					"imgUrl": "//img10.360buyimg.com/vip/jfs/t1/11655/34/4797/11509/5c2c7a5aEb6ab9aa9/814fb05d2c5733ff.jpg",
+					"httpUrl": "//vip.m.jd.com/index.html?appName=fuli",
+					"wqUrl": "//vip.m.jd.com/index.html?appName=fuli",
+					"resourceType": 1
+				}]
+			}
+		},
+		{
+			"code": "M_TASK_LIST",
+			"dataDetail": {
+				"taskList": [{
+					"id": 184,
+					"name": "购服饰返京豆",
+					"type": 1,
+					"processKey": 4,
+					"description": "截止当天近1年内在男装、女装、鞋靴、箱包、钟表（除瑞表外）  珠宝、内衣分类下有过购物行为，订单完成后第二天即可获得时尚勋章和领取京豆奖励！\r\nPS：请在京东APP“我的”-“京享值”-“任务中心”领取奖励",
+					"beginTime": "2019-01-11 00:00:00",
+					"endTime": "2019-12-31 23:59:59",
+					"imgUrl": "//img13.360buyimg.com/vip/jfs/t1/17092/39/5016/23406/5c387788Ea9f30f03/553b00e05368810a.jpg",
+					"maLink": "https://h5.m.jd.com/babelDiy/Zeus/28Lq4LbJDJcuMhNb9tQ6EcbZ8GTu/index.html",
+					"wqLink": "https://wq.jd.com/webportal/promote/20242",
+					"rewardType": 1,
+					"rewardList": [{
+						"id": 196,
+						"name": "奖品20190325093306",
+						"taskId": 184,
+						"rewardType": 1,
+						"rewardKey": "JINGBEAN_RESOURCE_TASK_1552378865587",
+						"description": "500京豆",
+						"rewardPerNum": 500,
+						"rewardQuota": 26000000,
+						"gmtCreate": "2019-01-11 19:05:09",
+						"gmtModify": "2019-03-25 09:33:06"
+					}],
+					"taskUserStatus": 0,
+					"taskTagStatus": -1,
+					"completeRate": 0.0,
+					"hasTaskLeave": true,
+					"totalRewardCouponCount": 0,
+					"totalRewardJBeanCount": 500,
+					"beginTimeStr": "2019-01-11",
+					"endTimeStr": "2019-12-31",
+					"completeTimeStr": ""
+				},
+				{
+					"id": 193,
+					"name": "买家居家装返京豆",
+					"type": 1,
+					"processKey": 4,
+					"description": "截止当天近1年内在家居日用、家具、厨具、家装建材分类下有过购物行为，订单完成后第二天即可获得家居家装勋章和领取京豆奖励！\r\nPS：请在京东APP“我的”-“京享值”-“任务中心”领取奖励",
+					"beginTime": "2019-01-30 00:00:00",
+					"endTime": "2019-12-31 23:59:59",
+					"imgUrl": "//img14.360buyimg.com/vip/jfs/t1/14360/39/6455/15348/5c514a00E4f7193c0/b0512d854d652ee4.jpg",
+					"maLink": "https://pro.m.jd.com/mall/active/387eAn8NbK2b52rdJyJSGA3xpQdT/index.html",
+					"wqLink": "https://channel.jd.com/jiazhuang.html",
+					"rewardType": 1,
+					"rewardList": [{
+						"id": 205,
+						"name": "奖品20190325093427",
+						"taskId": 193,
+						"rewardType": 1,
+						"rewardKey": "JINGBEAN_RESOURCE_TASK_1552378842184",
+						"description": "500京豆",
+						"rewardPerNum": 500,
+						"rewardQuota": 24000000,
+						"gmtCreate": "2019-01-30 14:56:40",
+						"gmtModify": "2019-03-25 09:34:27"
+					}],
+					"taskUserStatus": 0,
+					"taskTagStatus": -1,
+					"completeRate": 0.0,
+					"hasTaskLeave": true,
+					"totalRewardCouponCount": 0,
+					"totalRewardJBeanCount": 500,
+					"beginTimeStr": "2019-01-30",
+					"endTimeStr": "2019-12-31",
+					"completeTimeStr": ""
+				},
+				{
+					"id": 114,
+					"name": "购美妆，得勋章奖京豆",
+					"type": 1,
+					"processKey": 4,
+					"description": "截止当天近1年内在美妆护肤品类下有过购物行为，订单完成后第二天即可获得美妆勋章和领取京豆奖励！记得回“我的”-“京享值”-“任务中心”领取哦~",
+					"beginTime": "2019-01-02 14:08:40",
+					"endTime": "2019-12-31 23:59:59",
+					"imgUrl": "//img11.360buyimg.com/vip/jfs/t1/9223/11/12011/15149/5c340693E31557218/3e831bf294ea9f92.jpg",
+					"maLink": "https://pro.m.jd.com/mall/active/2kmaPNrGDNYo1LKwYtRoaSmsgbj6/index.html",
+					"wqLink": "//pro.m.jd.com/mall/active/4JnNBTY15rrkNkHgeb4zQwEQM7ij/index.html ",
+					"rewardType": 1,
+					"rewardList": [{
+						"id": 126,
+						"name": "奖品20190314091714",
+						"taskId": 114,
+						"rewardType": 1,
+						"rewardKey": "JINGBEAN_RESOURCE_TASK_1546409476685",
+						"description": "200京豆",
+						"rewardPerNum": 200,
+						"rewardQuota": 25000000,
+						"gmtCreate": "2018-05-22 10:28:20",
+						"gmtModify": "2019-03-14 09:17:14"
+					}],
+					"taskUserStatus": 0,
+					"taskTagStatus": -1,
+					"completeRate": 0.0,
+					"hasTaskLeave": true,
+					"totalRewardCouponCount": 0,
+					"totalRewardJBeanCount": 200,
+					"beginTimeStr": "2019-01-02",
+					"endTimeStr": "2019-12-31",
+					"completeTimeStr": ""
+				},
+				{
+					"id": 200,
+					"name": "购买鲜花园艺商品",
+					"type": 1,
+					"processKey": 5,
+					"description": "用户首次购买花卉绿植、园林农耕、园艺用品、种子等商品，奖励100京豆，确认收货即可领取京豆奖励",
+					"beginTime": "2019-03-14 00:00:00",
+					"endTime": "2019-12-31 23:59:59",
+					"imgUrl": "//img10.360buyimg.com/vip/jfs/t1/17021/13/10713/14091/5c88f853Ef92674b6/c013ace0e29e06a8.jpg",
+					"maLink": "https://pro.m.jd.com/mall/active/tjtRXase3sSKCdtYRJKciNYtH4X/index.html",
+					"wqLink": "https://pro.m.jd.com/wq/active/McmVFoUHPcrNGoPemybJGKmdSty/index.html",
+					"rewardType": 1,
+					"rewardList": [{
+						"id": 212,
+						"name": "奖品20190314155448",
+						"taskId": 200,
+						"rewardType": 1,
+						"rewardKey": "JINGBEAN_RESOURCE_TASK_1552480423027",
+						"description": "100京豆",
+						"rewardPerNum": 100,
+						"rewardQuota": 2460100,
+						"gmtCreate": "2019-03-13 20:33:56",
+						"gmtModify": "2019-03-14 15:54:48"
+					}],
+					"taskUserStatus": 0,
+					"taskTagStatus": -1,
+					"completeRate": 0.0,
+					"hasTaskLeave": true,
+					"totalRewardCouponCount": 0,
+					"totalRewardJBeanCount": 100,
+					"beginTimeStr": "2019-03-14",
+					"endTimeStr": "2019-12-31",
+					"completeTimeStr": ""
+				}]
+			}
+		},
+		{
+			"code": "M_MEMBER_BEST_BUY",
+			"dataDetail": {
+				"bestBuyGoods": {
+					"pageCount": 3,
+					"currentPageNo": 1,
+					"pageSize": 0,
+					"data": [{
+						"id": 8058010,
+						"price": "2599.00",
+						"imgUrl": "//img14.360buyimg.com/vip/s254x254_jfs/t20140/279/2633113298/113707/57d9da77/5b6018c5N6f80495e.jpg",
+						"fullName": "荣耀Note10 全网通6G+64G 幻夜黑 移动联通电信4G全面屏手机 双卡双待 游戏手机",
+						"type": 2
+					},
+					{
+						"id": 2913482,
+						"price": "149.00",
+						"imgUrl": "//img14.360buyimg.com/vip/s254x254_jfs/t1/27039/17/12772/297275/5c99de21E1c353a7d/d78db68a4b851501.jpg",
+						"fullName": "乔丹 男鞋运动鞋减震轻便跑步鞋 XM1560239 黑色/闪亮橘 39",
+						"type": 2
+					},
+					{
+						"id": 2317281,
+						"price": "2399.00",
+						"plusPrice": "2199.00",
+						"imgUrl": "//img10.360buyimg.com/vip/s254x254_jfs/t29968/350/165317259/326730/53717909/5bea3a60N3e7f2946.jpg",
+						"fullName": "三星（SAMSUNG）空气净化器 除菌甲醛雾霾  客卧实用型 双传感 智能数显 低噪 KJ393G-K5050WD",
+						"type": 2
+					},
+					{
+						"id": 7360347,
+						"price": "3199.00",
+						"imgUrl": "//img14.360buyimg.com/vip/s254x254_jfs/t1/18326/30/5751/179352/5c418c9dE3e039d40/76013a09c81a2bbe.jpg",
+						"fullName": "飞利浦 (PHILIPS) 空气净化器 除雾霾 除过敏原 除细菌 病毒 CADR650立方米 AC5602",
+						"type": 2
+					},
+					{
+						"id": 2507270,
+						"price": "1599.00",
+						"imgUrl": "//img13.360buyimg.com/vip/s254x254_jfs/t21997/364/897885283/92365/b79aad97/5b1a444dN25613801.jpg",
+						"fullName": "大松（TOSOT） 格力电饭煲 4L 格力IH电磁加热 多功能电饭锅 GDCF-4001Ca",
+						"type": 2
+					},
+					{
+						"id": 100002326238,
+						"price": "899.00",
+						"imgUrl": "//img11.360buyimg.com/vip/s254x254_jfs/t1/8898/34/9263/179596/5c1370e7E38ec37c3/08853c117b888c4e.jpg",
+						"fullName": "云米 （VIOMI） 8公斤全自动洗衣机 家用波轮  空气阻尼减震 智能一键洗 自动称重 大容量 WT8S",
+						"type": 2
+					},
+					{
+						"id": 5394661,
+						"price": "369.00",
+						"plusPrice": "359.00",
+						"imgUrl": "//img14.360buyimg.com/vip/s254x254_jfs/t1/7043/2/1765/266921/5bcfc3a6Edd931876/473555b0a7497d0c.jpg",
+						"fullName": "美的（Midea）电压力锅 圆灶釜内胆球形设计 精控火候智能调压 WQS50B18家用双胆高压锅",
+						"type": 2
+					},
+					{
+						"id": 100001267363,
+						"price": "28.70",
+						"imgUrl": "//img11.360buyimg.com/vip/s254x254_jfs/t1/1718/32/15940/139078/5be00ce9Ef72c9c6f/dfeed8b321e21b74.jpg",
+						"fullName": "插画师 华为mate20手机壳 mate20超薄外壳男款 华为mate20保护套防摔全包硬壳 mate20磨砂轻薄女男潮 魔力黑",
+						"type": 2
+					},
+					{
+						"id": 100000577735,
+						"price": "998.00",
+						"imgUrl": "//img12.360buyimg.com/vip/s254x254_jfs/t1/12250/31/8312/113052/5c763e7dEeb0a6a18/ab34dcb4559b8a97.jpg",
+						"fullName": "伊莱克斯 Electrolux 188升 双门冰箱 节能省电 小型家用电冰箱 静音自由嵌入式营造 EBM1801TD",
+						"type": 2
+					},
+					{
+						"id": 4373560,
+						"price": "14.90",
+						"imgUrl": "//img14.360buyimg.com/vip/s254x254_jfs/t20035/272/167829984/112740/eea4da78/5ae95a4aNe1f0b48b.jpg",
+						"fullName": "妙洁 免刀撕保鲜膜点断裁线 微波炉冰箱适用 50米大碗盒装",
+						"type": 2
+					},
+					{
+						"id": 100391,
+						"price": "19.90",
+						"imgUrl": "//img11.360buyimg.com/vip/s254x254_jfs/t3151/86/1138436570/130306/9b78f3f9/57c6975cN92a93643.jpg",
+						"fullName": "酷冷至尊（CoolerMaster）黄金导热硅脂",
+						"type": 2
+					},
+					{
+						"id": 4847969,
+						"price": "399.00",
+						"imgUrl": "//img13.360buyimg.com/vip/s254x254_jfs/t17425/297/444463552/114887/1549e7cb/5a791a90N4e10ffa5.jpg",
+						"fullName": "京鱼座丨叮咚 智能音箱 蓝牙/WIFI音响 AI家庭助手 2代新旗舰版 北欧灰",
+						"type": 2
+					},
+					{
+						"id": 100000749988,
+						"price": "149.00",
+						"plusPrice": "139.00",
+						"imgUrl": "//img12.360buyimg.com/vip/s254x254_jfs/t1/30678/9/7272/79304/5c95f551Eab098d94/f758f269d7dd5464.jpg",
+						"fullName": "HomeFacialPro HFP 寡肽原液淡化痘印修护痘疤去粉刺祛痘精华液保湿补水男女15ml",
+						"type": 2
+					},
+					{
+						"id": 100000177760,
+						"price": "5949.00",
+						"imgUrl": "//img10.360buyimg.com/vip/s254x254_jfs/t1/3405/18/3537/69901/5b997c0aE5dc8ed9f/a2c208410ae84d1f.jpg",
+						"fullName": "Apple iPhone XR (A2108) 128GB 黑色 移动联通电信4G手机 双卡双待",
+						"type": 2
+					},
+					{
+						"id": 100003434260,
+						"price": "3299.00",
+						"imgUrl": "//img12.360buyimg.com/vip/s254x254_jfs/t1/30858/32/2918/209997/5c6fcc52Ed2f6e122/d05ed0ce052a5a0c.jpg",
+						"fullName": "小米9 xiaomi新品三摄 8GB+128GB全息幻彩蓝 骁龙855 全网通4G 双卡双待 水滴全面屏拍照游戏智能手机",
+						"type": 2
+					},
+					{
+						"id": 100002493099,
+						"price": "3499.00",
+						"imgUrl": "//img11.360buyimg.com/vip/s254x254_jfs/t1/24240/19/11491/91443/5c8f86f7E74a45afc/5e93dbb87a8c354d.jpg",
+						"fullName": "黑鲨游戏手机2 竞在操控 8GB+128GB 暗影黑 骁龙855 游戏手机 全面屏 全网通4G 双卡双待",
+						"type": 2
+					},
+					{
+						"id": 100003433872,
+						"price": "3298.00",
+						"imgUrl": "//img14.360buyimg.com/vip/s254x254_jfs/t1/31199/14/3993/287777/5c791bb5Ebaa929af/044c52520956ebfb.jpg",
+						"fullName": "【KPL官方比赛用机】vivo iQOO 44W超快闪充 8GB+128GB电光蓝 全面屏拍照手机 骁龙855电竞游戏 全网通4G手机",
+						"type": 2
+					},
+					{
+						"id": 6533301,
+						"price": "3199.00",
+						"imgUrl": "//img14.360buyimg.com/vip/s254x254_jfs/t16570/100/2030042722/34367/442fe95e/5a97c6d8N60dd42ca.jpg",
+						"fullName": "格力京逸（GREE）正1.5匹 E享舒适 智能睡眠 变频 快速冷暖 壁挂式卧室空调挂机KFR-35GW/NhDbB3",
+						"type": 2
+					},
+					{
+						"id": 100002544828,
+						"price": "2998.00",
+						"imgUrl": "//img12.360buyimg.com/vip/s254x254_jfs/t1/27653/36/12572/346766/5c99ef63E81a8de14/5a38e39b2975e837.jpg",
+						"fullName": "荣耀V20 胡歌同款 麒麟980芯片 魅眼全视屏 6GB+128GB 幻夜黑 游戏手机 移动联通电信4G全面屏手机 双卡双待",
+						"type": 2
+					}]
+				}
+			}
+		}]
+	},
+	"code": 0
+});
+
+
+https://vip.m.jd.com/page/signin
+
+:authority: vip.m.jd.com
+:method: GET
+:path: /page/signin
+:scheme: https
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie: 
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Mobile Safari/537.36
+

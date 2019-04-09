@@ -1,0 +1,614 @@
+
+
+https://api.m.jd.com/client.action?functionId=findBeanIndex&body=%7B%22source%22%3A%22%22%2C%22monitor_refer%22%3A%22%22%2C%22rnVersion%22%3A%223.9%22%2C%22rnClient%22%3A%221%22%2C%22monitor_source%22%3A%22bean_m_bean_index%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1553668066729_15402
+
+GET /client.action?functionId=findBeanIndex&body=%7B%22source%22%3A%22%22%2C%22monitor_refer%22%3A%22%22%2C%22rnVersion%22%3A%223.9%22%2C%22rnClient%22%3A%221%22%2C%22monitor_source%22%3A%22bean_m_bean_index%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1553668066729_15402 HTTP/1.1
+Host: api.m.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Accept: */*
+Referer: https://bean.m.jd.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+
+
+functionId: findBeanIndex
+body: {"source":"","monitor_refer":"","rnVersion":"3.9","rnClient":"1","monitor_source":"bean_m_bean_index"}
+appid: ld
+client: android
+clientVersion: 
+networkType: 
+osVersion: 
+uuid: 
+jsonp: jsonp_1553668066729_15402
+
+
+jsonp({
+	"code": "0",
+	"data": {
+		"status": "1",
+		"beanUserType": 1,
+		"totalUserBean": "9945",
+		"continuousDays": "128",
+		"pageLink": "https://bean.m.jd.com/bean/signIndex.action",
+		"beanDetailUrl": "https://bean.m.jd.com/beanDetail/index.action?resourceValue=bean",
+		"maskSwitch": 0,
+		"abRan": "B_B_B_null_null_B_null_null_null_null_B_null",
+		"recomFlag": 1,
+		"backTopImg": "https://m.360buyimg.com/mobilecms/jfs/t1/29668/20/9603/54120/5c7fa745E88e26964/3b72825a35c84d84.png",
+		"immersiveTopImg": "https://m.360buyimg.com/mobilecms/jfs/t1/22306/39/9489/68315/5c7fa743E504c3df5/a975adba3ed09d0a.png",
+		"shareInfo": {
+			"shareTitle": "悄悄告诉你，这里可以领京豆",
+			"shareContent": "上京东，签到就能领京豆，连续签到还能得大奖",
+			"shareIcon": "https://m.360buyimg.com/njmobilecms/jfs/t4396/294/526748436/3623/8b6fef61/58d116beNd65d2d31.png",
+			"shareUrl": "https://bean.m.jd.com/share/index.action"
+		},
+		"floorList": [{
+			"floorId": "798",
+			"floorName": "icon楼层测试",
+			"floorTest": "0",
+			"type": "15",
+			"stageList": [{
+				"stageId": "4566",
+				"moduleSort": "1",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/11139/4/10506/3630/5c7fa85bE0dcb6abc/1a6a50f327c9d7c6.png!q50.jpg",
+				"mainTitle": "进店领豆",
+				"label": "进店领豆",
+				"linkedType": "1",
+				"linkedUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactJDBeansTaskCenter\",\"appname\":\"JDReactJDBeansTaskCenter\",\"ishidden\":true,\"param\":{\"page\":\"collectJDBeansTaskCenter\",\"transparentenable\":false},\"sourceType\":\"JDReactCollectJDBeans\"}",
+				"needLogin": 1
+			},
+			{
+				"stageId": "4568",
+				"moduleSort": "2",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/10184/34/13115/11167/5c7fa8b4Eeea36465/7cbe0a881321c41c.gif!q50.jpg",
+				"mainTitle": "转福利",
+				"label": "转福利",
+				"linkedType": "2",
+				"linkedUrl": "https://turntable.m.jd.com?actId=jgpqtzjhvaoym&appSource=jdhome",
+				"needLogin": 1
+			},
+			{
+				"stageId": "4570",
+				"moduleSort": "3",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/25042/31/9543/19888/5c7fa942Ea116fbef/539e63baf0b943df.jpg!q50.jpg",
+				"mainTitle": "抢京豆",
+				"label": "抢京豆",
+				"linkedType": "2",
+				"linkedUrl": "https://yfe.jd.com/promotion/tuanbean?activityId=2",
+				"needLogin": 1
+			},
+			{
+				"stageId": "4572",
+				"moduleSort": "4",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/25820/17/9595/1372/5c7faa58E94b67cb4/693587c790aeb412.png!q50.jpg",
+				"mainTitle": "店铺有礼",
+				"label": "店铺有礼",
+				"linkedType": "1",
+				"linkedUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactJDBeansMoreShops\",\"appname\":\"JDReactJDBeansMoreShops\",\"param\":{}}",
+				"needLogin": 1
+			},
+			{
+				"stageId": "4573",
+				"moduleSort": "5",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/17977/8/9554/2608/5c7fab42E07e1418b/680bacab3b8f0c85.png!q50.jpg",
+				"mainTitle": "优惠购",
+				"label": "优惠购",
+				"linkedType": "1",
+				"linkedUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactJDBeansDiscount\",\"appname\":\"JDReactJDBeansDiscount\",\"ishidden\":true,\"param\":{\"page\":\"collectJDBeansDiscount\",\"source\":\"来源\",\"transparentenable\":false},\"sourceType\":\"JDReactCollectJDBeans\"}",
+				"needLogin": 1
+			},
+			{
+				"stageId": "4574",
+				"moduleSort": "6",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/22714/26/9477/3082/5c7fab6dE15501dac/8d10130fded430af.png!q50.jpg",
+				"mainTitle": "换流量",
+				"label": "换流量",
+				"linkedType": "2",
+				"linkedUrl": "https://ljd.m.jd.com/dll.html",
+				"needLogin": 1
+			},
+			{
+				"stageId": "4575",
+				"moduleSort": "7",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/31154/20/4735/1665/5c7fabb5E9cee9a3d/a285e6ed21922b95.png!q50.jpg",
+				"mainTitle": "购物返豆",
+				"label": "购物返豆",
+				"linkedType": "1",
+				"linkedUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactJDBeansBack\",\"appname\":\"JDReactJDBeansBack\",\"ishidden\":true,\"param\":{\"page\":\"collectJDBeansBack\",\"source\":\"\",
+				\"transparentenable\":false},\"sourceType\":\"JDReactCollectJDBeans\"}",
+				"needLogin": 1
+			},
+			{
+				"stageId": "4576",
+				"moduleSort": "8",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/24062/25/9569/1682/5c7fac1bE2be98b7b/e413b4e7d713b2e4.png!q50.jpg",
+				"mainTitle": "换好券",
+				"label": "换好券",
+				"linkedType": "1",
+				"linkedUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"couponCenter\",\"sourceType\":\"JDReactCollectJDBeans\",\"sourceValue\":\"\",
+				\"tab\":\"1\"}",
+				"needLogin": 1
+			}],
+			"backgroundImg": "https://m.360buyimg.com/mobilecms/jfs/t8644/292/841922693/8413/c1065da/59aff903Naa8f449b.png"
+		},
+		{
+			"floorId": "1079",
+			"floorName": "种豆得豆",
+			"floorTest": "0",
+			"type": "14",
+			"stageList": [{
+				"stageId": "4564",
+				"moduleSort": "1",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/14104/38/12481/87593/5c98765aE27a059f8/f8b93cb1278caafd.png!q50.jpg",
+				"mainTitle": "种豆得豆",
+				"linkedType": "2",
+				"linkedUrl": "https://bean.m.jd.com/plantBean/index.action?resourceValue=bean",
+				"needLogin": 1
+			}],
+			"backgroundImg": ""
+		},
+		{
+			"floorId": "1000",
+			"floorName": "线上店铺签到01",
+			"floorTest": "0",
+			"type": "3",
+			"ground": "1",
+			"titleImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t5368/168/612705611/1423/66370cbb/590323dbNa595deac.png",
+			"mainTitle": "店铺推荐",
+			"subtitle": "优惠不断",
+			"stageList": [{
+				"stageId": "4511",
+				"moduleSort": "1",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/19583/39/9472/45817/5c7f910eE418c926c/3e34f9ab369b8c30.png!q50.jpg",
+				"mainTitle": "伟哥一硬到底",
+				"subtitle": "券后低至9.9",
+				"linkedType": "1",
+				"linkedUrl": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"shopId\":\"1000075422\",\"sourceType\":\"JDReactCollectJDBeans\",\"sourceValue\":\" \"}",
+				"needLogin": 1
+			},
+			{
+				"stageId": "4596",
+				"moduleSort": "2",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/26815/10/11109/32339/5c8b93f4E84a97a9f/e8ea5dea86a08d74.png!q50.jpg",
+				"mainTitle": "专注燕窝",
+				"subtitle": "爆款买1赠1",
+				"linkedType": "1",
+				"linkedUrl": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"shopId\":\"1000089637\",\"sourceType\":\"JDReactCollectJDBeans\",\"sourceValue\":\" \"}",
+				"needLogin": 1
+			}],
+			"backgroundImg": ""
+		},
+		{
+			"floorId": "1001",
+			"floorName": "线上店铺签到02",
+			"floorTest": "0",
+			"type": "4",
+			"stageList": [{
+				"stageId": "4592",
+				"moduleSort": "1",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/18442/23/10953/33551/5c8b9339E150b0760/af1be3f3e44f3385.png!q50.jpg",
+				"mainTitle": "鲜炖看得见",
+				"subtitle": "第二件享半价",
+				"linkedType": "1",
+				"linkedUrl": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"shopId\":\"179479\",\"sourceType\":\"JDReactCollectJDBeans\",\"sourceValue\":\" \"}",
+				"needLogin": 1
+			},
+			{
+				"stageId": "4593",
+				"moduleSort": "2",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/24211/9/10973/7341/5c8b9365E2d2a6b8c/b15233a17a907ffd.png!q50.jpg",
+				"mainTitle": "同仁堂健康",
+				"subtitle": "即冲燕窝1元抢",
+				"linkedType": "1",
+				"linkedUrl": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"shopId\":\"1000001373\",\"sourceType\":\"JDReactCollectJDBeans\",\"sourceValue\":\" \"}",
+				"needLogin": 1
+			}],
+			"backgroundImg": ""
+		},
+		{
+			"floorId": "834",
+			"floorName": "更多店铺",
+			"floorTest": "0",
+			"type": "16",
+			"stageList": [{
+				"stageId": "2078",
+				"moduleSort": "1",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t9574/24/2312092362/10491/93c8c079/59f3d0ebNb2c2009b.png!q50.jpg",
+				"mainTitle": "更多店铺",
+				"linkedType": "1",
+				"linkedUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactJDBeansMoreShops\",\"appname\":\"JDReactJDBeansMoreShops\",\"param\":{}}",
+				"needLogin": 1
+			}],
+			"backgroundImg": ""
+		},
+		{
+			"floorId": "1096",
+			"floorName": "3.27~28-通栏1",
+			"floorTest": "0",
+			"type": "14",
+			"stageList": [{
+				"stageId": "1",
+				"moduleSort": "1",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/28780/28/12836/77878/5c9a4dbdE4f8650a8/9854e14aab6b19f3.jpg!q50.jpg",
+				"mainTitle": "3.27",
+				"linkedType": "2",
+				"linkedUrl": "https://pro.m.jd.com/mall/active/4MjTeF3pezKFKK3aTofcrmYEMZou/index.html",
+				"needLogin": 1
+			}],
+			"backgroundImg": ""
+		},
+		{
+			"floorId": "1036",
+			"floorName": "权益+砍价",
+			"floorTest": "0",
+			"type": "3",
+			"ground": "2",
+			"titleImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t4732/282/2588007783/1594/89d14767/5903240fN3d6e633e.png",
+			"mainTitle": "来领福利",
+			"subtitle": "给你惊喜",
+			"stageList": [{
+				"stageId": "4600",
+				"moduleSort": "1",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/22612/13/11636/10714/5c91aec2E654a312f/4c5e2372e60f30e2.jpg!q50.jpg",
+				"mainTitle": "京豆权益专享",
+				"subtitle": "五星酒店自助餐",
+				"linkedType": "2",
+				"linkedUrl": "https://vip.m.jd.com/index.html?appName=fuli",
+				"needLogin": 1
+			},
+			{
+				"stageId": "4586",
+				"moduleSort": "2",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/14091/37/11085/21565/5c8b78dbE1c8f5b2a/8e2bf85f8b25346c.jpg!q50.jpg",
+				"mainTitle": "京东福利社",
+				"subtitle": "砍价好货一折起",
+				"linkedType": "2",
+				"linkedUrl": "https://friendboostm.jd.com/home.do",
+				"needLogin": 1
+			}],
+			"backgroundImg": ""
+		},
+		{
+			"floorId": "1055",
+			"floorName": "彩票+店铺",
+			"floorTest": "0",
+			"type": "4",
+			"stageList": [{
+				"stageId": "4185",
+				"moduleSort": "1",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/8542/12/10349/21500/5c207945Ee5739666/c242c572c2a19b40.jpg!q50.jpg",
+				"mainTitle": "京东秒杀",
+				"subtitle": "1元抽奖赢惊喜",
+				"linkedType": "1",
+				"linkedUrl": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"sourceValue\":\"sourceValue_test\",\"sourceType\":\"sourceType_test\",\"des\":\"seckill\",\"secKillKeyTabIndex\":\"0\"}",
+				"needLogin": 1
+			},
+			{
+				"stageId": "4489",
+				"moduleSort": "2",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/18409/13/8693/28640/5c779d4fE416a0caf/2fbe9c775e922ced.jpg!q50.jpg",
+				"mainTitle": "京东会员",
+				"subtitle": "天天领京豆",
+				"linkedType": "2",
+				"linkedUrl": "https://vip.m.jd.com",
+				"needLogin": 1
+			}],
+			"backgroundImg": ""
+		},
+		{
+			"floorId": "828",
+			"floorName": "京豆优惠购",
+			"floorTest": "0",
+			"type": "17",
+			"titleImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t9340/129/2355104922/527/cfaea1e1/59cc8ec8Nd044fc36.png",
+			"mainTitle": "京豆优惠购",
+			"backgroundImg": "",
+			"showCountdown": 2
+		},
+		{
+			"floorId": "844",
+			"floorName": "更多商品",
+			"floorTest": "0",
+			"type": "16",
+			"stageList": [{
+				"stageId": "1",
+				"moduleSort": "1",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t10846/166/2700596808/9592/8b2c0a29/59fc46efNd829363c.png!q50.jpg",
+				"mainTitle": "更多商品",
+				"linkedType": "1",
+				"linkedUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactJDBeansDiscount\",\"appname\":\"JDReactJDBeansDiscount\",\"ishidden\":true,\"param\":{\"page\":\"collectJDBeansDiscount\",\"source\":\"来源\",\"transparentenable\":false}}",
+				"needLogin": 1
+			}],
+			"backgroundImg": ""
+		},
+		{
+			"floorId": "1108",
+			"floorName": "3.24-31-通栏3",
+			"floorTest": "0",
+			"type": "14",
+			"stageList": [{
+				"stageId": "1",
+				"moduleSort": "1",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/27684/32/11785/28242/5c9223c8Ed61225ec/bf835c41b72da1c1.png!q50.jpg",
+				"mainTitle": "3.24-31",
+				"linkedType": "2",
+				"linkedUrl": "https://m.jr.jd.com/integrate/signin/index.html?channel=lingjingdou",
+				"needLogin": 1
+			}],
+			"backgroundImg": ""
+		},
+		{
+			"floorId": "841",
+			"floorName": "购物返京豆",
+			"floorTest": "0",
+			"type": "18",
+			"titleImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t8905/52/2399661424/402/c0cf239b/59cc8ec8N805b0749.png",
+			"mainTitle": "购物返京豆",
+			"backgroundImg": "",
+			"showCountdown": 2
+		}],
+		"seckillBeanFloor": {
+			"countDown": "34336",
+			"seckillBeanList": [{
+				"skuId": "29306294368",
+				"name": "全12册隋唐演义传说唐连环画 青少版精装礼盒珍藏版小人书典藏版正版现货儿童绘本漫画书少儿图画故事经典",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/s227x227_jfs/t20074/58/1643126344/95136/bd80ac14/5b232a99N53429675.jpg!q50.jpg",
+				"promotionPrice": "19.8",
+				"beanPayedCounts": "10",
+				"jdPrice": "32.8",
+				"realStock": 1,
+				"linkedType": "1",
+				"linkedUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactJDBeansDiscount\",\"sourceType\":\"JDReactCollectJDBeans\",\"appname\":\"JDReactJDBeansDiscount\",\"ishidden\":true,\"param\":{\"page\":\"collectJDBeansDiscount\",\"source\":\"\",
+				\"transparentenable\":false}}",
+				"needLogin": 0
+			},
+			{
+				"skuId": "41130453441",
+				"name": "RXR悦燃电子烟 电子烟套装 换弹式小烟 （1烟杆 2烟弹） 经典黑",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/s227x227_jfs/t1/22868/34/7079/129244/5c66bac7Ef5df3e26/2ea0b14ff1e84043.jpg!q50.jpg",
+				"promotionPrice": "233.1",
+				"beanPayedCounts": "10",
+				"jdPrice": "259",
+				"realStock": 1,
+				"linkedType": "1",
+				"linkedUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactJDBeansDiscount\",\"sourceType\":\"JDReactCollectJDBeans\",\"appname\":\"JDReactJDBeansDiscount\",\"ishidden\":true,\"param\":{\"page\":\"collectJDBeansDiscount\",\"source\":\"\",
+				\"transparentenable\":false}}",
+				"needLogin": 0
+			},
+			{
+				"skuId": "29534657769",
+				"name": "云边有个小卖部 赠云边镇四季明信片 从你的全世界路过作者张嘉佳全新作品 青春文学励志小说",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/s227x227_jfs/t24973/327/658155419/292437/b17c60b9/5b769171N5f07d80e.jpg!q50.jpg",
+				"promotionPrice": "21.5",
+				"beanPayedCounts": "10",
+				"jdPrice": "24.5",
+				"realStock": 1,
+				"linkedType": "1",
+				"linkedUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactJDBeansDiscount\",\"sourceType\":\"JDReactCollectJDBeans\",\"appname\":\"JDReactJDBeansDiscount\",\"ishidden\":true,\"param\":{\"page\":\"collectJDBeansDiscount\",\"source\":\"\",
+				\"transparentenable\":false}}",
+				"needLogin": 0
+			}]
+		},
+		"shoppBeanFloor": {
+			"countDown": "34336",
+			"shoppBeanList": [{
+				"skuId": "40328418909",
+				"name": "MOnOKO苹果数据线充电线mfi认证iphoneXSMax/XR/6/7/8/iPad充电器快充线 编织线黑色-1.2米",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/s227x227_jfs/t1/32427/1/6859/445171/5c920ea4E2e006e8b/5cb983a3fa57fd97.jpg!q50.jpg",
+				"promotionPrice": "39.9",
+				"refundBean": "500",
+				"jdPrice": "39.9",
+				"realStock": 1,
+				"linkedType": "1",
+				"linkedUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactJDBeansBack\",\"sourceType\":\"JDReactCollectJDBeans\",\"appname\":\"JDReactJDBeansBack\",\"ishidden\":true,\"param\":{\"page\":\"collectJDBeansBack\",\"source\":\"\",
+				\"transparentenable\":false}}",
+				"needLogin": 0
+			},
+			{
+				"skuId": "14316892789",
+				"name": "【预售】肖秀荣2020三件套考研政治精讲精练+讲真题上下册+肖秀荣1000题 命题人讲真题",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/s227x227_jfs/t1/26688/15/2028/392819/5c188a6cE312d373e/9f9828df11f903ed.jpg!q50.jpg",
+				"promotionPrice": "138",
+				"refundBean": "500",
+				"jdPrice": "138",
+				"realStock": 1,
+				"linkedType": "1",
+				"linkedUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactJDBeansBack\",\"sourceType\":\"JDReactCollectJDBeans\",\"appname\":\"JDReactJDBeansBack\",\"ishidden\":true,\"param\":{\"page\":\"collectJDBeansBack\",\"source\":\"\",
+				\"transparentenable\":false}}",
+				"needLogin": 0
+			},
+			{
+				"skuId": "42730045379",
+				"name": "将来的你一定会感谢拼命的自己 你只是看上去很努力 青春文学小说书籍 励志成长心灵鸡汤励志书籍排行榜",
+				"imgUrl": "https://m.360buyimg.com/mobilecms/s227x227_jfs/t1/32500/26/4632/76457/5c7f1c36Ee91c6871/e2692d962dcc94a8.jpg!q50.jpg",
+				"promotionPrice": "26.8",
+				"refundBean": "500",
+				"jdPrice": "26.8",
+				"realStock": 1,
+				"linkedType": "1",
+				"linkedUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactJDBeansBack\",\"sourceType\":\"JDReactCollectJDBeans\",\"appname\":\"JDReactJDBeansBack\",\"ishidden\":true,\"param\":{\"page\":\"collectJDBeansBack\",\"source\":\"\",
+				\"transparentenable\":false}}",
+				"needLogin": 0
+			}]
+		},
+		"plantEntry": {
+			"entryData": {
+				"entryId": "1008",
+				"iconImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/7738/3/12584/56523/5c371532E291f3ef6/ca538831e97eda4d.gif",
+				"actName": "种豆得豆2019",
+				"linkUrl": "https://bean.m.jd.com/plantBean/index.action",
+				"preState": "2"
+			}
+		},
+		"beanFrame": {
+			"actId": "26",
+			"frameName": "第12轮",
+			"frameImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/14455/10/10780/75532/5c88c81aE38f856a0/f6a3718af8bc259e.png",
+			"linkUrl": "https://bean.m.jd.com/plantBean/index.action"
+		},
+		"hangingBtn": {
+			"btnImg": "https://m.360buyimg.com/mobilecms/jfs/t1/1051/34/11967/159167/5bd1b141E6874912b/41247975b881b751.gif",
+			"btnUrl": "https://m.jr.jd.com/integrate/signin/index.html?channel=jdapp",
+			"horizontal": 1,
+			"upright": 1,
+			"pageEdgeSpace": 590,
+			"slideState": 2,
+			"loadDelayState": 2,
+			"delayMsec": 0,
+			"needLogin": 2
+		}
+	}
+});
+
+
+https://api.m.jd.com/client.action?functionId=signBeanIndex&body=%7B%22monitor_refer%22%3A%22%22%2C%22rnVersion%22%3A%223.9%22%2C%22fp%22%3A%22-1%22%2C%22shshshfp%22%3A%22-1%22%2C%22shshshfpa%22%3A%22-1%22%2C%22referUrl%22%3A%22-1%22%2C%22userAgent%22%3A%22-1%22%2C%22jda%22%3A%22-1%22%2C%22monitor_source%22%3A%22bean_m_bean_index%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1552901755171_79521
+
+
+GET /client.action?functionId=signBeanIndex&body=%7B%22monitor_refer%22%3A%22%22%2C%22rnVersion%22%3A%223.9%22%2C%22fp%22%3A%22-1%22%2C%22shshshfp%22%3A%22-1%22%2C%22shshshfpa%22%3A%22-1%22%2C%22referUrl%22%3A%22-1%22%2C%22userAgent%22%3A%22-1%22%2C%22jda%22%3A%22-1%22%2C%22monitor_source%22%3A%22bean_m_bean_index%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1552901755171_79521 HTTP/1.1
+Host: api.m.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Accept: */*
+Referer: https://bean.m.jd.com/bean/signIndex.action
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+
+functionId: signBeanIndex
+body: {"monitor_refer":"","rnVersion":"3.9","fp":"-1","shshshfp":"-1","shshshfpa":"-1","referUrl":"-1","userAgent":"-1","jda":"-1","monitor_source":"bean_m_bean_index"}
+appid: ld
+client: android
+clientVersion: 
+networkType: 
+osVersion: 
+uuid: 
+jsonp: jsonp_1552901755171_79521
+
+
+
+jsonp_1552901755171_79521({
+	"code": "0",
+	"data": {
+		"signedRan": "B",
+		"status": "2",
+		"beanUserType": 1,
+		"awardType": "2",
+		"continuityAward": {
+			"title": "今天已签到，获得奖励",
+			"beanAward": {
+				"beanCount": "15",
+				"beanImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t23452/19/1797778090/8622/14e40996/5b69974eN9880f531.png"
+			}
+		},
+		"conductionBtn": {
+			"btnText": "种豆瓜分京豆",
+			"linkUrl": "https://bean.m.jd.com/plantBean/index.action"
+		},
+		"signRemind": {
+			"title": "领京豆",
+			"content": "签到领京豆啦，断签会错过连签礼包哦",
+			"popImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t25144/349/281504248/8702/2397c397/5b6ab64fN016b2a9d.png",
+			"beanHomeLink": "{\"des\":\"m\",\"params\":{\"url\":\"https://bean.m.jd.com\"}}"
+		},
+		"signCalendar": {
+			"currentDate": "20190318",
+			"signRecordList": [{
+				"day": "1",
+				"awardState": "1"
+			},
+			{
+				"day": "2",
+				"awardState": "1"
+			},
+			{
+				"day": "3",
+				"awardState": "1"
+			},
+			{
+				"day": "4",
+				"awardState": "1"
+			},
+			{
+				"day": "5",
+				"awardState": "1"
+			},
+			{
+				"day": "6",
+				"awardState": "1"
+			},
+			{
+				"day": "7",
+				"awardState": "1"
+			},
+			{
+				"day": "8",
+				"awardState": "1"
+			},
+			{
+				"day": "9",
+				"awardState": "1"
+			},
+			{
+				"day": "10",
+				"awardState": "1"
+			},
+			{
+				"day": "11",
+				"awardState": "1"
+			},
+			{
+				"day": "12",
+				"awardState": "1"
+			},
+			{
+				"day": "13",
+				"awardState": "1"
+			},
+			{
+				"day": "14",
+				"awardState": "1"
+			},
+			{
+				"day": "15",
+				"awardState": "1"
+			},
+			{
+				"day": "16",
+				"awardState": "1"
+			},
+			{
+				"day": "17",
+				"awardState": "1"
+			},
+			{
+				"day": "18",
+				"awardImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t24928/48/235114684/3451/20d33c34/5b699552Nfb508d5d.png",
+				"awardState": "1",
+				"awardType": "2"
+			},
+			{
+				"day": "25",
+				"awardImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t25771/309/792025266/1853/7e27160f/5b7aac27N44dbd72a.png",
+				"awardState": "2",
+				"awardType": "2",
+				"awardDesc": "20京豆",
+				"popText": "再连签7天即可获得哦"
+			}]
+		},
+		"recommend": {
+			"oneFrameFloors": [{
+				"imgUrl": "https://m.360buyimg.com/mobilecms/jfs/t1/20641/22/8354/153918/5c7680f6Efce1b8b2/b7b1a1f92267e72b.jpg",
+				"linkType": 2,
+				"linkUrl": "https://pro.m.jd.com/mall/active/yBWHJD2Jmyyi5jN29Vq47CB7KKH/index.html",
+				"id": 193,
+				"title": "3.18-亲别找啦旗舰店"
+			}],
+			"twoFrameFloors": []
+		},
+		"msgGuideSwitch": "0"
+	}
+});

@@ -1,0 +1,323 @@
+萌宠庄园
+https://wqs.jd.com/pet-dog/index.html
+
+https://wq.jd.com/petmanor/petquerytuan/GetCurrTuanInfo?channel=3&_=1553680570708&g_login_type=0&callback=jsonpCBKA&g_tk=1354080168&g_ty=ls
+GET /petmanor/petquerytuan/GetCurrTuanInfo?channel=3&_=1553680570708&g_login_type=0&callback=jsonpCBKA&g_tk=1354080168&g_ty=ls HTTP/1.1
+Host: wq.jd.com
+Connection: keep-alive
+User-Agent: "Mozilla/5.0 (Linux; Android 8.1.0; CLT-AL00 Build/HUAWEICLT-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.83 Mobile Safari/537.36 T7/10.13 baiduboxapp/10.13.0.10 (Baidu; P1 8.1.0)"
+Accept: */*
+Referer: https://wqs.jd.com/pet-dog/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+jsonpCBKA({
+	"data": {
+		"confirmStatus": 1,
+		"currCount": 0,
+		"endTime": 1552155687,
+		"fullCount": 10,
+		"id": "XVcViy4xuqsTDFrOGUv-YmqNrt2JIUyfnJF3lw5YTLw",
+		"manorId": "XVcViy4xuqsTDFrOGUv-YvAYGA_bc2akYiassINF4BPBr3BzScraLPcXITBhxeJo",
+		"maxSuccessCount": 10,
+		"members": [],
+		"remainSeconds": 0,
+		"startTime": 1552069287,
+		"status": 1,
+		"successCount": 0
+	},
+	"errcode": 0,
+	"errmsg": "success"
+})
+
+
+
+-----------------------------------------------------------------------------------
+
+https://wq.jd.com/petmanor/petdog/GetManorInfo?channel=3&_=1553130152101&g_login_type=0&callback=jsonpCBKC&g_tk=452613068&g_ty=ls
+
+GET /petmanor/petdog/GetManorInfo?channel=3&_=1553130152101&g_login_type=0&callback=jsonpCBKC&g_tk=452613068&g_ty=ls HTTP/1.1
+Host: wq.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Accept: */*
+Referer: https://wqs.jd.com/pet-dog/index.html?share_from_id=XVcViy4xuqsTDFrOGUv-YvAYGA_bc2akYiassINF4BPBr3BzScraLPcXITBhxeJo&mqzyvk=43212075105324244&PTAG=17053.1.1&utm_source=weixin&utm_medium=weixin&utm_campaign=t_1000072672_17053_001
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+channel=3&_=1553130152101&g_login_type=0&callback=jsonpCBKC&g_tk=452613068&g_ty=ls
+
+
+jsonpCBKC({
+	"data": {
+		"appetite": 120,
+		"avatar": "http://thirdqq.qlogo.cn/g?b=oidb&k=7wf6gyRUn1dt9t7U8Mcszw&s=40",
+		"dogId": 1156115,
+		"eatCnt": 480,
+		"grade": 7,
+		"isHungry": 0,
+		"lastEatTime": 1553125246,
+		"leapRewards": [],
+		"manorId": "XVcViy4xuqsTDFrOGUv-YvAYGA_bc2akYiassINF4BPBr3BzScraLPcXITBhxeJo",
+		"neadEatCnt": 1400,
+		"nickname": "雄鹰的飞翔",
+		"otherRewards": [],
+		"perEatTime": 14400,
+		"remainEatTime": 9499,
+		"remainFood": 0,
+		"stage": 2,
+		"type": 2,
+		"upRewards": [],
+		"validFood": 5966
+	},
+	"errcode": 0,
+	"msg": "success"
+})
+
+
+jsonpCBKC({
+	"data": {
+		"appetite": 120,
+		"avatar": "http://thirdqq.qlogo.cn/g?b=oidb&k=7wf6gyRUn1dt9t7U8Mcszw&s=40",
+		"dogId": 1156115,
+		"eatCnt": 480,
+		"grade": 7,
+		"isHungry": 1,
+		"lastEatTime": 1553125246,
+		"leapRewards": [],
+		"manorId": "XVcViy4xuqsTDFrOGUv-YvAYGA_bc2akYiassINF4BPBr3BzScraLPcXITBhxeJo",
+		"neadEatCnt": 1400,
+		"nickname": "雄鹰的飞翔",
+		"otherRewards": [],
+		"perEatTime": 14400,
+		"remainEatTime": 0,
+		"remainFood": 0,
+		"stage": 2,
+		"type": 2,
+		"upRewards": [],
+		"validFood": 5996
+	},
+	"errcode": 0,
+	"msg": "success"
+})
+
+
+{
+	'appetite': 120,
+	'avatar': 'http: //thirdqq.qlogo.cn/g?b=oidb&k=7wf6gyRUn1dt9t7U8Mcszw&s=40',
+	'dogId': 1156115,
+	'eatCnt': 880,
+	'grade': 8,
+	'isHungry': 0,
+	'lastEatTime': 1553759847,
+	'leapRewards': [],
+	'manorId': 'XVcViy4xuqsTDFrOGUv-YvAYGA_bc2akYiassINF4BPBr3BzScraLPcXITBhxeJo',
+	'neadEatCnt': 1600,
+	'nickname': '雄鹰的飞翔',
+	'otherRewards': [],
+	'perEatTime': 14400,
+	'remainEatTime': 14396,
+	'remainFood': 0,
+	'stage': 2,
+	'type': 2,
+	'upRewards': [],
+	'validFood': 7361
+}
+
+{
+	'appetite': 120,
+	'avatar': 'http: //thirdqq.qlogo.cn/g?b=oidb&k=7wf6gyRUn1dt9t7U8Mcszw&s=40',
+	'dogId': 1156115,
+	'eatCnt': 1000,
+	'grade': 8,
+	'isHungry': 1,
+	'lastEatTime': 1553781921,
+	'leapRewards': [],
+	'manorId': 'XVcViy4xuqsTDFrOGUv-YvAYGA_bc2akYiassINF4BPBr3BzScraLPcXITBhxeJo',
+	'neadEatCnt': 1600,
+	'nickname': '雄鹰的飞翔',
+	'otherRewards': [],
+	'perEatTime': 14400,
+	'remainEatTime': 0,
+	'remainFood': 180,
+	'stage': 2,
+	'type': 2,
+	'upRewards': [],
+	'validFood': 7241
+}
+
+{
+	'appetite': 120,
+	'avatar': 'http: //thirdqq.qlogo.cn/g?b=oidb&k=7wf6gyRUn1dt9t7U8Mcszw&s=40',
+	'dogId': 1156115,
+	'eatCnt': 1120,
+	'grade': 8,
+	'isHungry': 0,
+	'lastEatTime': 1553826401,
+	'leapRewards': [],
+	'manorId': 'XVcViy4xuqsTDFrOGUv-YvAYGA_bc2akYiassINF4BPBr3BzScraLPcXITBhxeJo',
+	'neadEatCnt': 1600,
+	'nickname': '雄鹰的飞翔',
+	'otherRewards': [],
+	'perEatTime': 14400,
+	'remainEatTime': 14396,
+	'remainFood': 0,
+	'stage': 2,
+	'type': 2,
+	'upRewards': [],
+	'validFood': 7301
+}
+
+
+
+----------------------------------------------------------
+https://wq.jd.com/petmanor/petmodule/GetTask?channel=3&_=1553130153584&g_login_type=0&callback=jsonpCBKE&g_tk=452613068&g_ty=ls
+GET /petmanor/petmodule/GetTask?channel=3&_=1553130153584&g_login_type=0&callback=jsonpCBKE&g_tk=452613068&g_ty=ls HTTP/1.1
+Host: wq.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Accept: */*
+Referer: https://wqs.jd.com/pet-dog/index.html?share_from_id=XVcViy4xuqsTDFrOGUv-YvAYGA_bc2akYiassINF4BPBr3BzScraLPcXITBhxeJo&mqzyvk=43212075105324244&PTAG=17053.1.1&utm_source=weixin&utm_medium=weixin&utm_campaign=t_1000072672_17053_001
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+channel=3&_=1553130153584&g_login_type=0&callback=jsonpCBKE&g_tk=452613068&g_ty=ls
+
+
+jsonpCBKE({"data":{"curShareCnt":0,"curShopCnt":0,"curViewCnt":0,"shareFood":0,"shareRewardMax":80,"shareRewardMin":50,"shopFood":0,"shopReward":288,"totalShareCnt":5,"totalShopCnt":3,"totalViewCnt":3,"viewFood":0,"viewReward":30},"errcode":0,"msg":"success"}
+)
+
+jsonpCBKD({
+	"data": {
+		"curShareCnt": 0,
+		"curShopCnt": 0,
+		"curViewCnt": 2,
+		"shareFood": 0,
+		"shareRewardMax": 80,
+		"shareRewardMin": 50,
+		"shopFood": 0,
+		"shopReward": 288,
+		"totalShareCnt": 5,
+		"totalShopCnt": 3,
+		"totalViewCnt": 3,
+		"viewFood": 30,
+		"viewReward": 30
+	},
+	"errcode": 0,
+	"msg": "success"
+})
+
+----------------------------------------------------------
+https://wq.jd.com/petmanor/petmodule/TakeDogFood?type=2&channel=3&_=1553133563270&g_login_type=0&callback=jsonpCBKF&g_tk=452613068&g_ty=ls
+
+GET /petmanor/petmodule/TakeDogFood?type=2&channel=3&_=1553133563270&g_login_type=0&callback=jsonpCBKF&g_tk=452613068&g_ty=ls HTTP/1.1
+Host: wq.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Accept: */*
+Referer: https://wqs.jd.com/pet-dog/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: 
+
+type=2&channel=3&_=1553133563270&g_login_type=0&callback=jsonpCBKF&g_tk=452613068&g_ty=ls
+
+jsonpCBKF({
+	"data": {
+		"foodCnt": 30
+	},
+	"errcode": 0,
+	"msg": "success"
+})
+
+
+
+
+----------------------------------------------------------
+
+https://wq.jd.com/petmanor/petopr/FeedDog?manorId=&channel=3&_=1553156597256&g_login_type=0&callback=jsonpCBKE&g_tk=765109292&g_ty=ls
+:authority: wq.jd.com
+:method: GET
+:path: /petmanor/petopr/FeedDog?manorId=&channel=3&_=1553156597256&g_login_type=0&callback=jsonpCBKE&g_tk=765109292&g_ty=ls
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie: 
+referer: https://wqs.jd.com/pet-dog/index.html
+user-agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+
+manorId=&channel=3&_=1553156597256&g_login_type=0&callback=jsonpCBKE&g_tk=765109292&g_ty=ls
+
+jsonpCBKE({
+	"data": {
+		"foodCnt": 120,
+		"validFood": 5876
+	},
+	"errcode": 0,
+	"errmsg": "success"
+})
+
+
+https://wq.jd.com/petmanor/petopr/GainDogFood?manorId=&channel=3&_=1553691043132&g_login_type=0&callback=jsonpCBKJ&g_tk=1657396594&g_ty=ls
+
+
+jsonpCBKJ({
+	"data": {
+		"foodCnt": 180,
+		"oversteallimit": 0,
+		"validFood": 7258
+	},
+	"errcode": 0,
+	"errmsg": "success"
+}
+)
+
+//浏览一：
+https://wq.jd.com/sqportal/index_v7
+GET /sqportal/index_v7 HTTP/1.1
+Host: wq.jd.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: "Mozilla/5.0 (Linux; Android 8.1.0; CLT-AL00 Build/HUAWEICLT-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.83 Mobile Safari/537.36 T7/10.13 baiduboxapp/10.13.0.10 (Baidu; P1 8.1.0)"
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+
+
+、、浏览二：
+https://wqs.jd.com/portal/wx/tuan/pingou_list.shtml?ptag=138488.4.8
+:authority: wqs.jd.com
+:method: GET
+:path: /portal/wx/tuan/pingou_list.shtml?ptag=138488.4.8
+:scheme: https
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie: 
+referer: https://wqs.jd.com/pet-dog/index.html
+upgrade-insecure-requests: 1
+user-agent: "Mozilla/5.0 (Linux; Android 8.1.0; CLT-AL00 Build/HUAWEICLT-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.83 Mobile Safari/537.36 T7/10.13 baiduboxapp/10.13.0.10 (Baidu; P1 8.1.0)"
+
+
+//浏览三：
+https://wqs.jd.com/pingou/superior_goods.shtml?ptag=138488.4.9
+
+:authority: wqs.jd.com
+:method: GET
+:path: /pingou/superior_goods.shtml?ptag=138488.4.9
+:scheme: https
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie:
+referer: https://wqs.jd.com/pet-dog/index.html
+upgrade-insecure-requests: 1
+user-agent: "Mozilla/5.0 (Linux; Android 8.1.0; CLT-AL00 Build/HUAWEICLT-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.83 Mobile Safari/537.36 T7/10.13 baiduboxapp/10.13.0.10 (Baidu; P1 8.1.0)"
+
+

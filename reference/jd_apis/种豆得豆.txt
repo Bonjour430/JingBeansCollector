@@ -1,0 +1,1503 @@
+种豆得豆
+
+https://bean.m.jd.com/plantBean/index.action?resourceValue=bean
+
+---------------------------------------------------------------------
+https://api.m.jd.com/client.action?functionId=plantBeanIndex&body=%7B%22monitor_refer%22%3A%22%22%2C%22wxHeadImgUrl%22%3A%22%22%2C%22shareUuid%22%3A%22%22%2C%22monitor_source%22%3A%22plant_m_plant_index%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1553159360977_94604
+
+
+:authority: api.m.jd.com
+:method: GET
+:path: /client.action?functionId=plantBeanIndex&body=%7B%22monitor_refer%22%3A%22%22%2C%22wxHeadImgUrl%22%3A%22%22%2C%22shareUuid%22%3A%22%22%2C%22monitor_source%22%3A%22plant_m_plant_index%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1553159360977_94604
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie:
+referer: https://bean.m.jd.com/plantBean/index.action
+user-agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+
+functionId: plantBeanIndex
+body: {"monitor_refer":"","wxHeadImgUrl":"","shareUuid":"","monitor_source":"plant_m_plant_index"}
+appid: ld
+client: android
+clientVersion: 
+networkType: 
+osVersion: 
+uuid: 
+jsonp: jsonp_1553159360977_94604
+
+jsonp_1553159360977_94604({
+	"code": "0",
+	"data": {
+		"entryId": "2tpyf45pvqnbyoqbns6eertieu",
+		"advert": {
+			"imgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/32628/16/6798/92806/5c919e7eE0bde0599/e1c9bfaf1ba25fcc.gif",
+			"linkUrl": "https://pro.m.jd.com/mall/active/QsDokMdor1nnF7uMHwiCH5LGEsB/index.html"
+		},
+		"roundList": [{
+			"roundId": "qd4ice6sxpklaoqbns6eertieu",
+			"roundState": "1",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/17296/2/8625/10667/5c768d19E521d644c/6e637d3cb7ca6393.png",
+			"awardState": "6",
+			"awardBeans": "109",
+			"beanState": "4",
+			"growth": "139",
+			"redDot": "2"
+		},
+		{
+			"roundId": "fowvh34lk3ne2oqbns6eertieu", // 这个是当前轮次的游戏，需要获取这个 id
+			"roundState": "2",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/24505/25/10678/6540/5c88c8acE8c32be12/a7bc392f792ab7b0.png",
+			"awardState": "1",  //奖励状态，当前还未收获奖励，为1，6 为已收获奖励状态
+			"beanState": "4",   
+			"growth": "114",  //当前成长 114 瓶营养液
+			"nutrients": "0", //未培养的营养液数量
+			"redDot": "1"
+		},
+		{
+			"roundId": "7elsomlpbeqrmoqbns6eertieu",
+			"roundState": "3",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/27146/22/10585/15632/5c88cb28Edae727c7/66733a093a97f2d9.png",
+			"awardState": "1",
+			"growth": "0",
+			"nutrients": "0",
+			"redDot": "2"
+		}],
+		"awardList": [{
+			"state": "1",
+			"awardName": "每日签到",
+			"awardType": "1",
+			"timesNutrients": "1",
+			"daysNutrients": "1",
+			"limitFlag": "2",
+			"linkUrl": "https://bean.m.jd.com"
+		},
+		{
+			"state": "1",
+			"awardName": "浏览店铺",
+			"awardType": "3",
+			"timesNutrients": "1",
+			"daysNutrients": "4",
+			"limitFlag": "1"
+		},
+		{
+			"state": "1",
+			"awardName": "邀请好友",
+			"awardType": "2",
+			"timesNutrients": "2",
+			"daysNutrients": "10",
+			"limitFlag": "1"
+		},
+		{
+			"state": "1",
+			"awardName": "运动户外",
+			"awardType": "4",
+			"timesNutrients": "1",
+			"daysNutrients": "31",
+			"limitFlag": "1",
+			"linkUrl": "https://pro.m.jd.com/mall/active/U7j24xo94p2raWZamXDjcWHKgUm/index.html"
+		}],
+		"accessFlag": "2",
+		"timeNutrientsRes": {
+			"state": "3",
+			"countDown": "10552",
+			"bottleState": "1",
+			"nextReceiveTime": "1553169909000",
+			"nutrCount": "0"
+		},
+		
+		"timeNutrsCalenFlag": "2",
+		"dynamicSwitch": "1",
+		"stealEntrySwitch": "1"
+	}
+});
+
+
+jsonp_1553161670910_98150({
+	"code": "0",
+	"data": {
+		"entryId": "2tpyf45pvqnbyoqbns6eertieu",
+		"advert": {
+			"imgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/32628/16/6798/92806/5c919e7eE0bde0599/e1c9bfaf1ba25fcc.gif",
+			"linkUrl": "https://pro.m.jd.com/mall/active/QsDokMdor1nnF7uMHwiCH5LGEsB/index.html"
+		},
+		"roundList": [{
+			"roundId": "qd4ice6sxpklaoqbns6eertieu",
+			"roundState": "1",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/17296/2/8625/10667/5c768d19E521d644c/6e637d3cb7ca6393.png",
+			"awardState": "6",
+			"awardBeans": "109",
+			"beanState": "4",
+			"growth": "139",
+			"redDot": "2"
+		},
+		{
+			"roundId": "fowvh34lk3ne2oqbns6eertieu",
+			"roundState": "2",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/24505/25/10678/6540/5c88c8acE8c32be12/a7bc392f792ab7b0.png",
+			"awardState": "1",
+			"beanState": "4",
+			"growth": "114",
+			"nutrients": "4",
+			"redDot": "1"
+		},
+		{
+			"roundId": "7elsomlpbeqrmoqbns6eertieu",
+			"roundState": "3",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/27146/22/10585/15632/5c88cb28Edae727c7/66733a093a97f2d9.png",
+			"awardState": "1",
+			"growth": "0",
+			"nutrients": "0",
+			"redDot": "2"
+		}],
+		"awardList": [{
+			"state": "1",
+			"awardName": "每日签到",
+			"awardType": "1",
+			"timesNutrients": "1",
+			"daysNutrients": "1",
+			"limitFlag": "2",
+			"linkUrl": "https://bean.m.jd.com"
+		},
+		{
+			"state": "1",
+			"awardName": "浏览店铺",
+			"awardType": "3",
+			"timesNutrients": "1",
+			"daysNutrients": "4",
+			"limitFlag": "2"
+		},
+		{
+			"state": "1",
+			"awardName": "邀请好友",
+			"awardType": "2",
+			"timesNutrients": "2",
+			"daysNutrients": "10",
+			"limitFlag": "1"
+		},
+		{
+			"state": "1",
+			"awardName": "运动户外",
+			"awardType": "4",
+			"timesNutrients": "1",
+			"daysNutrients": "31",
+			"limitFlag": "2",
+			"linkUrl": "https://pro.m.jd.com/mall/active/U7j24xo94p2raWZamXDjcWHKgUm/index.html"
+		}],
+		"accessFlag": "2",
+		"timeNutrientsRes": {
+			"state": "3",
+			"countDown": "8242",
+			"bottleState": "1",
+			"nextReceiveTime": "1553169909000",
+			"nutrCount": "0"
+		},
+		"timeNutrsCalenFlag": "2",
+		"dynamicSwitch": "1",
+		"stealEntrySwitch": "1"
+	}
+});
+
+jsonp_1553476981575_33419({
+	"code": "0",
+	"data": {
+		"entryId": "2tpyf45pvqnbyoqbns6eertieu",
+		"advert": {
+			"imgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/25876/22/11812/19875/5c9216f1E8800c361/d6a1613a9b47bbc7.gif",
+			"linkUrl": "https://pro.m.jd.com/mall/active/yUn3MbvL7VE4a33BEjwt4DoKF6H/index.html    "
+		},
+		"roundList": [{
+			"roundId": "fowvh34lk3ne2oqbns6eertieu",
+			"roundState": "1",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/24505/25/10678/6540/5c88c8acE8c32be12/a7bc392f792ab7b0.png",
+			"awardState": "4",
+			"beanState": "4",
+			"growth": "217",
+			"redDot": "1"
+		},
+		{
+			"roundId": "7elsomlpbeqrmoqbns6eertieu",
+			"roundState": "2",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/27146/22/10585/15632/5c88cb28Edae727c7/66733a093a97f2d9.png",
+			"awardState": "1",
+			"beanState": "2",
+			"growth": "14",
+			"nutrients": "0",
+			"redDot": "1"
+		},
+		{
+			"roundId": "tl3ipmnxsoctsoqbns6eertieu",
+			"roundState": "3",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/24218/20/10782/15235/5c88cb40E1c031d57/ea145e9a704fecd4.png",
+			"awardState": "1",
+			"growth": "0",
+			"nutrients": "0",
+			"redDot": "2"
+		}],
+		"awardList": [{
+			"state": "1",
+			"awardName": "每日签到",
+			"awardType": "1",
+			"timesNutrients": "1",
+			"daysNutrients": "1",
+			"limitFlag": "2",
+			"linkUrl": "https://bean.m.jd.com"
+		},
+		{
+			"state": "1",
+			"awardName": "浏览店铺",
+			"awardType": "3",
+			"timesNutrients": "1",
+			"daysNutrients": "4",
+			"limitFlag": "1"
+		},
+		{
+			"state": "1",
+			"awardName": "邀请好友",
+			"awardType": "2",
+			"timesNutrients": "2",
+			"daysNutrients": "10",
+			"limitFlag": "1"
+		},
+		{
+			"state": "1",
+			"awardName": "宠物生活",
+			"awardType": "4",
+			"timesNutrients": "1",
+			"daysNutrients": "31",
+			"limitFlag": "1",
+			"linkUrl": "https://pro.m.jd.com/mall/active/43iqU29XjP213y89z2aidfWjA9Mb/index.html "
+		}],
+		"accessFlag": "2",
+		"timeNutrientsRes": {
+			"state": "3",
+			"countDown": "9645",
+			"bottleState": "1",
+			"nextReceiveTime": "1553486627000",
+			"nutrCount": "0"
+		},
+		"purchasePopTxt": "浏览宠物生活会场即可获得1瓶营养液，购买宠物生活商品次日12点前可得30瓶营养液！",
+		"shareInfo": {
+			"shareTitle": "惊了！有的游戏一言不合就狂撒京豆，快来玩",
+			"shareContent": "这是一封来自种豆得豆的邀请函",
+			"shareIcon": "https://m.360buyimg.com/mobilecms/jfs/t1/29481/22/5958/5227/5c4538e9Ea92a164e/2488f53a3acd0704.png",
+			"shareTitleImage": "https://img12.360buyimg.com/devfe/jfs/t1/22818/22/5934/1759/5c4562f3E395bd4dd/fea7c18329970ad8.png",
+			"shareMainTitle": "我在参与种豆得豆活动",
+			"shareSubTitle": "邀请你来和我一起种豆",
+			"shareImage": "https://img30.360buyimg.com/devfe/jfs/t1/10500/39/9383/143980/5c453c64Eb4600d89/e8f8c914bd6af877.png",
+			"shareUrl": "https://bean.m.jd.com/plantBean/shareIndex.action?shareUuid=vus6cujkbbd7rm5pmpuyavgrd25cpebedmsgogz2afwlyqsgnasq"
+		},
+		"timeNutrsCalenInfo": {
+			"openTxt": "打开营养液收取提醒，一瓶也不错过",
+			"openBtnTxt": "开启提醒",
+			"closeTxt": "真的不需要提醒了嘛？再考虑一下吧",
+			"closeBtnTxt": "关闭提醒",
+			"openToastTxt": "小水车营养液收取提醒已开启",
+			"closeToastTxt": "小水车营养液收取提醒已关闭",
+			"calenTitle": "种豆得豆",
+			"calenContent": "小水车已生产完营养液，快来领取吧",
+			"calenLinkUrl": "{\"des\":\"jdreactcommon\",\"params\":{\"modulename\":\"JDReactSowAndReap\",\"appname\":\"JDReactSowAndReap\",\"param\":{\"page\":\"JDReactSowAndReap\",\"source\":\"\",
+			\"transparentenable\":true}}}"
+		},
+		"timeNutrsCalenFlag": "2",
+		"dynamicSwitch": "1",
+		"plantUserInfo": {
+			"plantNickName": "jd4cbq",
+			"userHeadImg": "https://m.360buyimg.com/mobilecms/jfs/t1/28488/11/5963/1415/5c4597f7E17865e2b/f34d8f9da07e991d.png"
+		},
+		"stealEntrySwitch": "1"
+	}
+});
+
+
+jsonp({
+	"code": "0",
+	"data": {
+		"entryId": "2tpyf45pvqnbyoqbns6eertieu",
+		
+		"advert": {
+			"imgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/25876/22/11812/19875/5c9216f1E8800c361/d6a1613a9b47bbc7.gif",
+			"linkUrl": "https://pro.m.jd.com/mall/active/yUn3MbvL7VE4a33BEjwt4DoKF6H/index.html    "
+		},
+		"roundList": [{
+			"roundId": "fowvh34lk3ne2oqbns6eertieu",
+			"roundState": "1",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/24505/25/10678/6540/5c88c8acE8c32be12/a7bc392f792ab7b0.png",
+			"awardState": "6",
+			"awardBeans": "123",
+			"beanState": "4",
+			"growth": "217",
+			"redDot": "1"
+		},
+		{
+			"roundId": "7elsomlpbeqrmoqbns6eertieu",
+			"roundState": "2",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/27146/22/10585/15632/5c88cb28Edae727c7/66733a093a97f2d9.png",
+			"awardState": "1",
+			"beanState": "2",
+			"growth": "14",
+			"nutrients": "0",
+			"redDot": "1"
+		},
+		{
+			"roundId": "tl3ipmnxsoctsoqbns6eertieu",
+			"roundState": "3",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/24218/20/10782/15235/5c88cb40E1c031d57/ea145e9a704fecd4.png",
+			"awardState": "1",
+			"growth": "0",
+			"nutrients": "0",
+			"redDot": "2"
+		}],
+		"awardList": [{
+			"state": "1",
+			"awardName": "每日签到",
+			"awardType": "1",
+			"timesNutrients": "1",
+			"daysNutrients": "1",
+			"limitFlag": "2",
+			"linkUrl": "https://bean.m.jd.com"
+		},
+		{
+			"state": "1",
+			"awardName": "浏览店铺",
+			"awardType": "3",
+			"timesNutrients": "1",
+			"daysNutrients": "4",
+			"limitFlag": "1"
+		},
+		{
+			"state": "1",
+			"awardName": "邀请好友",
+			"awardType": "2",
+			"timesNutrients": "2",
+			"daysNutrients": "10",
+			"limitFlag": "1"
+		},
+		{
+			"state": "1",
+			"awardName": "宠物生活",
+			"awardType": "4",
+			"timesNutrients": "1",
+			"daysNutrients": "31",
+			"limitFlag": "1",
+			"linkUrl": "https://pro.m.jd.com/mall/active/43iqU29XjP213y89z2aidfWjA9Mb/index.html "
+		}],
+		"accessFlag": "2",
+		"timeNutrientsRes": {
+			"state": "1",
+			"countDown": "5086",
+			"bottleState": "2",
+			"nextReceiveTime": "1553486627000",
+			"nutrCount": "1"
+		},
+		"purchasePopTxt": "浏览宠物生活会场即可获得1瓶营养液，购买宠物生活商品次日12点前可得30瓶营养液！",
+		"shareInfo": {
+			"shareTitle": "种豆瓜分亿万京豆，此游戏引起极度舒适",
+			"shareContent": "这是一封来自种豆得豆的邀请函",
+			"shareIcon": "https://m.360buyimg.com/mobilecms/jfs/t1/29481/22/5958/5227/5c4538e9Ea92a164e/2488f53a3acd0704.png",
+			"shareTitleImage": "https://img12.360buyimg.com/devfe/jfs/t1/22818/22/5934/1759/5c4562f3E395bd4dd/fea7c18329970ad8.png",
+			"shareMainTitle": "我在参与种豆得豆活动",
+			"shareSubTitle": "邀请你来和我一起种豆",
+			"shareImage": "https://img30.360buyimg.com/devfe/jfs/t1/10500/39/9383/143980/5c453c64Eb4600d89/e8f8c914bd6af877.png",
+			"shareUrl": "https://bean.m.jd.com/plantBean/shareIndex.action?shareUuid=vus6cujkbbd7rm5pmpuyavgrd25cpebedmsgogz2afwlyqsgnasq"
+		},
+		"timeNutrsCalenInfo": {
+			"openTxt": "打开营养液收取提醒，一瓶也不错过",
+			"openBtnTxt": "开启提醒",
+			"closeTxt": "真的不需要提醒了嘛？再考虑一下吧",
+			"closeBtnTxt": "关闭提醒",
+			"openToastTxt": "小水车营养液收取提醒已开启",
+			"closeToastTxt": "小水车营养液收取提醒已关闭",
+			"calenTitle": "种豆得豆",
+			"calenContent": "小水车已生产完营养液，快来领取吧",
+			"calenLinkUrl": "{\"des\":\"jdreactcommon\",\"params\":{\"modulename\":\"JDReactSowAndReap\",\"appname\":\"JDReactSowAndReap\",\"param\":{\"page\":\"JDReactSowAndReap\",\"source\":\"\",
+			\"transparentenable\":true}}}"
+		},
+		"timeNutrsCalenFlag": "2",
+		"dynamicSwitch": "1",
+		"plantUserInfo": {
+			"plantNickName": "jd4cbq",
+			"userHeadImg": "https://m.360buyimg.com/mobilecms/jfs/t1/28488/11/5963/1415/5c4597f7E17865e2b/f34d8f9da07e991d.png"
+		},
+		"stealEntrySwitch": "1"
+	}
+});
+
+
+jsonp_1553483155727_77856({
+	"code": "0",
+	"data": {
+		"entryId": "2tpyf45pvqnbyoqbns6eertieu",
+		"advert": {
+			"imgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/25876/22/11812/19875/5c9216f1E8800c361/d6a1613a9b47bbc7.gif",
+			"linkUrl": "https://pro.m.jd.com/mall/active/yUn3MbvL7VE4a33BEjwt4DoKF6H/index.html    "
+		},
+		"roundList": [{
+			"roundId": "fowvh34lk3ne2oqbns6eertieu",
+			"roundState": "1",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/24505/25/10678/6540/5c88c8acE8c32be12/a7bc392f792ab7b0.png",
+			"awardState": "6",
+			"awardBeans": "123",
+			"beanState": "4",
+			"growth": "217",
+			"redDot": "1"
+		},
+		{
+			"roundId": "7elsomlpbeqrmoqbns6eertieu",
+			"roundState": "2",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/27146/22/10585/15632/5c88cb28Edae727c7/66733a093a97f2d9.png",
+			"awardState": "1",
+			"beanState": "2",
+			"growth": "14",
+			"nutrients": "0",
+			"redDot": "1"
+		},
+		{
+			"roundId": "tl3ipmnxsoctsoqbns6eertieu",
+			"roundState": "3",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/24218/20/10782/15235/5c88cb40E1c031d57/ea145e9a704fecd4.png",
+			"awardState": "1",
+			"growth": "0",
+			"nutrients": "0",
+			"redDot": "2"
+		}],
+		"awardList": [{
+			"state": "1",
+			"awardName": "每日签到",
+			"awardType": "1",
+			"timesNutrients": "1",
+			"daysNutrients": "1",
+			"limitFlag": "2",
+			"linkUrl": "https://bean.m.jd.com"
+		},
+		{
+			"state": "1",
+			"awardName": "浏览店铺",
+			"awardType": "3",
+			"timesNutrients": "1",
+			"daysNutrients": "4",
+			"limitFlag": "1"
+		},
+		{
+			"state": "1",
+			"awardName": "邀请好友",
+			"awardType": "2",
+			"timesNutrients": "2",
+			"daysNutrients": "10",
+			"limitFlag": "1"
+		},
+		{
+			"state": "1",
+			"awardName": "宠物生活",
+			"awardType": "4",
+			"timesNutrients": "1",
+			"daysNutrients": "31",
+			"limitFlag": "1",
+			"linkUrl": "https://pro.m.jd.com/mall/active/43iqU29XjP213y89z2aidfWjA9Mb/index.html "
+		}],
+		"accessFlag": "2",
+		"timeNutrientsRes": {
+			"state": "1",
+			"countDown": "3470",
+			"bottleState": "2",
+			"nextReceiveTime": "1553486627000",
+			"nutrCount": "2"
+		},
+		"timeNutrsCalenFlag": "2",
+		"dynamicSwitch": "1",
+		"stealEntrySwitch": "1"
+	}
+});
+
+
+
+jsonp_1553485129134_10008({
+	"code": "0",
+	"data": {
+		"entryId": "2tpyf45pvqnbyoqbns6eertieu",
+		"advert": {
+			"imgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/31995/9/7543/19875/5c984616E614fda8b/c0a99608195c24bd.gif",
+			"linkUrl": "https://pro.m.jd.com/mall/active/yUn3MbvL7VE4a33BEjwt4DoKF6H/index.html    "
+		},
+		"roundList": [{
+			"roundId": "fowvh34lk3ne2oqbns6eertieu",
+			"roundState": "1",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/24505/25/10678/6540/5c88c8acE8c32be12/a7bc392f792ab7b0.png",
+			"awardState": "6",
+			"awardBeans": "123",
+			"beanState": "4",
+			"growth": "217",
+			"redDot": "1"
+		},
+		{
+			"roundId": "7elsomlpbeqrmoqbns6eertieu",
+			"roundState": "2",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/27146/22/10585/15632/5c88cb28Edae727c7/66733a093a97f2d9.png",
+			"awardState": "1",
+			"beanState": "2",
+			"growth": "14",
+			"nutrients": "1",
+			"redDot": "1"
+		},
+		{
+			"roundId": "tl3ipmnxsoctsoqbns6eertieu",
+			"roundState": "3",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/24218/20/10782/15235/5c88cb40E1c031d57/ea145e9a704fecd4.png",
+			"awardState": "1",
+			"growth": "0",
+			"nutrients": "0",
+			"redDot": "2"
+		}],
+		"awardList": [{
+			"state": "1",
+			"awardName": "每日签到",
+			"awardType": "1",
+			"timesNutrients": "1",
+			"daysNutrients": "1",
+			"limitFlag": "2",
+			"linkUrl": "https://bean.m.jd.com"
+		},
+		{
+			"state": "1",
+			"awardName": "浏览店铺",
+			"awardType": "3",
+			"timesNutrients": "1",
+			"daysNutrients": "4",
+			"limitFlag": "1"
+		},
+		{
+			"state": "1",
+			"awardName": "邀请好友",
+			"awardType": "2",
+			"timesNutrients": "2",
+			"daysNutrients": "10",
+			"limitFlag": "1"
+		},
+		{
+			"state": "1",
+			"awardName": "宠物生活",
+			"awardType": "4",
+			"timesNutrients": "1",
+			"daysNutrients": "31",
+			"limitFlag": "1",
+			"linkUrl": "https://pro.m.jd.com/mall/active/43iqU29XjP213y89z2aidfWjA9Mb/index.html "
+		}],
+		"accessFlag": "2",
+		"timeNutrientsRes": {
+			"state": "3",
+			"countDown": "1497",
+			"bottleState": "2",
+			"nextReceiveTime": "1553486627000",
+			"nutrCount": "0"
+		},
+		"timeNutrsCalenFlag": "2",
+		"dynamicSwitch": "1",
+		"plantUserInfo": {
+			"plantNickName": "jd4cbq",
+			"userHeadImg": "https://m.360buyimg.com/mobilecms/jfs/t1/28488/11/5963/1415/5c4597f7E17865e2b/f34d8f9da07e991d.png"
+		},
+		"stealEntrySwitch": "1"
+	}
+});
+
+jsonp_1553492526175_12251({
+	"code": "0",
+	"data": {
+		"entryId": "2tpyf45pvqnbyoqbns6eertieu",
+		"skin": {
+			"landImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/10250/33/15583/112557/5c9216b0Eafe01d66/a2219872e015ee59.png",
+			"buttonImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/27864/21/11806/5742/5c9216b4E4e52207d/9b89aa18db2d02ef.png",
+			"cloudImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/21371/17/11853/27095/5c9216b7E4ca83790/004f5633c02447a7.png",
+			"backImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/28155/3/11312/23694/5c9216baE7697ec1e/8a9205a29158623b.png"
+		},
+		"broadcastList": [{
+			"messageText": "世上宠物千千万 只有我的最好看"
+		},
+		{
+			"messageText": "逗猫很敬业 装备要专业"
+		},
+		{
+			"messageText": "主子高兴了 你的好日子还会远吗"
+		},
+		{
+			"messageText": "吸猫使我快乐 我爱吸猫"
+		},
+		{
+			"messageText": "撸狗一时爽  一直撸狗一直爽"
+		},
+		{
+			"messageText": "何以解忧 唯有撸猫"
+		},
+		{
+			"messageText": "宠物超品日 为爱宠们打call"
+		},
+		{
+			"messageText": "它是你的小喜悦 你是它赖以寄托的全世界 "
+		},
+		{
+			"messageText": "别再说人不如狗了 狗比你幸福多了"
+		},
+		{
+			"messageText": "它只是你的一条狗，但你却是它的一生"
+		},
+		{
+			"messageText": "祝人生灿烂 愿狗生幸福"
+		}],
+		"ruleLink": "https://pro.m.jd.com/mall/active/3o5pcJjuj3dK64Wtf5VxHk6GfP6A/index.html",
+		"advert": {
+			"imgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/15403/3/12477/15429/5c985127E918c1ef9/18f2a7e0d04d8f78.gif",
+			"linkUrl": "https://pro.m.jd.com/mall/active/yUn3MbvL7VE4a33BEjwt4DoKF6H/index.html    "
+		},
+		"roundList": [{
+			"roundId": "fowvh34lk3ne2oqbns6eertieu",
+			"roundState": "1",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/24505/25/10678/6540/5c88c8acE8c32be12/a7bc392f792ab7b0.png",
+			"awardState": "6",
+			"awardBeans": "123",
+			"beanState": "4",
+			"growth": "217",
+			"redDot": "1"
+		},
+		{
+			"roundId": "7elsomlpbeqrmoqbns6eertieu",
+			"roundState": "2",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/27146/22/10585/15632/5c88cb28Edae727c7/66733a093a97f2d9.png",
+			"awardState": "1",
+			"beanState": "2",
+			"growth": "16",
+			"nutrients": "0",
+			"redDot": "1"
+		},
+		{
+			"roundId": "tl3ipmnxsoctsoqbns6eertieu",
+			"roundState": "3",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/24218/20/10782/15235/5c88cb40E1c031d57/ea145e9a704fecd4.png",
+			"awardState": "1",
+			"growth": "0",
+			"nutrients": "0",
+			"redDot": "2"
+		}],
+		"awardList": [{
+			"state": "1",
+			"awardName": "每日签到",
+			"awardType": "1",
+			"timesNutrients": "1",
+			"daysNutrients": "1",
+			"limitFlag": "2",
+			"linkUrl": "https://bean.m.jd.com"
+		},
+		{
+			"state": "1",
+			"awardName": "浏览店铺",
+			"awardType": "3",
+			"timesNutrients": "1",
+			"daysNutrients": "4",
+			"limitFlag": "1"
+		},
+		{
+			"state": "1",
+			"awardName": "邀请好友",
+			"awardType": "2",
+			"timesNutrients": "2",
+			"daysNutrients": "10",
+			"limitFlag": "1"
+		},
+		{
+			"state": "1",
+			"awardName": "宠物生活",
+			"awardType": "4",
+			"timesNutrients": "1",
+			"daysNutrients": "31",
+			"limitFlag": "1",
+			"linkUrl": "https://pro.m.jd.com/mall/active/43iqU29XjP213y89z2aidfWjA9Mb/index.html "
+		}],
+		"accessFlag": "2",
+		"timeNutrientsRes": {
+			"state": "1",
+			"countDown": "7058",
+			"bottleState": "1",
+			"nextReceiveTime": "1553499585000",
+			"nutrCount": "1"
+		},
+		"purchasePopTxt": "浏览宠物生活会场即可获得1瓶营养液，购买宠物生活商品次日12点前可得30瓶营养液！",
+		"shareInfo": {
+			"shareTitle": "今日快乐源泉，种豆得豆又双叒撒豆啦，真香",
+			"shareContent": "这是一封来自种豆得豆的邀请函",
+			"shareIcon": "https://m.360buyimg.com/mobilecms/jfs/t1/29481/22/5958/5227/5c4538e9Ea92a164e/2488f53a3acd0704.png",
+			"shareTitleImage": "https://img12.360buyimg.com/devfe/jfs/t1/22818/22/5934/1759/5c4562f3E395bd4dd/fea7c18329970ad8.png",
+			"shareMainTitle": "我在参与种豆得豆活动",
+			"shareSubTitle": "邀请你来和我一起种豆",
+			"shareImage": "https://img30.360buyimg.com/devfe/jfs/t1/10500/39/9383/143980/5c453c64Eb4600d89/e8f8c914bd6af877.png",
+			"shareUrl": "https://bean.m.jd.com/plantBean/shareIndex.action?shareUuid=vus6cujkbbd7rm5pmpuyavgrd25cpebedmsgogz2afwlyqsgnasq"
+		},
+		"timeNutrsCalenInfo": {
+			"openTxt": "打开营养液收取提醒，一瓶也不错过",
+			"openBtnTxt": "开启提醒",
+			"closeTxt": "真的不需要提醒了嘛？再考虑一下吧",
+			"closeBtnTxt": "关闭提醒",
+			"openToastTxt": "小水车营养液收取提醒已开启",
+			"closeToastTxt": "小水车营养液收取提醒已关闭",
+			"calenTitle": "种豆得豆",
+			"calenContent": "小水车已生产完营养液，快来领取吧",
+			"calenLinkUrl": "{\"des\":\"jdreactcommon\",\"params\":{\"modulename\":\"JDReactSowAndReap\",\"appname\":\"JDReactSowAndReap\",\"param\":{\"page\":\"JDReactSowAndReap\",\"source\":\"\",
+			\"transparentenable\":true}}}"
+		},
+		"timeNutrsCalenFlag": "2",
+		"dynamicSwitch": "1",
+		"plantUserInfo": {
+			"plantNickName": "jd4cbq",
+			"userHeadImg": "https://m.360buyimg.com/mobilecms/jfs/t1/28488/11/5963/1415/5c4597f7E17865e2b/f34d8f9da07e991d.png"
+		},
+		"stealEntrySwitch": "1"
+	}
+});
+
+jsonp_1553493134447_373({
+	"code": "0",
+	"data": {
+		"entryId": "2tpyf45pvqnbyoqbns6eertieu",
+		"skin": {
+			"landImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/10250/33/15583/112557/5c9216b0Eafe01d66/a2219872e015ee59.png",
+			"buttonImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/27864/21/11806/5742/5c9216b4E4e52207d/9b89aa18db2d02ef.png",
+			"cloudImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/21371/17/11853/27095/5c9216b7E4ca83790/004f5633c02447a7.png",
+			"backImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/28155/3/11312/23694/5c9216baE7697ec1e/8a9205a29158623b.png"
+		},
+		"broadcastList": [{
+			"messageText": "祝人生灿烂 愿狗生幸福"
+		},
+		{
+			"messageText": "宠物超品日 为爱宠们打call"
+		},
+		{
+			"messageText": "何以解忧 唯有撸猫"
+		},
+		{
+			"messageText": "逗猫很敬业 装备要专业"
+		},
+		{
+			"messageText": "别再说人不如狗了 狗比你幸福多了"
+		},
+		{
+			"messageText": "主子高兴了 你的好日子还会远吗"
+		},
+		{
+			"messageText": "它是你的小喜悦 你是它赖以寄托的全世界 "
+		},
+		{
+			"messageText": "它只是你的一条狗，但你却是它的一生"
+		},
+		{
+			"messageText": "吸猫使我快乐 我爱吸猫"
+		},
+		{
+			"messageText": "撸狗一时爽  一直撸狗一直爽"
+		},
+		{
+			"messageText": "世上宠物千千万 只有我的最好看"
+		}],
+		"ruleLink": "https://pro.m.jd.com/mall/active/3o5pcJjuj3dK64Wtf5VxHk6GfP6A/index.html",
+		"advert": {
+			"imgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/15403/3/12477/15429/5c985127E918c1ef9/18f2a7e0d04d8f78.gif",
+			"linkUrl": "https://pro.m.jd.com/mall/active/yUn3MbvL7VE4a33BEjwt4DoKF6H/index.html    "
+		},
+		"roundList": [{
+			"roundId": "fowvh34lk3ne2oqbns6eertieu",
+			"roundState": "1",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/24505/25/10678/6540/5c88c8acE8c32be12/a7bc392f792ab7b0.png",
+			"awardState": "6",
+			"awardBeans": "123",
+			"beanState": "4",
+			"growth": "217",
+			"redDot": "1"
+		},
+		{
+			"roundId": "7elsomlpbeqrmoqbns6eertieu",
+			"roundState": "2",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/27146/22/10585/15632/5c88cb28Edae727c7/66733a093a97f2d9.png",
+			"awardState": "1",
+			"beanState": "2",
+			"growth": "16",
+			"nutrients": "0",
+			"redDot": "1"
+		},
+		{
+			"roundId": "tl3ipmnxsoctsoqbns6eertieu",
+			"roundState": "3",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/24218/20/10782/15235/5c88cb40E1c031d57/ea145e9a704fecd4.png",
+			"awardState": "1",
+			"growth": "0",
+			"nutrients": "0",
+			"redDot": "2"
+		}],
+		"awardList": [{
+			"state": "1",
+			"awardName": "每日签到",
+			"awardType": "1",
+			"timesNutrients": "1",
+			"daysNutrients": "1",
+			"limitFlag": "2",
+			"linkUrl": "https://bean.m.jd.com"
+		},
+		{
+			"state": "1",
+			"awardName": "浏览店铺",
+			"awardType": "3",
+			"timesNutrients": "1",
+			"daysNutrients": "4",
+			"limitFlag": "1"
+		},
+		{
+			"state": "1",
+			"awardName": "邀请好友",
+			"awardType": "2",
+			"timesNutrients": "2",
+			"daysNutrients": "10",
+			"limitFlag": "1"
+		},
+		{
+			"state": "1",
+			"awardName": "宠物生活",
+			"awardType": "4",
+			"timesNutrients": "1",
+			"daysNutrients": "31",
+			"limitFlag": "1",
+			"linkUrl": "https://pro.m.jd.com/mall/active/43iqU29XjP213y89z2aidfWjA9Mb/index.html "
+		}],
+		"accessFlag": "2",
+		"timeNutrientsRes": {
+			"state": "1",
+			"countDown": "6449",
+			"bottleState": "1",
+			"nextReceiveTime": "1553499585000",
+			"nutrCount": "1"
+		},
+		"purchasePopTxt": "浏览宠物生活会场即可获得1瓶营养液，购买宠物生活商品次日12点前可得30瓶营养液！",
+		"shareInfo": {
+			"shareTitle": "种豆瓜分亿万京豆，此游戏引起极度舒适",
+			"shareContent": "这是一封来自种豆得豆的邀请函",
+			"shareIcon": "https://m.360buyimg.com/mobilecms/jfs/t1/29481/22/5958/5227/5c4538e9Ea92a164e/2488f53a3acd0704.png",
+			"shareTitleImage": "https://img12.360buyimg.com/devfe/jfs/t1/22818/22/5934/1759/5c4562f3E395bd4dd/fea7c18329970ad8.png",
+			"shareMainTitle": "我在参与种豆得豆活动",
+			"shareSubTitle": "邀请你来和我一起种豆",
+			"shareImage": "https://img30.360buyimg.com/devfe/jfs/t1/10500/39/9383/143980/5c453c64Eb4600d89/e8f8c914bd6af877.png",
+			"shareUrl": "https://bean.m.jd.com/plantBean/shareIndex.action?shareUuid=vus6cujkbbd7rm5pmpuyavgrd25cpebedmsgogz2afwlyqsgnasq"
+		},
+		"timeNutrsCalenInfo": {
+			"openTxt": "打开营养液收取提醒，一瓶也不错过",
+			"openBtnTxt": "开启提醒",
+			"closeTxt": "真的不需要提醒了嘛？再考虑一下吧",
+			"closeBtnTxt": "关闭提醒",
+			"openToastTxt": "小水车营养液收取提醒已开启",
+			"closeToastTxt": "小水车营养液收取提醒已关闭",
+			"calenTitle": "种豆得豆",
+			"calenContent": "小水车已生产完营养液，快来领取吧",
+			"calenLinkUrl": "{\"des\":\"jdreactcommon\",\"params\":{\"modulename\":\"JDReactSowAndReap\",\"appname\":\"JDReactSowAndReap\",\"param\":{\"page\":\"JDReactSowAndReap\",\"source\":\"\",
+			\"transparentenable\":true}}}"
+		},
+		"timeNutrsCalenFlag": "2",
+		"dynamicSwitch": "1",
+		"plantUserInfo": {
+			"plantNickName": "jd4cbq",
+			"userHeadImg": "https://m.360buyimg.com/mobilecms/jfs/t1/28488/11/5963/1415/5c4597f7E17865e2b/f34d8f9da07e991d.png"
+		},
+		"stealEntrySwitch": "1"
+	}
+});
+
+jsonp_1554084468356_60220({
+	"code": "0",
+	"data": {
+		"entryId": "2tpyf45pvqnbyoqbns6eertieu",
+		"advert": {
+			"imgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/33141/27/289/24784/5c9dbb92E1e357479/ea45222aac687c0d.gif",
+			"linkUrl": "https://pro.m.jd.com/mall/active/3QSVk8sybx3Q28nNFE5o2pHGRmpA/index.html"
+		},
+		"roundList": [{
+			"roundId": "7elsomlpbeqrmoqbns6eertieu",
+			"roundState": "1",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/27146/22/10585/15632/5c88cb28Edae727c7/66733a093a97f2d9.png",
+			"awardState": "5",
+			"beanState": "4",
+			"growth": "212",
+			"redDot": "1"
+		},
+		{
+			"roundId": "tl3ipmnxsoctsoqbns6eertieu",
+			"roundState": "2",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/24218/20/10782/15235/5c88cb40E1c031d57/ea145e9a704fecd4.png",
+			"awardState": "1",
+			"beanState": "1",
+			"growth": "10",
+			"nutrients": "0",
+			"redDot": "1"
+		},
+		{
+			"roundId": "7or5w3snocmzooqbns6eertieu",
+			"roundState": "3",
+			"headImgUrl": "https://m.360buyimg.com/njmobilecms/jfs/t1/30781/27/5876/15521/5c88cb4eEb952a736/2ae619e524664079.png",
+			"awardState": "1",
+			"growth": "0",
+			"nutrients": "0",
+			"redDot": "2"
+		}],
+		"awardList": [{
+			"state": "1",
+			"awardName": "每日签到",
+			"awardType": "1",
+			"timesNutrients": "1",
+			"daysNutrients": "1",
+			"limitFlag": "2",
+			"linkUrl": "https://bean.m.jd.com"
+		},
+		{
+			"state": "1",
+			"awardName": "浏览店铺",
+			"awardType": "3",
+			"timesNutrients": "1",
+			"daysNutrients": "4",
+			"limitFlag": "2"
+		},
+		{
+			"state": "1",
+			"awardName": "邀请好友",
+			"awardType": "2",
+			"timesNutrients": "2",
+			"daysNutrients": "10",
+			"limitFlag": "1"
+		},
+		{
+			"state": "1",
+			"awardName": "宠物生活",
+			"awardType": "4",
+			"timesNutrients": "1",
+			"daysNutrients": "31",
+			"limitFlag": "2",
+			"linkUrl": "https://pro.m.jd.com/mall/active/43iqU29XjP213y89z2aidfWjA9Mb/index.html"
+		}],
+		"accessFlag": "2",
+		"timeNutrientsRes": {
+			"state": "3",
+			"countDown": "8641",
+			"bottleState": "1",
+			"nextReceiveTime": "1554093108000",
+			"nutrCount": "0"
+		},
+		"purchasePopTxt": "浏览宠物生活会场即可获得1瓶营养液，购买宠物生活商品次日12点前可得30瓶营养液！",
+		"shareInfo": {
+			"shareTitle": "帮我点一下，数亿京豆一起分",
+			"shareContent": "这是一封来自种豆得豆的邀请函",
+			"shareIcon": "https://m.360buyimg.com/mobilecms/jfs/t1/29481/22/5958/5227/5c4538e9Ea92a164e/2488f53a3acd0704.png",
+			"shareTitleImage": "https://img12.360buyimg.com/devfe/jfs/t1/22818/22/5934/1759/5c4562f3E395bd4dd/fea7c18329970ad8.png",
+			"shareMainTitle": "我在参与种豆得豆活动",
+			"shareSubTitle": "邀请你来和我一起种豆",
+			"shareImage": "https://img30.360buyimg.com/devfe/jfs/t1/10500/39/9383/143980/5c453c64Eb4600d89/e8f8c914bd6af877.png",
+			"shareUrl": "https://bean.m.jd.com/plantBean/shareIndex.action?shareUuid=vus6cujkbbd7rm5pmpuyavgrd25cpebedmsgogz2afwlyqsgnasq"
+		},
+		"timeNutrsCalenInfo": {
+			"openTxt": "打开营养液收取提醒，一瓶也不错过",
+			"openBtnTxt": "开启提醒",
+			"closeTxt": "真的不需要提醒了嘛？再考虑一下吧",
+			"closeBtnTxt": "关闭提醒",
+			"openToastTxt": "小水车营养液收取提醒已开启",
+			"closeToastTxt": "小水车营养液收取提醒已关闭",
+			"calenTitle": "种豆得豆",
+			"calenContent": "小水车已生产完营养液，快来领取吧",
+			"calenLinkUrl": "{\"des\":\"jdreactcommon\",\"params\":{\"modulename\":\"JDReactSowAndReap\",\"appname\":\"JDReactSowAndReap\",\"param\":{\"page\":\"JDReactSowAndReap\",\"source\":\"\",
+			\"transparentenable\":true}}}"
+		},
+		"timeNutrsCalenFlag": "2",
+		"dynamicSwitch": "1",
+		"plantUserInfo": {
+			"plantNickName": "jd4cbq",
+			"userHeadImg": "https://m.360buyimg.com/mobilecms/jfs/t1/28488/11/5963/1415/5c4597f7E17865e2b/f34d8f9da07e991d.png"
+		},
+		"stealEntrySwitch": "1"
+	}
+});
+-------------------------------------------
+
+https://api.m.jd.com/client.action?functionId=shopTaskList&body=%7B%22monitor_source%22%3A%22plant_m_plant_index%22%2C%22monitor_refer%22%3A%22plant_shopList%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1553160009538_54213
+
+
+
+:authority: api.m.jd.com
+:method: GET
+:path: /client.action?functionId=shopTaskList&body=%7B%22monitor_source%22%3A%22plant_m_plant_index%22%2C%22monitor_refer%22%3A%22plant_shopList%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1553160009538_54213
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie: 
+
+functionId: shopTaskList
+body: {"monitor_source":"plant_m_plant_index","monitor_refer":"plant_shopList"}
+appid: ld
+client: android
+clientVersion: 
+networkType: 
+osVersion: 
+uuid: 
+jsonp: jsonp_1553160009538_54213
+
+jsonp_1553160009538_54213({
+	"code": "0",
+	"data": {
+		"goodShopList": [{
+			"shopTaskId": "4361",
+			"shopId": "588159",
+			"taskState": "1",  //已收取
+			"shopName": "Sprandi旗舰店",
+			"shopLogo": "https://img30.360buyimg.com/popshop/jfs/t10876/12/2330705357/8422/73c69c14/59f422c4N1825572a.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=588159"
+		},
+		{
+			"shopTaskId": "4362",
+			"shopId": "1000099947",
+			"taskState": "2",  //还未收取营养液
+			"shopName": "特步品牌自营店",
+			"shopLogo": "https://img30.360buyimg.com/popshop/jfs/t14746/205/2461417824/17040/44b0abfa/5a9fa3d8N22049351.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=1000099947"
+		},
+		{
+			"shopTaskId": "4363",
+			"shopId": "1000147101",
+			"taskState": "2",
+			"shopName": "Columbia自营旗舰",
+			"shopLogo": "https://img13.360buyimg.com/cms/jfs/t1/8771/10/12633/7402/5c3706b8E1ae02af3/b534b5bb3d9775fd.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=1000147101"
+		},
+		{
+			"shopTaskId": "4364",
+			"shopId": "13726",
+			"taskState": "1",
+			"shopName": "骆驼户外旗舰店",
+			"shopLogo": "https://img10.360buyimg.com/cms/jfs/t20083/196/507316546/6656/cb46f9e1/5af806d2Nd25b0885.png",
+			"linkUrl": "https://shop.m.jd.com/?shopId=13726"
+		},
+		{
+			"shopTaskId": "4365",
+			"shopId": "1000011661",
+			"taskState": "1",
+			"shopName": "京东时尚户外馆",
+			"shopLogo": "https://img13.360buyimg.com/cms/jfs/t1/25438/18/6823/11551/5c63f4acE6e1c11ca/a368ec2c4d89728a.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=1000011661"
+		},
+		{
+			"shopTaskId": "4366",
+			"shopId": "1000084402",
+			"taskState": "2",
+			"shopName": "体育器材自营专区",
+			"shopLogo": "https://img30.360buyimg.com/popshop/jfs/t11431/63/1678981453/12420/4697f445/5a0555e9N505b1b34.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=1000084402"
+		}],
+		"moreShopList": [{
+			"shopTaskId": "4569",
+			"shopId": "83358",
+			"taskState": "2",
+			"shopName": "卡宾男装旗舰店",
+			"shopLogo": "https://img14.360buyimg.com/jshopm/jfs/t2149/267/2134158944/8878/d6fdce40/56f25296Nece84aab.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=83358"
+		},
+		{
+			"shopTaskId": "4528",
+			"shopId": "209800",
+			"taskState": "2",
+			"shopName": "红功夫专营店",
+			"shopLogo": "https://img12.360buyimg.com/jshopm/jfs/t4417/70/3283008730/15382/bb66e761/58f97167Nc0840b7c.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=209800"
+		},
+		{
+			"shopTaskId": "4667",
+			"shopId": "1000083239",
+			"taskState": "2",
+			"shopName": "HERA赫妍京东自营官方旗舰店",
+			"shopLogo": "https://img14.360buyimg.com/jshopm/jfs/t4249/192/439283360/18964/b35d2000/58b4e31aNd547b035.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=1000083239"
+		},
+		{
+			"shopTaskId": "4671",
+			"shopId": "1000003835",
+			"taskState": "2",
+			"shopName": "高夫京东自营旗舰店",
+			"shopLogo": "https://img30.360buyimg.com/popshop/jfs/t1327/344/915102707/4182/f53e8f23/55e3b304N18850277.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=1000003835"
+		},
+		{
+			"shopTaskId": "4579",
+			"shopId": "202494",
+			"taskState": "2",
+			"shopName": "Genanx官方旗舰店",
+			"shopLogo": "https://img14.360buyimg.com/cms/jfs/t25990/57/2435459753/4964/24e43c01/5be537c7Nb60ca8b2.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=202494"
+		},
+		{
+			"shopTaskId": "4559",
+			"shopId": "43224",
+			"taskState": "2",
+			"shopName": "UO男装旗舰店",
+			"shopLogo": "https://img30.360buyimg.com/popshop/jfs/t2515/260/299431831/3126/24b6b355/56436a91Ne5dfdb6f.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=43224"
+		},
+		{
+			"shopTaskId": "4664",
+			"shopId": "1000091941",
+			"taskState": "2",
+			"shopName": "琅琊台京东自营旗舰店",
+			"shopLogo": "https://img11.360buyimg.com/cms/jfs/t25303/150/1179719705/15978/c73a00a4/5b8cf657Nd21e1b1a.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=1000091941"
+		},
+		{
+			"shopTaskId": "4542",
+			"shopId": "1000013402",
+			"taskState": "2",
+			"shopName": "伊利牛奶京东自营旗舰店",
+			"shopLogo": "https://img11.360buyimg.com/cms/jfs/t1/21053/10/9709/4681/5c81d12fE93c94e91/c5c04aed45e67087.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=1000013402"
+		},
+		{
+			"shopTaskId": "4533",
+			"shopId": "1000003003",
+			"taskState": "2",
+			"shopName": "小迷糊京东自营旗舰店",
+			"shopLogo": "https://img30.360buyimg.com/popshop/jfs/t21118/250/382019272/5434/e49b7277/5b0b731eNc30fcf8e.png",
+			"linkUrl": "https://shop.m.jd.com/?shopId=1000003003"
+		},
+		{
+			"shopTaskId": "4564",
+			"shopId": "61261",
+			"taskState": "2",
+			"shopName": "ALTFINEISM官方旗舰店",
+			"shopLogo": "https://img13.360buyimg.com/cms/jfs/t25219/62/1703447831/17428/ead86757/5bba0718Ncaca9edb.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=61261"
+		},
+		{
+			"shopTaskId": "4663",
+			"shopId": "1000016826",
+			"taskState": "2",
+			"shopName": "衡水老白干京东自营官方旗舰店",
+			"shopLogo": "https://img30.360buyimg.com/popshop/jfs/t5752/280/602228681/8593/acbf5e30/59205897N34977dda.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=1000016826"
+		},
+		{
+			"shopTaskId": "4589",
+			"shopId": "641388",
+			"taskState": "2",
+			"shopName": "LAFUMA旗舰店",
+			"shopLogo": "https://img12.360buyimg.com/jshopm/jfs/t4543/175/128494878/3590/577414c6/58ca2effN28a6b4c0.png",
+			"linkUrl": "https://shop.m.jd.com/?shopId=641388"
+		},
+		{
+			"shopTaskId": "4531",
+			"shopId": "1000116947",
+			"taskState": "2",
+			"shopName": "尊蓝京东自营官方旗舰店",
+			"shopLogo": "https://img11.360buyimg.com/cms/jfs/t27775/63/1439715870/3540/bf8dc314/5be4041dNe3628c90.png",
+			"linkUrl": "https://shop.m.jd.com/?shopId=1000116947"
+		},
+		{
+			"shopTaskId": "4591",
+			"shopId": "653132",
+			"taskState": "2",
+			"shopName": "道台府旗舰店",
+			"shopLogo": "https://img30.360buyimg.com/popshop/jfs/t4681/331/1852992904/9605/26df5f7b/58e73a34Na44532bf.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=653132"
+		},
+		{
+			"shopTaskId": "4674",
+			"shopId": "1000014661",
+			"taskState": "2",
+			"shopName": "roseonly京东自营旗舰店",
+			"shopLogo": "https://img13.360buyimg.com/cms/jfs/t1/3098/23/2845/4677/5b9783fcE2919deaa/fb212d205d2af6f7.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=1000014661"
+		},
+		{
+			"shopTaskId": "4532",
+			"shopId": "1000115183",
+			"taskState": "2",
+			"shopName": "优理氏京东自营旗舰店",
+			"shopLogo": "https://img13.360buyimg.com/cms/jfs/t1/14344/11/1594/13467/5c1374ecE608f5f71/02ef76e7fec6d3b8.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=1000115183"
+		},
+		{
+			"shopTaskId": "4536",
+			"shopId": "1000007502",
+			"taskState": "2",
+			"shopName": "后京东自营官方旗舰店",
+			"shopLogo": "https://img30.360buyimg.com/popshop/jfs/t2323/273/430152443/18574/b300f2ab/560a5c7aN7c8fcb4e.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=1000007502"
+		},
+		{
+			"shopTaskId": "4689",
+			"shopId": "1000003795",
+			"taskState": "2",
+			"shopName": "佳洁士京东自营官方旗舰店",
+			"shopLogo": "https://img30.360buyimg.com/popshop/jfs/t1345/280/217388973/15408/db21f6af/55655efaN56999e0a.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=1000003795"
+		},
+		{
+			"shopTaskId": "4549",
+			"shopId": "1000001947",
+			"taskState": "2",
+			"shopName": "一加手机京东自营官方旗舰店",
+			"shopLogo": "https://img10.360buyimg.com/cms/jfs/t29401/111/961435273/4647/506379e1/5c048da8N23d7ccff.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=1000001947"
+		},
+		{
+			"shopTaskId": "4571",
+			"shopId": "92600",
+			"taskState": "2",
+			"shopName": "DUSTY官方旗舰店",
+			"shopLogo": "https://img30.360buyimg.com/popshop/jfs/t487/321/806417922/22128/8705d4ac/548a9790N555b8846.jpg",
+			"linkUrl": "https://shop.m.jd.com/?shopId=92600"
+		}]
+	}
+});
+
+-----------------------------------------------------
+https://api.m.jd.com/client.action?functionId=shopNutrientsTask&body=%7B%22shopTaskId%22%3A%224366%22%2C%22shopId%22%3A%221000084402%22%2C%22monitor_source%22%3A%22plant_m_plant_index%22%2C%22monitor_refer%22%3A%22plant_shopNutrientsTask%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1553161030218_11048
+
+
+:authority: api.m.jd.com
+:method: GET
+:path: /client.action?functionId=shopNutrientsTask&body=%7B%22shopTaskId%22%3A%224366%22%2C%22shopId%22%3A%221000084402%22%2C%22monitor_source%22%3A%22plant_m_plant_index%22%2C%22monitor_refer%22%3A%22plant_shopNutrientsTask%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1553161030218_11048
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie: 
+referer: https://bean.m.jd.com/AttentionStore
+user-agent: "Mozilla/5.0 (Linux; Android 8.0; DUK-AL20 Build/HUAWEIDUK-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/6.2 TBS/044353 Mobile Safari/537.36 MicroMessenger/6.7.3.1360(0x26070333) NetType/WIFI Language/zh_CN Process/tools"
+
+
+functionId: shopNutrientsTask
+body: {"shopTaskId":"4366","shopId":"1000084402","monitor_source":"plant_m_plant_index","monitor_refer":"plant_shopNutrientsTask"}
+appid: ld
+client: android
+clientVersion: 
+networkType: 
+osVersion: 
+uuid: 
+
+
+
+----------------------逛主会场得营养液
+https://api.m.jd.com/client.action?functionId=purchaseRewardTask&body=%7B%22roundId%22%3A%22fowvh34lk3ne2oqbns6eertieu%22%2C%22monitor_source%22%3A%22plant_m_plant_index%22%2C%22monitor_refer%22%3A%22plant_purchaseRewardTask%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1553161262455_39457
+
+
+:authority: api.m.jd.com
+:method: GET
+:path: /client.action?functionId=purchaseRewardTask&body=%7B%22roundId%22%3A%22fowvh34lk3ne2oqbns6eertieu%22%2C%22monitor_source%22%3A%22plant_m_plant_index%22%2C%22monitor_refer%22%3A%22plant_purchaseRewardTask%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1553161262455_39457
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie: 
+referer: https://bean.m.jd.com/plantBean/index.action?resourceValue=bean
+user-agent: "Mozilla/5.0 (Linux; Android 8.0; DUK-AL20 Build/HUAWEIDUK-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/6.2 TBS/044353 Mobile Safari/537.36 MicroMessenger/6.7.3.1360(0x26070333) NetType/WIFI Language/zh_CN Process/tools"
+
+
+functionId: purchaseRewardTask
+body: {"roundId":"fowvh34lk3ne2oqbns6eertieu","monitor_source":"plant_m_plant_index","monitor_refer":"plant_purchaseRewardTask"}
+appid: ld
+client: android
+clientVersion: 
+networkType: 
+osVersion: 
+uuid: 
+jsonp: jsonp_1553161262455_39457
+
+----------------------------------------培养---------------------------
+https://api.m.jd.com/client.action?functionId=cultureBean&body=%7B%22roundId%22%3A%22fowvh34lk3ne2oqbns6eertieu%22%2C%22monitor_source%22%3A%22plant_m_plant_index%22%2C%22monitor_refer%22%3A%22plant_index%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1553161986237_48467
+
+:authority: api.m.jd.com
+:method: GET
+:path: /client.action?functionId=cultureBean&body=%7B%22roundId%22%3A%22fowvh34lk3ne2oqbns6eertieu%22%2C%22monitor_source%22%3A%22plant_m_plant_index%22%2C%22monitor_refer%22%3A%22plant_index%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1553161986237_48467
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie: 
+referer: https://bean.m.jd.com/plantBean/index.action?resourceValue=bean
+user-agent: "Mozilla/5.0 (Linux; Android 8.0; DUK-AL20 Build/HUAWEIDUK-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/6.2 TBS/044353 Mobile Safari/537.36 MicroMessenger/6.7.3.1360(0x26070333) NetType/WIFI Language/zh_CN Process/tools"
+
+
+functionId: cultureBean
+body: {"roundId":"fowvh34lk3ne2oqbns6eertieu","monitor_source":"plant_m_plant_index","monitor_refer":"plant_index"}
+appid: ld
+client: android
+clientVersion: 
+networkType: 
+osVersion: 
+uuid: 
+jsonp: jsonp_1553161986237_48467
+
+jsonp_1553161986237_48467({
+	"code": "0",
+	"data": {
+		"growth": "118",
+		"nutrients": "0",
+		"beanState": "4"
+	}
+});
+
+
+https://api.m.jd.com/client.action?functionId=receivedBean&body=%7B%22roundId%22%3A%227elsomlpbeqrmoqbns6eertieu%22%2C%22monitor_source%22%3A%22plant_m_plant_index%22%2C%22monitor_refer%22%3A%22plant_index%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1554084602057_1477
+
+GET /client.action?functionId=receivedBean&body=%7B%22roundId%22%3A%227elsomlpbeqrmoqbns6eertieu%22%2C%22monitor_source%22%3A%22plant_m_plant_index%22%2C%22monitor_refer%22%3A%22plant_index%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1554084602057_1477 HTTP/1.1
+Host: api.m.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Accept: */*
+Referer: https://bean.m.jd.com/plantBean/index.action?resourceValue=bean
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+functionId: receivedBean
+body: {"roundId":"7elsomlpbeqrmoqbns6eertieu","monitor_source":"plant_m_plant_index","monitor_refer":"plant_index"}
+appid: ld
+client: android
+clientVersion: 
+networkType: 
+osVersion: 
+uuid: 
+jsonp: jsonp_1554084602057_1477
+
+jsonp_1554084602057_1477({
+	"code": "0",
+	"data": {
+		"growth": "212",
+		"awardBean": "101",
+		"awardState": "6",
+		"titleImg": "https://m.360buyimg.com/njmobilecms/jfs/t30070/290/841248735/1565/7b045c0c/5bff6044N1288f51e.png",
+		"shareImg": "https://m.360buyimg.com/njmobilecms/jfs/t27355/122/2357790042/149967/f9d5f996/5bff6030N045e061f.png",
+		"shareUrl": "https://bean.m.jd.com/plantBean/newshare.action"
+	}
+});
+
+-----------------------------------
+https://api.m.jd.com/client.action?functionId=plantFriendList&body=%7B%22pageNum%22%3A%221%22%2C%22monitor_source%22%3A%22plant_m_plant_index%22%2C%22monitor_refer%22%3A%22plantFriendList%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1554356521916_14801
+
+
+
+functionId: plantFriendList
+body: {"pageNum":"1","monitor_source":"plant_m_plant_index","monitor_refer":"plantFriendList"}
+appid: ld
+client: android
+clientVersion:
+networkType:
+osVersion:
+uuid:
+jsonp: jsonp_1554356521916_14801
+
+
+{'code': '0', 'errorCode': 'PB001', 'errorMessage': '抱歉，活动太火爆了'}
+
+jsonp_1554356521916_14801({
+	"code": "0",
+	"data": {
+		"shareInfo": {
+			"shareTitle": "想做这条街最靓的仔，必须来种豆乐园玩",
+			"shareContent": "Ta邀请你一起进入种豆乐园",
+			"shareIcon": "https://m.360buyimg.com/mobilecms/jfs/t1/29481/22/5958/5227/5c4538e9Ea92a164e/2488f53a3acd0704.png",
+			"shareUrl": "https://bean.m.jd.com/plantBean/shareIndex.action?shareUuid=vus6cujkbbd7rm5pmpuyavgrd25cpebedmsgogz2afwlyqsgnasq"
+		},
+		"friendInfoList": [{
+			"paradiseUuid": "fgwqr77oc7pan2rcb5ql4e6zwupg2v3rbmjesza",
+			"plantNickName": "鲁鲁曾曾",
+			"userHeadImg": "https://storage.360buyimg.com/i.imageUpload/6a645f3435353061396561613836313331343638313630393837393234_big.jpg",
+			"nutrCount": "1",
+			"friendType": "1",
+			"userType": "1"
+		},
+		{
+			"paradiseUuid": "dlcsnfqf26azj653skmy3c4iooylwvn5tqugdlq",
+			"plantNickName": "jd_623b605b0af76",
+			"userHeadImg": "https://m.360buyimg.com/mobilecms/jfs/t1/28488/11/5963/1415/5c4597f7E17865e2b/f34d8f9da07e991d.png",
+			"nutrCount": "1",
+			"friendType": "1",
+			"userType": "1"
+		},
+		{
+			"paradiseUuid": "aiwhpd2ir5lnm4bnlgwohq45uz2s4ulfnero6wq",
+			"plantNickName": "两样人心别",
+			"userHeadImg": "https://storage.360buyimg.com/i.imageUpload/c1bdd1f9c8cbd0c4b1f031353438323838393135383637_big.jpg",
+			"nutrCount": "1",
+			"friendType": "1",
+			"userType": "1"
+		},
+		{
+			"paradiseUuid": "5objctj5f6nhr3mxctxpnpzbgm3h7wlwy7o5jii",
+			"plantNickName": "tianye_20021111",
+			"userHeadImg": "https://storage.360buyimg.com/i.imageUpload/31333635333539333231395f7031353336373137323438373831_big.jpg",
+			"nutrCount": "1",
+			"friendType": "1",
+			"userType": "1"
+		},
+		{
+			"paradiseUuid": "dlcsnfqf26azipfn7z7niwjxsdyubvaonpuj4qi",
+			"plantNickName": "jd_135420zmm",
+			"userHeadImg": "https://m.360buyimg.com/mobilecms/jfs/t1/28488/11/5963/1415/5c4597f7E17865e2b/f34d8f9da07e991d.png",
+			"nutrCount": "1",
+			"friendType": "1",
+			"userType": "1"
+		},
+		{
+			"paradiseUuid": "x4dqarrfw22un5yxyrjenor34wnrmmetmaf42da",
+			"plantNickName": "jd_133720ksg",
+			"userHeadImg": "https://m.360buyimg.com/mobilecms/jfs/t1/28488/11/5963/1415/5c4597f7E17865e2b/f34d8f9da07e991d.png",
+			"nutrCount": "2",
+			"friendType": "1",
+			"userType": "1"
+		},
+		{
+			"paradiseUuid": "x4dqarrfw22un5pver2xihoobe3h24z7afc67xq",
+			"plantNickName": "Xurunan",
+			"userHeadImg": "https://storage.360buyimg.com/i.imageUpload/6a645f3534663566623139353961363831343239393731323733353839_big.jpg",
+			"nutrCount": "1",
+			"friendType": "1",
+			"userType": "1"
+		},
+		{
+			"paradiseUuid": "ftnbef4snyof7nfss5fp6wsh3y",
+			"plantNickName": "xinsaifei",
+			"userHeadImg": "https://storage.360buyimg.com/i.imageUpload/78696e7361696665695f6d31353336343930353333353633_big.jpg",
+			"nutrCount": "2",
+			"friendType": "1",
+			"userType": "1"
+		},
+		{
+			"paradiseUuid": "3vnck45hgqcgiywcrocgtr4zkm",
+			"plantNickName": "wmsat2000",
+			"userHeadImg": "https://storage.360buyimg.com/i.imageUpload/776d736174323030305f6d31343631343632363035343036_big.jpg",
+			"friendType": "1",
+			"userType": "2"
+		}]
+	}
+});
+
+---------------------------------------
+https://bean.m.jd.com/FriendParadise?paradiseUuid=x4dqarrfw22un5yxyrjenor34wnrmmetmaf42da&roundId=tl3ipmnxsoctsoqbns6eertieu
+
+https://api.m.jd.com/client.action?functionId=plantParadiseInfo&body=%7B%22paradiseUuid%22%3A%22x4dqarrfw22un5yxyrjenor34wnrmmetmaf42da%22%2C%22roundId%22%3A%22tl3ipmnxsoctsoqbns6eertieu%22%2C%22monitor_source%22%3A%22plant_m_plant_index%22%2C%22monitor_refer%22%3A%22plantParadiseInfo%22%7D&appid=ld&client=android&clientVersion=&networkType=&osVersion=&uuid=&jsonp=jsonp_1554356695069_15563
+functionId: plantParadiseInfo
+body: {"paradiseUuid":"x4dqarrfw22un5yxyrjenor34wnrmmetmaf42da","roundId":"tl3ipmnxsoctsoqbns6eertieu","monitor_source":"plant_m_plant_index","monitor_refer":"plantParadiseInfo"}
+appid: ld
+client: android
+clientVersion:
+networkType:
+osVersion:
+uuid:
+jsonp: jsonp_1554356695069_15563
+
+--------------------------
+https://api.m.jd.com/client.action?appid=JDReactToWeb&functionId=getLoginPin&body=%5Bobject%20Object%5D&t=1554356694876&jsonp=jsonp_1554356694876_58182
+
+appid: JDReactToWeb
+functionId: getLoginPin
+body: [object Object]
+t: 1554356694876
+jsonp: jsonp_1554356694876_58182
+
+jsonp_1554356694876_58182({"success":true,"errorCode":null,"errMsg":null,"data":"chenbenqing530905787"});

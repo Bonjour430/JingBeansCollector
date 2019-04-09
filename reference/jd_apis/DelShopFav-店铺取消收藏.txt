@@ -1,0 +1,16 @@
+https://wq.jd.com/fav/shop/DelShopFav?shopId=1000002367&venderId=1000002367&_=1552459312919&g_login_type=0&callback=jsonpCBKK&g_tk=170665066&g_ty=ls
+
+
+GET /fav/shop/DelShopFav?shopId=1000002367&venderId=1000002367&_=1552459312919&g_login_type=0&callback=jsonpCBKK&g_tk=170665066&g_ty=ls HTTP/1.1
+Host: wq.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Accept: */*
+Referer: https://wq.jd.com/mshop/gethomepage?shopId=1000002367
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: 
+
+
+
+try{jsonpCBKK({"iRet":"0","errMsg":"success"});}catch(e){}

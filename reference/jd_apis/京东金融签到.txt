@@ -1,0 +1,31 @@
+
+
+https://vip.jr.jd.com
+
+
+https://vip.jr.jd.com/newSign/querySignRecord
+POST 
+'Host': 'api.m.jd.com',
+'Accept': '*/*',
+'Accept-Language': 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+'Accept-Encoding': 'gzip, deflate, br',
+'Connection': 'keep-alive',
+'Referer': 'https://vip.jr.jd.com'
+
+{
+	"currentTime": 1553671885651,
+	"historyList": ["1553131046000",
+	"1553444401000",
+	"1553038318000",
+	"1552925276000"],
+	"accountBalance": "1.08",
+	"signContinuity": "45",
+	"isFlag": true,
+	"rewardTotal": "4",
+	"signCount": "95",
+	"rewardType": 3
+}
+
+
+https://vip.jr.jd.com/newSign/doSign
+POST

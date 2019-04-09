@@ -1,0 +1,360 @@
+https://wq.jd.com/mjgj/column/BatchQueryShopFavGift?venderIds=1000001462%2C59976%2C1000001901%2C1000001195%2C1000013061%2C116818%2C1000001335%2C1000084824%2C76427%2C1000001465&channel=7&_=1553844707654&g_login_type=0&callback=jsonpCBKE&g_tk=953992284&g_ty=ls
+
+
+GET /mjgj/column/BatchQueryShopFavGift?venderIds=1000001462%2C59976%2C1000001901%2C1000001195%2C1000013061%2C116818%2C1000001335%2C1000084824%2C76427%2C1000001465&channel=7&_=1553844707654&g_login_type=0&callback=jsonpCBKE&g_tk=953992284&g_ty=ls HTTP/1.1
+Host: wq.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; CLT-AL00 Build/HUAWEICLT-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.83 Mobile Safari/537.36 T7/10.13 baiduboxapp/10.13.0.10 (Baidu; P1 8.1.0)
+Accept: */*
+Referer: https://wqs.jd.com/my/fav/shop_fav.shtml
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: 
+
+
+venderIds: 1000001462,59976,1000001901,1000001195,1000013061,116818,1000001335,1000084824,76427,1000001465
+channel: 7
+_: 1553844707654
+g_login_type: 0
+callback: jsonpCBKE
+g_tk: 953992284
+g_ty: ls
+
+
+
+jsonpCBKE({
+	"errcode": 0,
+	"msg": "success",
+	"data": [{
+		"venderId": "59976",
+		"isFav": "1",
+		"giftCode": "0",
+		"giftInfo": [{
+			"id": "0",
+			"venderId": "59976",
+			"activityId": "389177",
+			"prizeType": "0",
+			"discount": "1",
+			"quota": "0",
+			"modelNameList": [{
+				"code": "-2",
+				"desc": "全部用户"
+			}]
+		},
+		{
+			"id": "0",
+			"venderId": "59976",
+			"activityId": "389177",
+			"prizeType": "1",
+			"discount": "10",
+			"quota": "99",
+			"modelNameList": [{
+				"code": "-2",
+				"desc": "全部用户"
+			}]
+		},
+		{
+			"id": "0",
+			"venderId": "59976",
+			"activityId": "389177",
+			"prizeType": "6",
+			"discount": "5",
+			"quota": "0",
+			"modelNameList": [{
+				"code": "-2",
+				"desc": "全部用户"
+			}]
+		}]
+	},
+	{
+		"venderId": "76427",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "116818",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "1000001195",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "1000001335",
+		"isFav": "1",
+		"giftCode": "0",
+		"giftInfo": [{
+			"id": "0",
+			"venderId": "1000001335",
+			"activityId": "412001",
+			"prizeType": "1",
+			"discount": "20",
+			"quota": "1000",
+			"modelNameList": [{
+				"code": "-2",
+				"desc": "全部用户"
+			}]
+		}]
+	},
+	{
+		"venderId": "1000001462",
+		"isFav": "1",
+		"giftCode": "201",
+		"giftInfo": []
+	},
+	{
+		"venderId": "1000001465",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "1000001901",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "1000013061",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "1000084824",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	}]
+});
+
+
+
+
+jsonpCBKE({
+	"errcode": 0,
+	"msg": "success",
+	"data": [{
+		"venderId": "59976",
+		"isFav": "1",
+		"giftCode": "0",
+		"giftInfo": [{
+			"id": "0",
+			"venderId": "59976",
+			"activityId": "389177",
+			"prizeType": "0",  // 店铺京券
+			"discount": "1",
+			"quota": "0",
+			"modelNameList": [{
+				"code": "-2",
+				"desc": "全部用户"
+			}]
+		},
+		{
+			"id": "0",
+			"venderId": "59976",
+			"activityId": "389177",
+			"prizeType": "1",  //店铺东券
+			"discount": "10",
+			"quota": "99",
+			"modelNameList": [{
+				"code": "-2",
+				"desc": "全部用户"
+			}]
+		},
+		{
+			"id": "0",
+			"venderId": "59976",
+			"activityId": "389177",
+			"prizeType": "6",  //店铺积分
+			"discount": "5",
+			"quota": "0",
+			"modelNameList": [{
+				"code": "-2",
+				"desc": "全部用户"
+			}]
+		}]
+	},
+	{
+		"venderId": "116818",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "1000001195",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "1000001335",
+		"isFav": "1",
+		"giftCode": "0",
+		"giftInfo": [{
+			"id": "0",
+			"venderId": "1000001335",
+			"activityId": "412001",
+			"prizeType": "1",
+			"discount": "20",
+			"quota": "1000",
+			"modelNameList": [{
+				"code": "-2",
+				"desc": "全部用户"
+			}]
+		}]
+	},
+	{
+		"venderId": "1000001395",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "1000001462",
+		"isFav": "1",
+		"giftCode": "201",
+		"giftInfo": []
+	},
+	{
+		"venderId": "1000001901",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "1000002487",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "1000013061",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "1000016941",
+		"isFav": "1",
+		"giftCode": "0",
+		"giftInfo": [{
+			"id": "0",
+			"venderId": "1000016941",
+			"activityId": "435398",
+			"prizeType": "4",  // 京豆
+			"discount": "3",
+			"quota": "0",
+			"modelNameList": [{
+				"code": "-2",
+				"desc": "全部用户"
+			}]
+		}]
+	}]
+});
+
+
+jsonpCBKE({
+	"errcode": 0,
+	"msg": "success",
+	"data": [{
+		"venderId": "47443",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "59976",
+		"isFav": "1",
+		"giftCode": "0",
+		"giftInfo": [{
+			"id": "0",
+			"venderId": "59976",
+			"activityId": "389177",
+			"prizeType": "0",
+			"discount": "1",
+			"quota": "0",
+			"modelNameList": [{
+				"code": "-2",
+				"desc": "全部用户"
+			}]
+		},
+		{
+			"id": "0",
+			"venderId": "59976",
+			"activityId": "389177",
+			"prizeType": "1",
+			"discount": "10",
+			"quota": "99",
+			"modelNameList": [{
+				"code": "-2",
+				"desc": "全部用户"
+			}]
+		},
+		{
+			"id": "0",
+			"venderId": "59976",
+			"activityId": "389177",
+			"prizeType": "6",
+			"discount": "5",
+			"quota": "0",
+			"modelNameList": [{
+				"code": "-2",
+				"desc": "全部用户"
+			}]
+		}]
+	},
+	{
+		"venderId": "76427",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "666889",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "1000001335",
+		"isFav": "1",
+		"giftCode": "0",
+		"giftInfo": [{
+			"id": "0",
+			"venderId": "1000001335",
+			"activityId": "412001",
+			"prizeType": "1",
+			"discount": "20",
+			"quota": "1000",
+			"modelNameList": [{
+				"code": "-2",
+				"desc": "全部用户"
+			}]
+		}]
+	},
+	{
+		"venderId": "1000001465",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "1000015268",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	},
+	{
+		"venderId": "1000088181",
+		"isFav": "1",
+		"giftCode": "402",
+		"giftInfo": []
+	}]
+});
+

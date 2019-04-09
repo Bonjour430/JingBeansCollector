@@ -1,0 +1,74 @@
+关注翻红包
+
+title 关注店铺
+
+
+https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activity?activityId=6e37b432f7b0457aa025b139e7d86fed&adsource=tg_xuanFuTuBiao&lng=107.373228&lat=22.38208&un_area=20_3168_3169_12663&sid=7b8dadd35f80ba22b5446cf25618646w&ShareTm=XTQOygFwiWDvB85vFRxSY2%2BPIY%2FeekA0T0dnWn2ppT9M2KOblZlTeY7%2F61gcTBTpjTooI5wIKEGATxAsVIX%2BF8%2BV3Uj%2FcNuyVCJYWKZXPlKIU9RkT79Px8ygfxQz1Z678NgBf0WfW2FpJlNf7MXQlblwnqxLcK1%2FSpZRgoqOJdw%3D&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends
+
+
+https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activityContentOnly
+
+POST /wxShopFollowActivity/activityContentOnly HTTP/1.1
+Host: lzkj-isv.isvjcloud.com
+Connection: keep-alive
+Content-Length: 68
+Accept: application/json
+Origin: https://lzkj-isv.isvjcloud.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: https://lzkj-isv.isvjcloud.com/wxShopFollowActivity/activity?activityId=6e37b432f7b0457aa025b139e7d86fed&adsource=tg_xuanFuTuBiao&lng=107.373228&lat=22.38208&un_area=20_3168_3169_12663&sid=7b8dadd35f80ba22b5446cf25618646w&ShareTm=XTQOygFwiWDvB85vFRxSY2%2BPIY%2FeekA0T0dnWn2ppT9M2KOblZlTeY7%2F61gcTBTpjTooI5wIKEGATxAsVIX%2BF8%2BV3Uj%2FcNuyVCJYWKZXPlKIU9RkT79Px8ygfxQz1Z678NgBf0WfW2FpJlNf7MXQlblwnqxLcK1%2FSpZRgoqOJdw%3D&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: 
+
+
+activityId=6e37b432f7b0457aa025b139e7d86fed&pin=chenbenqing530905787
+
+
+{
+	"result": true,
+	"data": {
+		"id": "6e37b432f7b0457aa025b139e7d86fed",
+		"cpvos": null,
+		"rule": "1、活动时间：2019-04-01 00:00 至 2019-04-30 23:59；\r\n2、活动对象：新粉丝(未关注店铺)；\r\n3、如店铺设置了积分兑换功能，可直接使用积分兑换相关礼品；\r\n4、奖品数量有限，先到先得；\r\n",
+		"joinMans": 28172,
+		"canJoin": false,
+		"needFollow": true,
+		"hasFollow": true,
+		"canDrawTimes": 0,
+		"userId": 1000002527,
+		"hasJoin": true,
+		"drawContentVOs": [{
+			"id": 235246,
+			"drawChanceStr": "100.000",
+			"size": 0,
+			"name": "10京豆",
+			"type": 6,
+			"value": "502991",
+			"memo": "京豆",
+			"drawLevel": 0,
+			"drawInfoId": 235340,
+			"realValue": "10",
+			"position": 1,
+			"taobaoCaiPiaoId": null,
+			"productUrl": null,
+			"showImage": null,
+			"beanNum": 10,
+			"priceInfo": "0.10",
+			"startScore": null,
+			"endScore": null,
+			"validDate": null,
+			"condition": null,
+			"prizeNum": null,
+			"hasSendPrizeNum": 27985,
+			"bindType": null,
+			"shareTimes": 0,
+			"originContentId": null,
+			"itemId": null,
+			"jdBeansPlan": null
+		}]
+	},
+	"count": 0,
+	"errorMessage": ""
+}

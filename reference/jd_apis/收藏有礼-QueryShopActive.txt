@@ -1,0 +1,232 @@
+https://wq.jd.com/fav_snsgift/QueryShopActive?venderId=654365&_=1551837204756&sceneval=2&g_login_type=1&callback=jsonpCBKC&g_tk=270919183&g_ty=ls
+
+GET /fav_snsgift/QueryShopActive?venderId=654365&_=1551837204756&sceneval=2&g_login_type=1&callback=jsonpCBKC&g_tk=270919183&g_ty=ls HTTP/1.1
+Host: wq.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; CLT-AL00 Build/HUAWEICLT-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.83 Mobile Safari/537.36 T7/10.13 baiduboxapp/10.13.0.10 (Baidu; P1 8.1.0)
+Accept: */*
+Referer: https://shop.m.jd.com/?shopId=650065
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: 
+
+
+try{jsonpCBKC({
+   "errMsg" : "",
+   "fan" : 0,
+   "gift" : [
+      {
+         "activeId" : "1099573115490",
+         "endTime" : 0,
+         "favNum" : 0,
+         "favPin" : null,
+         "giftId" : "84486",
+         "giftLeftState" : 0,
+         "giftType" : 0,
+         "jingBean" : {
+            "sendCount" : 10
+         },
+         "shareToken" : "",
+         "state" : 0
+      },
+      {
+         "activeId" : "1099573115490",
+         "dongCoupon" : {
+            "discount" : 50,
+            "quato" : 100
+         },
+         "endTime" : 0,
+         "favNum" : 5,
+         "favPin" : null,
+         "giftId" : "84487",
+         "giftLeftState" : 0,
+         "giftType" : 1,
+         "shareToken" : "",
+         "state" : 0
+      }
+   ],
+   "helpFav" : 0,
+   "iRet" : "0"
+}
+);}catch(e){}
+
+
+try{jsonpCBKC({
+   "errMsg" : "",
+   "fan" : 0,
+   "gift" : [
+      {
+         "activeId" : "1099573250188",
+         "dongCoupon" : {
+            "discount" : 5,
+            "quato" : 268
+         },
+         "endTime" : 1552811699,
+         "favNum" : 0,
+         "favPin" : null,
+         "giftId" : "111329",
+         "giftLeftState" : 0,
+         "giftType" : 0,
+         "jingBean" : {
+            "sendCount" : 1
+         },
+         "point" : {
+            "sendCount" : 50
+         },
+         "shareToken" : "",
+         "state" : 4
+      }
+   ],
+   "helpFav" : 0,
+   "iRet" : "0"
+}
+);}catch(e){}
+
+------------------------------
+
+try{jsonpCBKC({
+   "errMsg" : "",
+   "fan" : 0,
+   "gift" : null,
+   "helpFav" : 0,
+   "iRet" : "0"
+}
+);}catch(e){}
+
+
+------------------------------------
+https://wq.jd.com/fav_snsgift/QueryShopActive?venderId=10087045&_=1552643128743&sceneval=2&g_login_type=1&callback=jsonpCBKC&g_tk=1018150000&g_ty=ls
+
+:authority: wq.jd.com
+:method: GET
+:path: /fav_snsgift/QueryShopActive?venderId=10087045&_=1552643128743&sceneval=2&g_login_type=1&callback=jsonpCBKC&g_tk=1018150000&g_ty=ls
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie:
+referer: https://shop.m.jd.com/?shopId=929448&cu=true&logid=1552632452028.401539202&PTAG=17053.1.1&from=groupmessage&isappinstalled=0&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1001385128_&utm_term=0822cd97bd1d49149d4cefcb825bbd18
+user-agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+
+
+
+try{jsonpCBKC({
+   "errMsg" : "",
+   "fan" : 0,
+   "gift" : [
+      {
+         "activeId" : "1099573252998",
+         "endTime" : 1552641014,
+         "favNum" : 0,
+         "favPin" : null,
+         "giftId" : "118266",
+         "giftLeftState" : 0,
+         "giftType" : 0,
+         "jingBean" : {
+            "sendCount" : 5
+         },
+         "shareToken" : "",
+         "state" : 4
+      },
+      {
+         "activeId" : "1099573252998",
+         "endTime" : 0,
+         "favNum" : 3,
+         "favPin" : null,
+         "giftId" : "118267",
+         "giftLeftState" : 0,
+         "giftType" : 1,
+         "jingCoupon" : {
+            "discount" : 1
+         },
+         "shareToken" : "",
+         "state" : 0
+      }
+   ],
+   "helpFav" : 0,
+   "iRet" : "0"
+}
+);}catch(e){}
+
+
+--------------------------------------
+https://wq.jd.com/fav_snsgift/QueryShopActive?venderId=681974&_=1552643481890&sceneval=2&g_login_type=1&callback=jsonpCBKC&g_tk=1018150000&g_ty=ls
+
+try{jsonpCBKC({
+   "errMsg" : "",
+   "fan" : 0,
+   "gift" : [
+      {
+         "activeId" : "1099573253894",
+         "dongCoupon" : {
+            "discount" : 10,
+            "quato" : 100
+         },
+         "endTime" : 0,
+         "favNum" : 0,
+         "favPin" : null,
+         "giftId" : "117882",
+         "giftLeftState" : 0,
+         "giftType" : 0,
+         "jingBean" : {
+            "sendCount" : 2
+         },
+         "shareToken" : "",
+         "state" : 1
+      },
+      {
+         "activeId" : "1099573253894",
+         "dongCoupon" : {
+            "discount" : 10,
+            "quato" : 100
+         },
+         "endTime" : 0,
+         "favNum" : 3,
+         "favPin" : null,
+         "giftId" : "117883",
+         "giftLeftState" : 0,
+         "giftType" : 1,
+         "jingBean" : {
+            "sendCount" : 1
+         },
+         "shareToken" : "",
+         "state" : 0
+      }
+   ],
+   "helpFav" : 0,
+   "iRet" : "0"
+}
+);}catch(e){}
+
+
+https://wq.jd.com/fav_snsgift/addfavgiftshop?venderId=681974&shareToken=&_=1552643602993&sceneval=2&g_login_type=1&callback=jsonpCBKN&g_tk=1018150000&g_ty=ls
+
+try{jsonpCBKN({
+   "errMsg" : "success",
+   "iRet" : "0"
+}
+);}catch(e){}
+
+-----------------------------------------------------
+https://wq.jd.com/fav_snsgift/GiveShopGift?venderId=681974&activeId=1099573253894&giftId=117882&_=1552643604211&sceneval=2&g_login_type=1&callback=jsonpCBKP&g_tk=1018150000&g_ty=ls
+
+
+:authority: wq.jd.com
+:method: GET
+:path: /fav_snsgift/GiveShopGift?venderId=681974&activeId=1099573253894&giftId=117882&_=1552643604211&sceneval=2&g_login_type=1&callback=jsonpCBKP&g_tk=1018150000&g_ty=ls
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie: 
+referer: https://shop.m.jd.com/?shopId=677533&cu=true&logid=1552641304962.1193856475&PTAG=17053.1.1&from=groupmessage&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1001385128_&utm_term=3659b8436ac548a69f91fb564d53c5bb
+user-agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+
+try{jsonpCBKP({
+   "errMsg" : "success.",
+   "retCode" : 0
+}
+);}catch(e){}
+
+
+

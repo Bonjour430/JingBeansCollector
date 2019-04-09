@@ -1,0 +1,113 @@
+http://wq.jd.com/mjgj/column/QueryShopSignDraw?channel=2&venderId=755989&_=1552444345044&sceneval=2&g_login_type=1&callback=jsonpCBKB&g_tk=1245070929&g_ty=ls
+
+http://wq.jd.com/mjgj/column/QueryShopSignDraw?channel=2&venderId=1000001859&_=1552459583750&sceneval=2&g_login_type=1&callback=jsonpCBKB&g_tk=170665066&g_ty=ls
+
+GET /mjgj/column/QueryShopSignDraw?channel=2&venderId=755989&_=1552444345044&sceneval=2&g_login_type=1&callback=jsonpCBKB&g_tk=1245070929&g_ty=ls HTTP/1.1
+Host: wq.jd.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Accept: */*
+Referer: http://shop.m.jd.com/?shopId=751791&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1001385128_&utm_term=992b1f99df0f41d99448a8a516f65dbc
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie:
+
+jsonpCBKB({"errcode":17,"msg":"no valid activity","data":{}});
+
+
+jsonpCBKB({
+	"errcode": 0,
+	"msg": "succ",
+	"data": {
+		"pinStatus": "1",
+		"pinEnterType": "0",
+		"type": "1",
+		"code": "0",
+		"source": "3",
+		"isvurl": "https://lzkj-isv.isvjcloud.com/sign/signActivity?activityId=ee6bbff8a06f4a8dbaa67cd9843bc14f&venderId=681974",  抽奖链接
+		"share": "0",
+		"beginTime": "1552546456000",
+		"endTime": "1554047940000",
+		"day1": "0",
+		"day2": "0",
+		"history": [],
+		"prizeRule": [],
+		"skuList": [],
+		"signInfo": []
+	}
+});
+
+
+
+https://lzkj-isv.isvjcloud.com/sign/wx/signUp
+POST /sign/wx/signUp HTTP/1.1
+Host: lzkj-isv.isvjcloud.com
+Connection: keep-alive
+Content-Length: 63
+Accept: application/json
+Origin: https://lzkj-isv.isvjcloud.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: https://lzkj-isv.isvjcloud.com/sign/signActivity?activityId=ee6bbff8a06f4a8dbaa67cd9843bc14f&venderId=681974&wqType=1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: JSESSIONID=D8EFF34937080986B0344C625223E2ED; route=33d367d198b9ee00bffa0339efd2498e; lz_wq_auth_token=FBE7AE26C52C69079C8118557135D8A6858B44BC7163293AA874A1E57100539B
+
+form data:
+actId=ee6bbff8a06f4a8dbaa67cd9843bc14f&pin=chenbenqing530905787
+
+
+{
+	"gift": {
+		"id": "19843",
+		"giftType": "8",
+		"giftName": "样品专享价一份",
+		"giftNum": "1",
+		"priceInfo": "1.00",
+		"shortLink": "https://item.jd.com/29191638872.html",
+		"orginLink": null
+	},
+	"msg": "",
+	"isOk": true,
+	"key": "ZlcSjx"
+}
+
+---------------------------------------------
+jsonpCBKB({
+	"errcode": 0,
+	"msg": "success",
+	"data": {
+		"pinStatus": "1",
+		"pinEnterType": "0",
+		"type": "0",
+		"code": "0",
+		"source": "2",
+		"isvurl": "",
+		"share": "1",
+		"beginTime": "1550487600000",
+		"endTime": "1552838340000",
+		"day1": "1",
+		"day2": "0",
+
+	}
+});
+
+jsonpCBKB({
+	"errcode": 0,
+	"msg": "success",
+	"data": {
+		"pinStatus": "1",
+		"pinEnterType": "0",
+		"type": "0",
+		"code": "2",
+		"source": "2",
+		"isvurl": "",
+		"share": "1",
+		"beginTime": "1550487600000",
+		"endTime": "1552838340000",
+		"day1": "2",
+		"day2": "1",
+
+	}
+});
